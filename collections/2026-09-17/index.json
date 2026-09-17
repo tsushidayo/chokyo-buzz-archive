@@ -1,0 +1,22 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ジャンル横断",
+  "period": "day",
+  "collectedAt": "2026-09-17T14:25:42.439896+00:00",
+  "target": 1000,
+  "minLikes": 100,
+  "minViews": 10000,
+  "count": 1000,
+  "likesMin": 104,
+  "viewsMin": 10118,
+  "note": "いいね100以上・表示1万以上のバズ1000件。ジャンル／キーワード横断の公開ポスト。",
+  "files": [
+    "catalog-1.json",
+    "catalog-2.json",
+    "catalog-3.json",
+    "catalog-4.json",
+    "catalog-5.json",
+    "ima-1000.json"
+  ],
+  "github": "collections/2026-09-17/ima-1000.json"
+}
