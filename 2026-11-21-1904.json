@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T10:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2123904816397307927",
+      "url": "https://x.com/yousuck2020/status/2123904816397307927",
+      "handle": "yousuck2020",
+      "text": "【アシスタント募集】\n前澤のプライベートアシスタントを募集します。自宅での掃除・洗濯・犬猫のお世話から、ヨットやジェットで行く国内外の旅行・出張の同行まで、前澤の側近として、あらゆることに好奇心を持ち、前向きに楽しみながら取り組める方を募集します。興味ある方は以下をご確認ください。（添付画像は主な職場です）",
+      "likes": 12451,
+      "rts": 811,
+      "replies": 414,
+      "views": 4481707,
+      "time": "2026-11-20T22:22:23Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124020249490252024",
+      "url": "https://x.com/modelpress/status/2124020249490252024",
+      "handle": "modelpress",
+      "text": "【🩵TGC富山2026🩵】\n\nとうあ、立体的ヘッドドレスで存在感🤍\nワンショルから美肩覗く✨\nhttps://mdpr.jp/news/4880681\n\n#TGC富山 @___2toua2___",
+      "likes": 5483,
+      "rts": 629,
+      "replies": 171,
+      "views": 1428257,
+      "time": "2026-11-21T06:01:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124034329357451268",
+      "url": "https://x.com/omarupolka/status/2124034329357451268",
+      "handle": "omarupolka",
+      "text": "⚠️突然ですが、みんなの「高い買い物」を教えてください！⚠️\n\n今までで一番高かった買い物や、最近した高額な買い物など、みんなが思い切って購入したものを大募集します！💸\n\n買った理由や、購入するまでの葛藤、買ってよかったこと・後悔したことなど、買い物にまつわるエピソードもぜひ教えてください！\n\nハッシュタグ、またはこのツイートのリプライでも大丈夫です！！\n※企画で使用いたします！ #尾丸投げ まで！！",
+      "likes": 3708,
+      "rts": 556,
+      "replies": 624,
+      "views": 168915,
+      "time": "2026-11-21T06:57:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2122890028175306806",
+      "url": "https://x.com/thanko_web/status/2122890028175306806",
+      "handle": "thanko_web",
+      "text": "今年もシャーケッケッケッ…🎄🐟",
+      "likes": 34200,
+      "rts": 11871,
+      "replies": 366,
+      "views": 1439129,
+      "time": "2026-11-18T03:09:58Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124027569041449183",
+      "url": "https://x.com/geographybu/status/2124027569041449183",
+      "handle": "geographybu",
+      "text": "全国47都道府県のみなさんにお願いです。\n\n初見では絶対に読めない「地元の地名」を1つ教えてください。\n\nただし、ふりがなは禁止！\n\n【都道府県名＋地名】だけでOK。\n\n他県の人は、読めたら返信で挑戦してください。\n\n日本全国の難読地名、どこまで読めるか試したい。",
+      "likes": 1129,
+      "rts": 221,
+      "replies": 1729,
+      "views": 413211,
+      "time": "2026-11-21T06:30:09Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124065345879343546",
+      "url": "https://x.com/SPUR_magazine/status/2124065345879343546",
+      "handle": "SPUR_magazine",
+      "text": "BE:FIRSTの6人が「50秒Q＆A」に挑戦！ 個性あふれる回答はもちろん、思わず笑顔になるオープニングもお楽しみください。\n#BEFIRST\n\n🔻 #シュプール1月号　購入はこちら\nhttps://www.amazon.co.jp/dp/B0HLYZH2YP?_encoding=UTF8&psc=1&ref=cm_sw_r_ffobk_cp_ud_dp_S2J83VDST1PB5SNPEP5A&ref_=cm_sw_r_ffobk_cp_ud_dp_S2J83VDST1PB5SNPEP5A&social_share=cm_sw_r_ffobk_cp_ud_dp_S2J83VDST1PB5SNPEP5A&bestFormat=true",
+      "likes": 5440,
+      "rts": 1755,
+      "replies": 13,
+      "views": 50916,
+      "time": "2026-11-21T09:00:16Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123945270140649972",
+      "url": "https://x.com/y_taka_23/status/2123945270140649972",
+      "handle": "y_taka_23",
+      "text": "新刊『コンパイラ証明技法』が出ます！ #技術書典\n\nまさに今、リーマン予想でも話題の定理証明支援系 Lean の同人誌。AI に丸投げではなくきちんと理解したいあなたのために、本書では Lean でゼロから Wasm コンパイラを実装し、手を動かしながら「正しさ」を証明します。購入用 URL はリプライへ！",
+      "likes": 631,
+      "rts": 155,
+      "replies": 3,
+      "views": 30087,
+      "time": "2026-11-21T01:03:08Z",
+      "query": "エンタメ"
+    }
+  ]
+}
