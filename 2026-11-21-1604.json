@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T07:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124034871224115478",
+      "url": "https://x.com/prompt_fmarinos/status/2124034871224115478",
+      "handle": "prompt_fmarinos",
+      "text": "𝕁𝕐𝕇𝕇 𝕏𝕀𝕈𝔼\n\n明治安田 J1リーグ 第15節 \nサンフレッチェ広島 2-2 横浜F・マリノス \n\n#fmarinos｜#Jリーグ｜#UFAS",
+      "likes": 882,
+      "rts": 226,
+      "replies": 68,
+      "views": 16955,
+      "time": "2026-11-21T06:59:10Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124034432416059780",
+      "url": "https://x.com/prompt_fmarinos/status/2124034432416059780",
+      "handle": "prompt_fmarinos",
+      "text": "𝕂𝕊𝕊𝕊𝔼𝕇!!\n\n90分+3 #二田理央\nサンフレッチェ広島 2-2 横浜F・マリノス \n\n@DAZN_JPN でライブ配信中\n\n#fmarinos｜#Jリーグ｜#キュービックプラザ新横浜",
+      "likes": 906,
+      "rts": 218,
+      "replies": 14,
+      "views": 16692,
+      "time": "2026-11-21T06:57:25Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124034077686997151",
+      "url": "https://x.com/albirex_pr/status/2124034077686997151",
+      "handle": "albirex_pr",
+      "text": "試合終了\n\n🏆明治安田J2リーグ 第18節\n#栃木シティ 0-3 #アルビレックス新潟\n\n#albirex",
+      "likes": 966,
+      "rts": 264,
+      "replies": 46,
+      "views": 17976,
+      "time": "2026-11-21T06:56:01Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124034614302015789",
+      "url": "https://x.com/sanfrecce_SFC/status/2124034614302015789",
+      "handle": "sanfrecce_SFC",
+      "text": "𝕁𝕐𝕇𝕇 𝕏𝕀𝕈𝔼\n\n広島 2-2 横浜FM\n\n⚽鮎川峻\n⚽菅大輝\n\n#sanfrecce #ONEVIOLET #Jリーグ",
+      "likes": 270,
+      "rts": 81,
+      "replies": 40,
+      "views": 14843,
+      "time": "2026-11-21T06:58:09Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124032624566075590",
+      "url": "https://x.com/fctokyoofficial/status/2124032624566075590",
+      "handle": "fctokyoofficial",
+      "text": "🔵🔴\n⏰𝐇𝐀𝐋𝐅 𝐓𝐈𝐌𝐄 #TokyoCOsaka\n\n2026/27明治安田Ｊ１リーグ 第15節\n#セレッソ大阪 0-1 #FC東京\n\n#DAZN で配信中✨\n\n#fctokyo #tokyo",
+      "likes": 533,
+      "rts": 79,
+      "replies": 6,
+      "views": 12218,
+      "time": "2026-11-21T06:50:14Z",
+      "query": "スポーツ"
+    }
+  ]
+}
