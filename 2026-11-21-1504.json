@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T06:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124019980585074815",
+      "url": "https://x.com/NIKKE_japan/status/2124019980585074815",
+      "handle": "NIKKE_japan",
+      "text": "【#NIKKE オケコンPV公開】\n『勝利の女神：NIKKE』オーケストラコンサート「NIKKE ORCHESTRAL CONCERT Echoes of Eternity」のPV Full Ver.を公開します！\n\nさらに、ただいまチケットの二次抽選受付中🎫\n\nおなじみの旋律が、再びコンサートホールに響き渡る――\n心に残るひとときを、ぜひ会場でお過ごしください♬\n\n◆公演情報\n開催日：2027年1月9日(土)\n会場：パシフィコ横浜 国立大ホール\n\n◆受付締切\n11月29日23:59\n\n詳細はスレッド内のURLよりご確認ください。\n\n#NIKKEconcert2027 #ニケオケコン2027",
+      "likes": 541,
+      "rts": 183,
+      "replies": 6,
+      "views": 23102,
+      "time": "2026-11-21T06:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124019987517976773",
+      "url": "https://x.com/pj_sekai/status/2124019987517976773",
+      "handle": "pj_sekai",
+      "text": "📝1枚でわかる！\nワンダーランズ×ショウタイム👑\n\nワンダーランズ×ショウタイムメンバーの「今」を1枚でご紹介✨\n\nこれまでのキーストーリーを振り返る総集編イベントも開催中📖\n\n#プロセカ #ワンダショ",
+      "likes": 705,
+      "rts": 237,
+      "replies": 0,
+      "views": 31157,
+      "time": "2026-11-21T06:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124014848136913375",
+      "url": "https://x.com/REDSOFFICIAL/status/2124014848136913375",
+      "handle": "REDSOFFICIAL",
+      "text": "𝗖𝗠𝗔𝗛❗️ \n\nvs 京都 1-0\n\n得点者\n35分 #渡邊凌磨\n\n⚽️スコア速報\nhttps://www.urawa-reds.co.jp/game/report/\n\n#UrawaRedDiamonds #urawareds #浦和レッズ #WeareREDS\n#Jリーグ",
+      "likes": 1553,
+      "rts": 300,
+      "replies": 23,
+      "views": 29823,
+      "time": "2026-11-21T05:39:36Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124020155823034842",
+      "url": "https://x.com/jujutsuphanpara/status/2124020155823034842",
+      "handle": "jujutsuphanpara",
+      "text": "／\n#ファンパレ3rdアニバーサリー\nガチャチケットをGETしよう！\n＼\n\n「3rdアニバーサリーガチャ -第1弾-チケット×10」をプレゼント！\nさらに、「3rdアニバーサリーガチャ -第1弾-チケット×10」と交換できるシリアルコードを公開いたします！\n\n▼シリアルコード\nJJ14RG38QPBKEDZW\n\n▼プレゼント受け取り期限・シリアルコード有効期限\n〜 2027/1/3(日) 14:59\n\n▼公式WEBショップ\nhttps://t.co/b4E0kGmiAC \n\n詳細はゲーム内お知らせをご確認ください。\n\n#ファンパレ #呪術廻戦",
+      "likes": 556,
+      "rts": 138,
+      "replies": 15,
+      "views": 33906,
+      "time": "2026-11-21T06:00:42Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124020108591059189",
+      "url": "https://x.com/ROF_MAO/status/2124020108591059189",
+      "handle": "ROF_MAO",
+      "text": "【プレイリスト情報📢】\nSpotify @SpotifyJP プレイリスト「Sound of VSinger」のカバーにROF-MAOが登場！\nhttps://open.spotify.com/intl-ja/playlist/37i9dQZF1DWZB1E40B5PD8\n\n#ろふまお #ROFMAO",
+      "likes": 1328,
+      "rts": 375,
+      "replies": 0,
+      "views": 19937,
+      "time": "2026-11-21T06:00:30Z",
+      "query": "エンタメ"
+    }
+  ]
+}
