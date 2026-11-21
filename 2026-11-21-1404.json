@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T05:06:09.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124002575351767492",
+      "url": "https://x.com/GAMBA_OFFICIAL/status/2124002575351767492",
+      "handle": "GAMBA_OFFICIAL",
+      "text": "🔵𝗦𝗧𝗔𝗥𝗧𝗜𝗡𝗖 𝗟𝗜𝗡𝗘-𝗨𝗣⚫️\n\n🏆 2026/27 明治安田J１リーグ 第15節\n🆚#ファジアーノ岡山\n📅11/21（土）\n⏰16:00\n🏟️#パナソニックスタジアム吹田\n\n試合を観るなら▶️@DAZN_JPN\n登録は▶️https://www.dazn.com/ja-JP/welcome?utm_source=awin&sv1=affiliate&sv_campaign_id=2927401&awc=126245_1795235766_aaf80015959c659e30edeea5800b31d1&utm_source=awin&sv1=affiliate&sv_campaign_id=2927401&et_uk=ecd5b1659e6c494cb81c277e2f80b441&et_gk=\n\n#ガンバ大阪 #GAMBAOSAKA",
+      "likes": 724,
+      "rts": 241,
+      "replies": 27,
+      "views": 22787,
+      "time": "2026-11-21T04:50:50Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123999550067318930",
+      "url": "https://x.com/hochi_giants/status/2123999550067318930",
+      "handle": "hochi_giants",
+      "text": "ジャイアンツ球場\n#小林誠司 捕手は楽天へ移籍した #甲斐拓也 捕手からもらったというミットを使ってキャッチボールを行なっていました✨️\n\nカメラ: @tkphoto1234",
+      "likes": 516,
+      "rts": 55,
+      "replies": 2,
+      "views": 17068,
+      "time": "2026-11-21T04:38:49Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123998471166541991",
+      "url": "https://x.com/FightersPR/status/2123998471166541991",
+      "handle": "FightersPR",
+      "text": "リアル野球盤を楽しむ五十幡亮汰選手⚾️\n\n#FFES2026\n#lovefighters",
+      "likes": 679,
+      "rts": 66,
+      "replies": 1,
+      "views": 22870,
+      "time": "2026-11-21T04:34:32Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123747316117221568",
+      "url": "https://x.com/atlrs_official/status/2123747316117221568",
+      "handle": "atlrs_official",
+      "text": "🔴 11/20 🆚清水🔴\n#鹿島アントラーズ #共闘 #日本製鉄 @nippon_steel_\n\n試合終了。1-1。\n\n今日も最後の最後まで共に闘ってくださって、本当にありがとうございました。\n\n🔻清水戦の試合情報はこちら🔻\n🔗https://www.antlers.co.jp/blogs/games/20260616132618",
+      "likes": 1284,
+      "rts": 236,
+      "replies": 162,
+      "views": 145953,
+      "time": "2026-11-20T11:56:32Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123735910701510890",
+      "url": "https://x.com/visselkobe/status/2123735910701510890",
+      "handle": "visselkobe",
+      "text": "[51'] #大迫勇也 !!\n\nVISSEL KOBE 1-1 MITO HOLLYHOCK\n\n試合中継は @DAZN_JPN 📽️\n視聴は⏩https://www.dazn.com/ja-JP/competitor/Competitor:bbt5nqwufsne7r0zfa6pvpmfa?scid=su_16683\n\n#visselkobe #ヴィッセル神戸",
+      "likes": 868,
+      "rts": 123,
+      "replies": 19,
+      "views": 35999,
+      "time": "2026-11-20T11:11:12Z",
+      "query": "スポーツ"
+    }
+  ]
+}
