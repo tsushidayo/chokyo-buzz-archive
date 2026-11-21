@@ -1,0 +1,110 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": ["エンタメ"],
+  "period": "28d",
+  "collectedAt": "2026-11-21T02:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 8,
+  "posts": [
+    {
+      "id": "2123788952792629611",
+      "url": "https://x.com/fujiikazestaff/status/2123788952792629611",
+      "handle": "fujiikazestaff",
+      "text": "【藤井風 ピアノリサイタル】\n\n11/21(土)東京ドームDay2公演のYouTube生中継が緊急決定！\n\n📹 11/21(土) 18:00~[JST] 生中継スタート\nhttps://www.youtube.com/live/5NVHDHDvdNI",
+      "likes": 47284,
+      "rts": 7964,
+      "replies": 1,
+      "views": 918428,
+      "time": "2026-11-20T14:41:59Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123749131974054364",
+      "url": "https://x.com/inabakite/status/2123749131974054364",
+      "handle": "inabakite",
+      "text": "カービィ連れてかれていった",
+      "likes": 23280,
+      "rts": 1968,
+      "replies": 73,
+      "views": 1059236,
+      "time": "2026-11-20T12:03:45Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123831804683796895",
+      "url": "https://x.com/migihida44/status/2123831804683796895",
+      "handle": "migihida44",
+      "text": "コストコ",
+      "likes": 37789,
+      "rts": 2402,
+      "replies": 35,
+      "views": 477335,
+      "time": "2026-11-20T17:32:15Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2121558594353275188",
+      "url": "https://x.com/s0_hi/status/2121558594353275188",
+      "handle": "s0_hi",
+      "text": "色んな国の皆さん！！！\n猫の写真を下さい！！！！",
+      "likes": 20158,
+      "rts": 1452,
+      "replies": 3492,
+      "views": 790573,
+      "time": "2026-11-14T10:59:20Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123959293519233163",
+      "url": "https://x.com/Vamp_Kuzu/status/2123959293519233163",
+      "handle": "Vamp_Kuzu",
+      "text": "LTK勝つ",
+      "likes": 3530,
+      "rts": 872,
+      "replies": 531,
+      "views": 39202,
+      "time": "2026-11-21T01:58:51Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123907237106364495",
+      "url": "https://x.com/tweetsoku1/status/2123907237106364495",
+      "handle": "tweetsoku1",
+      "text": "【悲報】日本、マンション所有者への「空室税」を導入へＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷＷ\n\n転勤などの事情なら3年間は免除です。 https://tweetsoku.news/2026/11/21/%e3%80%90%e6%82%b2%e5%a0%b1%e3%80%91%e6%97%a5%e6%9c%ac%e3%80%81%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3%e6%89%80%e6%9c%89%e8%80%85%e3%81%b8%e3%81%ae%e3%80%8c%e7%a9%ba%e5%ae%a4%e7%a8%8e%e3%80%8d/",
+      "likes": 846,
+      "rts": 215,
+      "replies": 53,
+      "views": 76512,
+      "time": "2026-11-20T22:32:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123762950280536526",
+      "url": "https://x.com/jurian2nd/status/2123762950280536526",
+      "handle": "jurian2nd",
+      "text": "ひぃーーーーーーーーっ‼️😱😂🤣🤣🤣🤣🤣🤣🤣🤣",
+      "likes": 6025,
+      "rts": 620,
+      "replies": 303,
+      "views": 359915,
+      "time": "2026-11-20T12:58:39Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123918068221108671",
+      "url": "https://x.com/tan_sui_kabutz/status/2123918068221108671",
+      "handle": "tan_sui_kabutz",
+      "text": "突然ですが「ラッコ・カワウソはいいぞ大会」を開催します！みなさんが自分で撮った写真を見せてください。枚数制限無し・動画やイラスト・グッズもOKですがリンク貼付はNGです。リプ欄の写真も素敵だと思ったらぜひ積極的にいいねをお願いします。\n\n※画像の無断転載はやめてください。",
+      "likes": 761,
+      "rts": 77,
+      "replies": 50,
+      "views": 15402,
+      "time": "2026-11-20T23:15:02Z",
+      "query": "エンタメ"
+    }
+  ]
+}
