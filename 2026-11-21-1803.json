@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T09:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2124064371211116623",
+      "url": "https://x.com/GAMBA_OFFICIAL/status/2124064371211116623",
+      "handle": "GAMBA_OFFICIAL",
+      "text": "90分( +4 )　試合終了 明治安田J1リーグ 第15節 G大阪0-1 岡山［パナスタ］ #ガンバ大阪 #GAMBAOSAKA https://www.gamba-osaka.net/c/game/2627/1046.html",
+      "likes": 250,
+      "rts": 92,
+      "replies": 175,
+      "views": 28826,
+      "time": "2026-11-21T08:56:23Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124063567364411543",
+      "url": "https://x.com/ydb_yokohama/status/2124063567364411543",
+      "handle": "ydb_yokohama",
+      "text": "『B-SIDE HOLIDAYS 2026 YOKOHAMA DeNA BAYSTARS Supported by 横濱ハーバー』\n\n #佐野恵太 選手と #岩田将貴  選手のインスタライブでのスクショタイムをお裾分け😆✨\n\n#Bホリ #Bホリフォト \n#baystars",
+      "likes": 302,
+      "rts": 35,
+      "replies": 1,
+      "views": 11242,
+      "time": "2026-11-21T08:53:12Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124060901162836068",
+      "url": "https://x.com/Fooootest/status/2124060901162836068",
+      "handle": "Fooootest",
+      "text": "🚨公式発表🚨\n\n吉田麻也がLAギャラクシーを退団🇯🇵✨\n\n今後の去就は未定で、38歳の大ベテランはJリーグ電撃復帰の可能性も",
+      "likes": 429,
+      "rts": 11,
+      "replies": 3,
+      "views": 12350,
+      "time": "2026-11-21T08:42:36Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124059398884540766",
+      "url": "https://x.com/DAZN_JPN/status/2124059398884540766",
+      "handle": "DAZN_JPN",
+      "text": "点を獲れるボランチが帰ってきた💙❤️\n\n橋本拳人が『自身初』のヒーローインタビュー\nFC東京復帰後初ゴールに喜びを爆発させる💥\n\n🇯🇵明治安田J1リーグ第15節\n🆚C大阪×FC東京\n#Jリーグ #だったらDAZN",
+      "likes": 596,
+      "rts": 122,
+      "replies": 0,
+      "views": 26802,
+      "time": "2026-11-21T08:36:38Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124060244942950767",
+      "url": "https://x.com/fctokyoofficial/status/2124060244942950767",
+      "handle": "fctokyoofficial",
+      "text": "🔵🔴\n𝓣𝓞𝓭𝓪𝓎'𝐬 𝓖𝓞𝓐𝓙 #TokyoCOsaka\n#橋本拳人 選手が #FC東京 で2019シーズン以来となる歓喜のゴール!!\nゴール前での一瞬の隙を見逃さず確実に押し込み、メモリアルな一撃で勝利を決定づける3点目を奪取!!🔵🔴\n\n#fctokyo #tokyo",
+      "likes": 593,
+      "rts": 122,
+      "replies": 0,
+      "views": 10559,
+      "time": "2026-11-21T08:40:00Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124058986999853312",
+      "url": "https://x.com/HAWKS_official/status/2124058986999853312",
+      "handle": "HAWKS_official",
+      "text": "2026年7月23日 #柳田悠岐 選手がサヨナラタイムリー\nこの伝統を、次の姿へ\n\n2026年11月22日 新レギュラーユニフォーム公開\n#ユニフォームの記憶\n#sbhawks",
+      "likes": 1605,
+      "rts": 208,
+      "replies": 1,
+      "views": 28364,
+      "time": "2026-11-21T08:35:00Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124057959957491873",
+      "url": "https://x.com/ydb_yokohama/status/2124057959957491873",
+      "handle": "ydb_yokohama",
+      "text": "『B-SIDE HOLIDAYS 2026 YOKOHAMA DeNA BAYSTARS Supported by 横濱ハーバー』\n\nTHE LIVE Supported by 大和地所スペシャルコンテンツ🎙️ #佐野恵太 選手と #岩田将貴  選手によるトークショー！✨\n\n次回の球団公式Instagramでのライブ配信は18:15頃から開始予定です！\nどうぞお見逃しなく👀\n\n球団公式Instagramはこちら\nhttps://t.co/jyndC3gmxG\n\n#Bホリ #Bホリフォト \n#baystars",
+      "likes": 507,
+      "rts": 72,
+      "replies": 0,
+      "views": 19315,
+      "time": "2026-11-21T08:30:55Z",
+      "query": "スポーツ"
+    }
+  ]
+}
