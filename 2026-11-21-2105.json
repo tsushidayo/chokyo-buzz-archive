@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T12:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2124080391388839943",
+      "url": "https://x.com/Genshin_7/status/2124080391388839943",
+      "handle": "Genshin_7",
+      "text": "【声優インタビュー】\n#バレリー 役を務める声優、古川慎さんの収録後キャストインタビュームービーを公開しました。\n\n🎁フォロー＆リポストで\n抽選で2名様に #古川慎 さんのサイン色紙をプレゼント！\n\n#原神 #Genshin",
+      "likes": 11915,
+      "rts": 6078,
+      "replies": 35,
+      "views": 450513,
+      "time": "2026-11-21T10:00:03Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123990192692265289",
+      "url": "https://x.com/yagate149/status/2123990192692265289",
+      "handle": "yagate149",
+      "text": "人外おじさんと少女　まとめ\n\n#一次創作祭り冬の陣 2026",
+      "likes": 37630,
+      "rts": 3256,
+      "replies": 18,
+      "views": 946712,
+      "time": "2026-11-21T04:01:38Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124110727900536925",
+      "url": "https://x.com/nijisanji_app/status/2124110727900536925",
+      "handle": "nijisanji_app",
+      "text": "【#にじさんじLリーグ 終了！】\n\n「にじさんじ麻雀杯 Lリーグ2026」ご視聴ありがとうございました！\n\n優勝チームは #ピンクモルガナイト！！\nおめでとうございます🎉\n\n▼本日のアーカイブはこちら\nhttps://www.youtube.com/live/kW1XMA0Asxc",
+      "likes": 1863,
+      "rts": 441,
+      "replies": 0,
+      "views": 69067,
+      "time": "2026-11-21T12:00:36Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124111082856050711",
+      "url": "https://x.com/official_jo1/status/2124111082856050711",
+      "handle": "official_jo1",
+      "text": "2026.11.21\n📸 テレビ朝日ドリームフェスティバル2026\n\n✈️Profile\nhttps://jo1.jp/feature/profile_kinjo-sukai\n🎧TODAY'S SETLIST\nhttps://lnk.to/dreamfes2026\n\n#テレ朝ドリフェス\n#JO1 #金城碧海 #SKY",
+      "likes": 1659,
+      "rts": 523,
+      "replies": 17,
+      "views": 25440,
+      "time": "2026-11-21T12:02:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124110662460960772",
+      "url": "https://x.com/Taiga_Kaminaga/status/2124110662460960772",
+      "handle": "Taiga_Kaminaga",
+      "text": "#にじさんじLリーグ ありがとうございました！🀄\n\n航先生コーチ門下で麻雀の楽しさから教えていただき、弦月先輩におんぶにだっこに\n、セラフ先輩のかっこいい背中を見ながら過ごせた時間が楽しすぎました！！！\nお喋りしてた時間も楽しかった🎻🎻🎻\n\n北海道カタログギフト！嬉しいなー！！！\n応援ありがとうございました！！！\n#イエロートパーズ 最高やー！！！",
+      "likes": 1866,
+      "rts": 418,
+      "replies": 79,
+      "views": 17154,
+      "time": "2026-11-21T12:00:20Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124052027206754503",
+      "url": "https://x.com/jel_sub/status/2124052027206754503",
+      "handle": "jel_sub",
+      "text": "今日はレコーディングしてきた！🎤✨\n\n今週は動画撮影もいっぱいしたし\nなかなか頑張ったんちゃう俺☺️\n\nそんな自分にはなまるあげとこ🍀",
+      "likes": 6241,
+      "rts": 963,
+      "replies": 1132,
+      "views": 53454,
+      "time": "2026-11-21T08:07:20Z",
+      "query": "エンタメ"
+    }
+  ]
+}
