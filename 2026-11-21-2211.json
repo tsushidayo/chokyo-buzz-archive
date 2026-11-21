@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T13:11:03.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2124114360415256895",
+      "url": "https://x.com/FightersPR/status/2124114360415256895",
+      "handle": "FightersPR",
+      "text": "前日公開練習⚾\n\n糸井嘉男氏\n森本稀哲氏\n陽岱鋼氏\n稲葉篤紀氏\n\n明日の《FIGHTERS LEGENDS GAME supported by KITAGAS》では、試合前にホームランダービーもあるのでお楽しみに！\n\n#lovefighters",
+      "likes": 896,
+      "rts": 98,
+      "replies": 1,
+      "views": 45024,
+      "time": "2026-11-21T12:15:02Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124095186200621423",
+      "url": "https://x.com/asahi_koshien/status/2124095186200621423",
+      "handle": "asahi_koshien",
+      "text": "◤第57回\n　#明治神宮野球大会◢\n\n神戸医療未来大 × 仙台大\n\n仙台大 新保の2打席連発は大会史上7人目の満塁弾！！\nリーグ二冠の最優秀選手が本領発揮\n\n🔻最新情報は #バーチャル高校野球 で！\nhttps://vk.sportsbull.jp/koshien/?utm_source=vktw&utm_medium=movie&utm_campaign=vk2026jingu",
+      "likes": 313,
+      "rts": 68,
+      "replies": 0,
+      "views": 51591,
+      "time": "2026-11-21T10:58:50Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124109903409316138",
+      "url": "https://x.com/frontale_staff/status/2124109903409316138",
+      "handle": "frontale_staff",
+      "text": "選手・監督コメント、試合レポートを更新しました。\n→https://www.frontale.co.jp/goto_game/2026-27/j_league1/15.html\n\nクラブ創設30周年記念試合。\n大切な一戦をホームU等々力で勝利することができました!\n\n今日、皆さんと喜びを分かち合えたことが何よりうれしいです!\n\n明日はU-21の岡山戦、そして明後日はU等々力でOBドリームマッチ!\n\nこの3連休、まだまだフロンターレと一緒に過ごしましょう!\n\n【広報】#frontale",
+      "likes": 481,
+      "rts": 58,
+      "replies": 0,
+      "views": 12552,
+      "time": "2026-11-21T11:57:19Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124095528694952089",
+      "url": "https://x.com/Rakuten__Eagles/status/2124095528694952089",
+      "handle": "Rakuten__Eagles",
+      "text": "「ろっけんベースボールフェスタ Supported by BASE FOOD」を開催！\n\n一部は小学生、二部は中学生向けに野球指導を行い、子どもたちと一緒に楽しい時間を過ごしました👧👦✨\n\nこちらは青森県🍎\n屋内トレーニングセンター🏟⚾\n\n#太田光 #津留﨑大成 #佐藤直樹\n#德山一翔 #繁永晟 #中沢匠磨 #伊藤大晟\n#RakutenEagles",
+      "likes": 421,
+      "rts": 61,
+      "replies": 0,
+      "views": 20845,
+      "time": "2026-11-21T11:00:12Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124115281987481966",
+      "url": "https://x.com/hochi_giants/status/2124115281987481966",
+      "handle": "hochi_giants",
+      "text": "【巨人】異国の地で防御率１・２６の好成績　松浦慶斗が早くも３勝目　プエルトリコで武者修行\n#巨人 #giants\n\n▼記事を読む▼\nhttps://hochi.news/articles/20261121-OHT1T51318.html",
+      "likes": 167,
+      "rts": 20,
+      "replies": 0,
+      "views": 14107,
+      "time": "2026-11-21T12:18:42Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124109971495457209",
+      "url": "https://x.com/GoalJP_Official/status/2124109971495457209",
+      "handle": "GoalJP_Official",
+      "text": "🔵 長谷部茂利監督がうなる 💥\n\n「あのシュートは素晴らしい。簡単なゴールではないですが、それをいとも簡単に決めることを時々やるので。チームを救ってくれた1点」\n\n川崎フロンターレの伊藤達哉が見事なゴラッソで決勝点を叩き込み、勝利を収めた。\nhttps://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/2026-1121-kawasaki-fro-goal-hasebe-jp/bltf0e1977958fa7e6d",
+      "likes": 120,
+      "rts": 14,
+      "replies": 2,
+      "views": 12986,
+      "time": "2026-11-21T11:57:35Z",
+      "query": "スポーツ"
+    }
+  ]
+}
