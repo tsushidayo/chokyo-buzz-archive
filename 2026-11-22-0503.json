@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "テック",
+  "genres": [
+    "テック"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T20:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2116457944158253401",
+      "url": "https://x.com/ai_ai_ailover/status/2116457944158253401",
+      "handle": "ai_ai_ailover",
+      "text": "非エンジニアがClaude Codeで開発する時の手順が全部書かれてるな。すごいぞこれ、何でnoteで売らないの？",
+      "likes": 6764,
+      "rts": 381,
+      "replies": 20,
+      "views": 619914,
+      "time": "2026-10-31T09:11:10Z",
+      "query": "テック"
+    },
+    {
+      "id": "2123945270140649972",
+      "url": "https://x.com/y_taka_23/status/2123945270140649972",
+      "handle": "y_taka_23",
+      "text": "新刊『コンパイラ証明技法』が出ます！ #技術書典\n\nまさに今、リーマン予想でも話題の定理証明支援系 Lean の同人誌。AI に丸投げではなくきちんと理解したいあなたのために、本書では Lean でゼロから Wasm コンパイラを実装し、手を動かしながら「正しさ」を証明します。購入用 URL はリプライへ！",
+      "likes": 903,
+      "rts": 206,
+      "replies": 3,
+      "views": 57238,
+      "time": "2026-11-21T01:03:08Z",
+      "query": "テック"
+    },
+    {
+      "id": "2123631275454181856",
+      "url": "https://x.com/nonnbiri_maru/status/2123631275454181856",
+      "handle": "nonnbiri_maru",
+      "text": "我が家のAI状況はこんな感じ\nOpenCodeとChatGPTは今月で解約してClaudeとGeminiだけになる予定\n常時起動予定のAIマシンは3台でMuse互換システムに2台、対話•コーディング用途に1台",
+      "likes": 1735,
+      "rts": 133,
+      "replies": 31,
+      "views": 241890,
+      "time": "2026-11-20T04:15:25Z",
+      "query": "テック"
+    },
+    {
+      "id": "2122228815619641812",
+      "url": "https://x.com/showheyohtaki/status/2122228815619641812",
+      "handle": "showheyohtaki",
+      "text": "AIへの指示用に、\"資料で使う図解・グラフの名前\" をまとめました！\n\nClaudeやChatGPTで資料を作るとき、「いい感じにまとめて」だけでは、見やすくベストな図解は出せない。\n\n「ロジックツリー」「バブルチャート」「スイムレーン図」と名前で頼めば、思い通りの図解を作れます。\n\n保存推奨です🔖",
+      "likes": 1249,
+      "rts": 89,
+      "replies": 11,
+      "views": 94295,
+      "time": "2026-11-16T07:22:33Z",
+      "query": "テック"
+    },
+    {
+      "id": "2121774600321486897",
+      "url": "https://x.com/noa_gpt/status/2121774600321486897",
+      "handle": "noa_gpt",
+      "text": "Museで副業の作業を回すなら、この14個を入れておけばだいたい回る。\n\n全部GitHubで無料公開。\n\n01 Skills → 記事・スライド・表計算を作る、公式のスキル集\nhttps://github.com/anthropics/skills\n\n02 Superpowers → 調べ方から書き方まで、作業の型のスキル集\nhttps://github.com/obra/superpowers\n\n03 Agents → 用途ごとのエージェントとスキルの詰め合わせ\nhttps://t.co/ciHAKJ9LOd\n\n04 grok_x_search → Museの中からXを検索する\nhttps://t.co/wXErySDDXl\n\n05 Firecrawl → サイトを丸ごと読ませて素材にする\nhttps://t.co/XK13NuZ7iK\n\n06 Crawl4AI → Webの情報を自動で集める\nhttps://t.co/RTkVcIRVbE\n\n07 yt-dlp → 動画と音声を手元に取る\nhttps://t.co/P47HSR61Y8\n\n08 Whisper → 音声・動画を文字起こしする\nhttps://t.co/8ZpgxRBqZl\n\n09 MarkItDown → PDFやWordをテキストに変える\nhttps://t.co/pQXcR9l0WU\n\n10 MoneyPrinterTurbo → テーマだけでショート動画を組み立てる\nhttps://t.co/zvtrVRFs4G\n\n11 Remotion Skills → AIに動画を作らせる公式スキル\nhttps://t.co/MY4PYhFO1H\n\n12 ComfyUI → 画像を作る\nhttps://t.co/Er8a7UkSkS\n\n13 F5-TTS → 文章を声に変える\nhttps://t.co/UKkWaxChxD\n\n14 Marp → 文章からスライドを作る\nhttps://t.co/ZJcmviSdPF\n\n調べる → 書く → 動画にする → 声を入れる → 出す、まで全部そろう。\nMuseの仮想マシンにいるClaude Codeに、そのまま渡せます。\n\nあとで絶対使うので保存推奨。",
+      "likes": 1052,
+      "rts": 82,
+      "replies": 28,
+      "views": 129200,
+      "time": "2026-11-15T01:17:40Z",
+      "query": "テック"
+    }
+  ]
+}
