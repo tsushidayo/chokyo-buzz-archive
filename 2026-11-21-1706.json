@@ -1,1 +1,88 @@
-PLACEHOLDER
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T08:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2124050347526434970",
+      "url": "https://x.com/spalik_jp/status/2124050347526434970",
+      "handle": "spalik_jp",
+      "text": "／\n🔔プロメンバーシップ特典 \n11月の特典デコに注目🌟 \n＼\n\nこのデコを使ってあなた好みの\nフォトを作ってみてくださいね🪄💫\nご購入は12/1(火)03:59まで⏰\n\n※フォトは付属いたしません\n#スパリク #ディズニー",
+      "likes": 549,
+      "rts": 82,
+      "replies": 0,
+      "views": 16068,
+      "time": "2026-11-21T08:00:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124050343025922433",
+      "url": "https://x.com/Blue_ArchiveJP/status/2124050343025922433",
+      "handle": "Blue_ArchiveJP",
+      "text": "💎ブルアカプレゼントキャンペーン💎\n\n雲類鷲マナミ役 #内田真礼 さんのサイン入り色紙を抽選で1名様にプレゼント！\n\n🔹応募方法\n@Blue_ArchiveJP をフォロー！\nこのツイートをRT🔁で応募！\n\n🔹締め切り\n2026年11月28日(土)まで\n\n#ブルアカ",
+      "likes": 1880,
+      "rts": 2657,
+      "replies": 12,
+      "views": 46938,
+      "time": "2026-11-21T08:00:39Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124050210481393922",
+      "url": "https://x.com/poke_times/status/2124050210481393922",
+      "handle": "poke_times",
+      "text": "これまでも、これからも。\nずっと相棒でいてね、イーブイ🤎\n\n#イーブイの日 #キミの推しポケムービー",
+      "likes": 509,
+      "rts": 135,
+      "replies": 3,
+      "views": 29216,
+      "time": "2026-11-21T08:00:07Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124050189732204996",
+      "url": "https://x.com/JUMP_Storm/status/2124050189732204996",
+      "handle": "JUMP_Storm",
+      "text": "#JUMP2夜連続 音楽番組出演 ━━━━ 。\n\n11月27日(金)21:00~\nテレビ朝日系「ミュージックステーション」\n🕛「#再会愛Lie期待してCry」\n\n11月28日(土) 5時間生放送！\n日本テレビ系『 #ベストアーティスト2026 』\n🎀「#ハニカミ」\n\nAlbum「Juliet」を聴いて、2夜連続に備えてください。\n▶https://t.co/jY8tNnEEhZ",
+      "likes": 2415,
+      "rts": 650,
+      "replies": 5,
+      "views": 21111,
+      "time": "2026-11-21T08:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124050187505324454",
+      "url": "https://x.com/Cho_KaguyaHime/status/2124050187505324454",
+      "handle": "Cho_KaguyaHime",
+      "text": "今日の晩ご飯に迷っているあなたへ",
+      "likes": 1049,
+      "rts": 418,
+      "replies": 13,
+      "views": 20835,
+      "time": "2026-11-21T08:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124042786156777717",
+      "url": "https://x.com/charisma__house/status/2124042786156777717",
+      "handle": "charisma__house",
+      "text": "＼ #ANIMAXMUSIX 2026 開催中‼️／\n\n七人のカリスマ声優が\n「カリスマジャンボリー」\n「みてみてアニメのカリスマ」\nを披露しました！🎤✨\n\nありがとうございました😆🎶\n\n📺#カリアニ ティザーPVみてみて👀\nhttps://www.youtube.com/watch?v=5JO4G4NRRx0&feature=youtu.be",
+      "likes": 529,
+      "rts": 117,
+      "replies": 0,
+      "views": 13179,
+      "time": "2026-11-21T07:30:37Z",
+      "query": "エンタメ"
+    }
+  ]
+}
