@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T04:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2123737894288588907",
+      "url": "https://x.com/ZZZ_JP/status/2123737894288588907",
+      "handle": "ZZZ_JP",
+      "text": "【新たなコスチューム・第一弾】\n\nロビンのコスチューム「銀河のビート」はVer.3.4アップデート後、「ストア」にて販売予定です！\n※Ver.3.4アップデート後、ログインでコラボ限定S級エージェント「ロビン」を無料で獲得できます。",
+      "likes": 36100,
+      "rts": 8367,
+      "replies": 62,
+      "views": 1237495,
+      "time": "2026-11-20T11:19:05Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2121804142171808225",
+      "url": "https://x.com/denfaminicogame/status/2121804142171808225",
+      "handle": "denfaminicogame",
+      "text": "世界最大級のゲームデータベースサイト『GAMES NEVER DIE！』公開記念！\n\nゲーミングPCを1名様にプレゼント！\n\n@denfaminicogame\nをフォロー&このポストをRPで応募完了\n自分のいちばん好きなゲームのURLを添えて引用RPすると当選確率がアップ！\n\n▼『GAMES NEVER DIE！』\nhttps://gamesneverdie.com/ja",
+      "likes": 15113,
+      "rts": 33221,
+      "replies": 854,
+      "views": 947607,
+      "time": "2026-11-15T03:15:03Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123340505723662682",
+      "url": "https://x.com/famitsu/status/2123340505723662682",
+      "handle": "famitsu",
+      "text": "ついに発売となった『GTA6』をPS5とセットで抽選で1⃣名様にプレゼント🎮✨\n\n■応募方法\n1⃣@famitsu をフォロー\n2⃣https://www.famitsu.com/article/202611/94325 を確認\n3⃣「#ファミ通GTA6プレゼント」を付けてこの投稿を引用RP",
+      "likes": 15805,
+      "rts": 10590,
+      "replies": 1369,
+      "views": 1671744,
+      "time": "2026-11-19T09:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123793535745114272",
+      "url": "https://x.com/BR31_Icecream/status/2123793535745114272",
+      "handle": "BR31_Icecream",
+      "text": "／\n毎日100名、合計1,000名に\neGift1000円分をプレゼント🎁✨\n＼ \n\n10日間連続キャンペーン🍨\n毎日参加👌1日目❣\ufe0f\n\n■応募方法 \n@BR31_Icecreamをフォローして本投稿をリポスト\n最終応募締め切りは11/30(月)23:59まで⏰\n\nご褒美サーティワンしよ 😋",
+      "likes": 6740,
+      "rts": 27406,
+      "replies": 149,
+      "views": 333870,
+      "time": "2026-11-20T15:00:11Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123915641820479874",
+      "url": "https://x.com/kfk_transform14/status/2123915641820479874",
+      "handle": "kfk_transform14",
+      "text": "アルダン\n #ウマ娘",
+      "likes": 7313,
+      "rts": 1309,
+      "replies": 11,
+      "views": 58523,
+      "time": "2026-11-20T23:05:24Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123976337555898475",
+      "url": "https://x.com/jujutsuphanpara/status/2123976337555898475",
+      "handle": "jujutsuphanpara",
+      "text": "#ファンパレ3rdアニバーサリー 記念✨\nハッシュタグ投稿キャンペーン！\n\n抽選で10名様に廻珠×3900をプレゼント！\n\n▼参加方法\n1️⃣本アカウントをフォロー\n2️⃣「#ファンパレ3rdアニバーサリー」を付けて #ファンパレ へのお祝いメッセージを11/21(土) 23:59までにポスト\n\n#ファンパレ #呪術廻戦",
+      "likes": 2123,
+      "rts": 698,
+      "replies": 554,
+      "views": 82742,
+      "time": "2026-11-21T03:06:35Z",
+      "query": "エンタメ"
+    }
+  ]
+}
