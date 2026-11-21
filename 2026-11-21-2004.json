@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T11:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2123907557588676758",
+      "url": "https://x.com/sportsbull_base/status/2123907557588676758",
+      "handle": "sportsbull_base",
+      "text": "織田翔希\nMLB球団との契約が凍結へ\n\n労使交渉が難航\n12月以降は国際アマ契約も停止\n#織田翔希 #MLB\nhttps://sportsbull.jp/p/2461360/?utm_source=x&utm_medium=social&utm_campaign=sns_post_20261121-073119",
+      "likes": 6365,
+      "rts": 743,
+      "replies": 318,
+      "views": 3351351,
+      "time": "2026-11-20T22:33:16Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2121925215366299721",
+      "url": "https://x.com/syumatsuno/status/2121925215366299721",
+      "handle": "syumatsuno",
+      "text": "昨日のサッカー日本代表戦で、レッドカード出されたシーンがゲームすぎる🤣",
+      "likes": 21009,
+      "rts": 1721,
+      "replies": 61,
+      "views": 935084,
+      "time": "2026-11-15T11:16:09Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123391527028482233",
+      "url": "https://x.com/masshixxx/status/2123391527028482233",
+      "handle": "masshixxx",
+      "text": "一応、野球やってたんですが…\nこんなプレー初めて見ましたwww\n\nこれ、なんていう技なんですか？",
+      "likes": 4418,
+      "rts": 608,
+      "replies": 562,
+      "views": 869836,
+      "time": "2026-11-19T12:22:45Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2121964411250479465",
+      "url": "https://x.com/Rakuten__Eagles/status/2121964411250479465",
+      "handle": "Rakuten__Eagles",
+      "text": "「ラグザス アジアプロ野球チャンピオンシップ2026」\n\n大会3連覇✨🙌\nおめでとうございます！\n\n侍ジャパンの皆さん、熱い戦いをありがとうございました☺️\n\n#宗山塁 選手を胴上げ🙌 🙌 🙌\n\n#九谷瑠\n#侍ジャパン\n#RakutenEagles",
+      "likes": 8415,
+      "rts": 1248,
+      "replies": 17,
+      "views": 109709,
+      "time": "2026-11-15T13:51:54Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124049387391504769",
+      "url": "https://x.com/frontale_staff/status/2124049387391504769",
+      "handle": "frontale_staff",
+      "text": "試合終了\n\n🏆明治安田J1リーグ 第15節\n#川崎フロンターレ 1-0 #アビスパ福岡\n\n60分 伊藤達哉\n\n【広報】 #frontale",
+      "likes": 1613,
+      "rts": 317,
+      "replies": 71,
+      "views": 88138,
+      "time": "2026-11-21T07:56:51Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124036990618534090",
+      "url": "https://x.com/REDSOFFICIAL/status/2124036990618534090",
+      "handle": "REDSOFFICIAL",
+      "text": "【FULL TIME】\n京都サンガF.C. 2-1 #浦和レッズ\n\nhttps://www.urawa-reds.co.jp/game/report/\n\n#UrawaRedDiamonds #urawareds #WeareREDS\n#Jリーグ",
+      "likes": 902,
+      "rts": 223,
+      "replies": 245,
+      "views": 167490,
+      "time": "2026-11-21T07:07:35Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124050369152213392",
+      "url": "https://x.com/chibalotte/status/2124050369152213392",
+      "handle": "chibalotte",
+      "text": "2026.11.22\nMARINES FAN FEST 2026 白黒野球対決\nTEAM BLACK 予告先発：#佐藤都志也 選手\n\n▼https://www.marines.co.jp/event/2026/fanfest/\n#chibalotte #MarinesFF2026",
+      "likes": 2080,
+      "rts": 486,
+      "replies": 1,
+      "views": 54201,
+      "time": "2026-11-21T08:00:45Z",
+      "query": "スポーツ"
+    }
+  ]
+}
