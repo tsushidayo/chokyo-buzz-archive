@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-21T15:07:31.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2123381295015473335",
+      "url": "https://x.com/hachi_08/status/2123381295015473335",
+      "handle": "hachi_08",
+      "text": "大阪2日目ありがとうございました！また会いましょう。",
+      "likes": 54949,
+      "rts": 4923,
+      "replies": 1014,
+      "views": 821043,
+      "time": "2026-11-19T11:42:05Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2124078098366992848",
+      "url": "https://x.com/yousuck2020/status/2124078098366992848",
+      "handle": "yousuck2020",
+      "text": "アシスタント募集の給料が安いとプチ炎上してます。確かに僕の面倒を見るのはとても大変だとアシスタントからもよく言われますので、ご応募の際はくれぐれも慎重にお願いします。",
+      "likes": 4362,
+      "rts": 232,
+      "replies": 404,
+      "views": 2113026,
+      "time": "2026-11-21T09:50:56Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2124089324929265898",
+      "url": "https://x.com/toiro_01/status/2124089324929265898",
+      "handle": "toiro_01",
+      "text": "シャツの襟、ずっとアタリの取り方が分からなかったんだけど今日やっとこれに気付いて革命起きた‼️‼️\nもう線3本で描ける……！！！",
+      "likes": 21448,
+      "rts": 2406,
+      "replies": 6,
+      "views": 524160,
+      "time": "2026-11-21T10:35:33Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2124140785926828056",
+      "url": "https://x.com/STARZ_RAPSTAR/status/2124140785926828056",
+      "handle": "STARZ_RAPSTAR",
+      "text": "第三弾出演アーティスト発表\n──────────\n\nBonbero\nSonsi\n\n──────────\n\nRAPSTAR 2026 FINALS \"STARZ\"\n12/29(火)TOKYO有明アリーナで開催\n\n⚠PLATINUMチケット／GOLDチケットSOLD OUT\n\n一般先着チケット販売中\nhttps://l-tike.com/concert/mevent/?mid=796597",
+      "likes": 310,
+      "rts": 35,
+      "replies": 3,
+      "views": 34111,
+      "time": "2026-11-21T14:00:02Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2123249930517008672",
+      "url": "https://x.com/Black_Thunder_/status/2123249930517008672",
+      "handle": "Black_Thunder_",
+      "text": "／\n10日間開催🐮3日目\n1万本山分けキャンペーン\n＼\n\n濃いミルク感×さくっほろっ食感がおいしい「ミルクマニア」を定番のブラックサンダーとセットでお届け🎁\n\n✅@Black_Thunder_ をフォロー\n✅本投稿をリポスト\n✅当選者のみXチャットが届く\nさらに！指定のハッシュタグをつけてコメントで当選確率UP！",
+      "likes": 8724,
+      "rts": 32544,
+      "replies": 7889,
+      "views": 308653,
+      "time": "2026-11-19T03:00:06Z",
+      "query": "ニュース"
+    }
+  ]
+}
