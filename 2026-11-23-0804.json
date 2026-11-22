@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "日常",
+  "genres": [
+    "日常"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T23:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124622951308005809",
+      "url": "https://x.com/nino_honmono/status/2124622951308005809",
+      "handle": "nino_honmono",
+      "text": "皆ーおはよー",
+      "likes": 16763,
+      "rts": 816,
+      "replies": 1734,
+      "views": 135666,
+      "time": "2026-11-22T21:55:59Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124634211915383043",
+      "url": "https://x.com/tsunomakiwatame/status/2124634211915383043",
+      "handle": "tsunomakiwatame",
+      "text": "バイオ6完全クリア！\nふーたんも、わためいとも、エルフレさんも、開始遅れたのに付き合ってくれて本当にありがとう😭💛\n\n気持ちよく眠れそうです🐏🎶\n\n次は、ふーたん見守りバイオ？！がんばいお💨\n#フレわた",
+      "likes": 675,
+      "rts": 96,
+      "replies": 55,
+      "views": 14944,
+      "time": "2026-11-22T22:40:44Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124634042931069155",
+      "url": "https://x.com/shiranuiflare/status/2124634042931069155",
+      "handle": "shiranuiflare",
+      "text": "ガスマスクフレアなんかかわいいなw",
+      "likes": 609,
+      "rts": 64,
+      "replies": 23,
+      "views": 13825,
+      "time": "2026-11-22T22:40:04Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124630468385701947",
+      "url": "https://x.com/ookamimio/status/2124630468385701947",
+      "handle": "ookamimio",
+      "text": "おはみゝーん！",
+      "likes": 1276,
+      "rts": 274,
+      "replies": 209,
+      "views": 24233,
+      "time": "2026-11-22T22:25:52Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124629375958347894",
+      "url": "https://x.com/tsuda_ken/status/2124629375958347894",
+      "handle": "tsuda_ken",
+      "text": "今週も頑張っちゃう？\n（cv.津田健次郎）\n\nWanna do our best this week? (Voiced by Tsuda Kenjiro)",
+      "likes": 1113,
+      "rts": 114,
+      "replies": 67,
+      "views": 22232,
+      "time": "2026-11-22T22:21:31Z",
+      "query": "日常"
+    }
+  ]
+}
