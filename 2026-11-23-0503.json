@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T20:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124579907984658691",
+      "url": "https://x.com/fubuchandayo/status/2124579907984658691",
+      "handle": "fubuchandayo",
+      "text": "ちょっと寒い夜に食べるうどんが\nしみる( ˘ω˘ ) \n出汁と牡蠣醤油がうまい🤊\nちょっと大きめに切ったねぎと\nお鍋に入れようと思ってたつみれを数個\nシンプルなうどんが美味しい",
+      "likes": 1096,
+      "rts": 99,
+      "replies": 117,
+      "views": 15317,
+      "time": "2026-11-22T19:04:57Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124579753361654245",
+      "url": "https://x.com/H_KAGAMI2434/status/2124579753361654245",
+      "handle": "H_KAGAMI2434",
+      "text": "配信ありがとうございました！\n明日のお昼はコーヒーとシナモンロールでしょうかね😌",
+      "likes": 932,
+      "rts": 163,
+      "replies": 57,
+      "views": 24432,
+      "time": "2026-11-22T19:04:20Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124578701354647831",
+      "url": "https://x.com/modelpress/status/2124578701354647831",
+      "handle": "modelpress",
+      "text": "＼SixTONES初スタジアムツアー完走🏟️／\n\n「MILESixTONES」アリーナから合わせて\n全56公演、計89万人動員！感極まる瞬間も\n\n💎ライブレポ・セトリ\nhttps://mdpr.jp/music/4881549\n\n▫️高さ最大17mの巨大タワーで幕開け\n▫️750発の花火＆6人が円陣\n▫️ダブルアンコールは「Good Luck!」\n\n#SixTONES_MILESixTONES",
+      "likes": 1379,
+      "rts": 337,
+      "replies": 1,
+      "views": 23032,
+      "time": "2026-11-22T19:00:09Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124578668261306515",
+      "url": "https://x.com/oricon/status/2124578668261306515",
+      "handle": "oricon",
+      "text": "SixTONES、スタジアムツアーを完走🎤\nteam SixTONESとこの先の未来へ…\n\n「僕たちはずっとSixTONESでバカやっていきます！」\n🟧ライブレポート＆セットリスト\nhttps://www.oricon.co.jp/news/2494620/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw001\n#SixTONES_MILESixTONES",
+      "likes": 1014,
+      "rts": 272,
+      "replies": 2,
+      "views": 14549,
+      "time": "2026-11-22T19:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124580331714179106",
+      "url": "https://x.com/hakuikoyori/status/2124580331714179106",
+      "handle": "hakuikoyori",
+      "text": "仕事が終わらぬ…っ\n\nおやすみ助手くん💗\nまた明日だっ(ᐡ •͈ ·̫ •͈ ᐡ)✨",
+      "likes": 630,
+      "rts": 57,
+      "replies": 87,
+      "views": 18375,
+      "time": "2026-11-22T19:06:38Z",
+      "query": "エンタメ"
+    }
+  ]
+}
