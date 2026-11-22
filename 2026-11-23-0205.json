@@ -1,0 +1,77 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ",
+    "VTuber"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T17:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124547835349606588",
+      "url": "https://x.com/UNEXT_football/status/2124547835349606588",
+      "handle": "UNEXT_football",
+      "text": "🪄フリーキック職人🪄\n\nヨロの１発退場となったファールから\n獲得したフリーキック💨\n\n#ソボスライ が鋭い低弾道ショットで先制🔥\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 プレミアリーグ第11節\n⚔️ リヴァプール v マンチェスター・U\n📺 https://video.unext.jp/livedetail/LIV0000016725",
+      "likes": 249,
+      "rts": 37,
+      "replies": 0,
+      "views": 11477,
+      "time": "2026-11-22T16:57:30Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124543076790391019",
+      "url": "https://x.com/sakuramiko35/status/2124543076790391019",
+      "handle": "sakuramiko35",
+      "text": "#GTAVI 5日目thank you‼️🫶\n車たくさん盗んでジェイソン復活😎🎊🎊\nYouTubeくんたのむよみこは\nまだ、なにもやってないんや…‼️\n\nみこはGTA6を諦めないぜ…😎\nhttps://www.youtube.com/live/argmZx6oLxc?si=3tv_Emq0CnDUJHEO\nアーカイブ大丈夫やった！",
+      "likes": 1819,
+      "rts": 387,
+      "replies": 150,
+      "views": 34635,
+      "time": "2026-11-22T16:38:36Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124458879912423615",
+      "url": "https://x.com/mafia_kajita/status/2124458879912423615",
+      "handle": "mafia_kajita",
+      "text": "我が初の愛刀、その名も\"鬼包丁\"👹🔪\n\n刃長 2尺5寸5分\n元幅 42.5mm\n抜き身 1750g\n\nまるでジャンプ漫画に登場する日本刀のような迫力。しかし正真正銘、試斬にも使える真剣です。\n\n4枚目の比較写真を見れば分かるように、通常の日本刀よりも1.5倍ほど幅広の刃で鍛え上げられた特注の現代刀。登録証にもデカデカと\"巨大刀\"という注釈が入っていて笑いました。\n\nそれなりのフィジカルがないと扱えないとのことでしたが、己の体格に見合う刀が欲しかった俺にはちょうど良かったです💪\n\n使いこなせるようになりたいので、時間を作って剣術を習うつもりです。",
+      "likes": 17340,
+      "rts": 4118,
+      "replies": 276,
+      "views": 575473,
+      "time": "2026-11-22T11:04:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124542997908086847",
+      "url": "https://x.com/ui_shig/status/2124542997908086847",
+      "handle": "ui_shig",
+      "text": "凸待ち、めちゃめちゃたのしかった\n電話かけてくださった方とみてくださった方、どうもありがとう🎶\n#ういの校内放送",
+      "likes": 955,
+      "rts": 85,
+      "replies": 29,
+      "views": 29667,
+      "time": "2026-11-22T16:38:17Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124523779665907993",
+      "url": "https://x.com/ienaga_mugi23/status/2124523779665907993",
+      "handle": "ienaga_mugi23",
+      "text": "自分がニュースになったみたいですごかった！\n\n【にじさんじ】家長むぎ×日本語検定1級に合格！勉強配信にスポンサーまで、なぜ学業との両立で終わらず「学びそのものが活動」となったのか？【VTub... https://www.youtube.com/watch?si=0J_7pMRLUSXr_MeN&v=asWmVffUPO8&feature=youtu.be @YouTubeより",
+      "likes": 1272,
+      "rts": 150,
+      "replies": 6,
+      "views": 32128,
+      "time": "2026-11-22T15:21:55Z",
+      "query": "エンタメ"
+    }
+  ]
+}
