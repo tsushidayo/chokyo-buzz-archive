@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T09:06:44.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124428999367741823",
+      "url": "https://x.com/ROF_MAO/status/2124428999367741823",
+      "handle": "ROF_MAO",
+      "text": "🎶Music Video 公開🎧\n\n「/SLASH」のMVを公開しました！\nぜひご視聴ください▶️\n\n▼MV\nhttps://www.youtube.com/watch?v=FiOIZPW27oU&feature=youtu.be\n\n▼楽曲配信\nhttps://rof-mao.lnk.to/slashTP\n\n#ろふまお #ROFMAO",
+      "likes": 1392,
+      "rts": 754,
+      "replies": 0,
+      "views": 11554,
+      "time": "2026-11-22T09:05:18Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124428086460797428",
+      "url": "https://x.com/Kaida_Haru/status/2124428086460797428",
+      "handle": "Kaida_Haru",
+      "text": "ROF-MAO - /SLASH https://www.youtube.com/watch?si=ecHT4-xQVOZATqcH&v=FiOIZPW27oU&feature=youtu.be @YouTubeより \n\nプレミア公開はじまるぞ！！",
+      "likes": 1043,
+      "rts": 358,
+      "replies": 16,
+      "views": 19618,
+      "time": "2026-11-22T09:01:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124427866188452327",
+      "url": "https://x.com/Show_SylveSTAR/status/2124427866188452327",
+      "handle": "Show_SylveSTAR",
+      "text": "18:30~ APEXの大会に出場させていただきます（今日はスクリム\nhttps://www.youtube.com/live/JPWJJr0O7N8?feature=share",
+      "likes": 2186,
+      "rts": 610,
+      "replies": 46,
+      "views": 26025,
+      "time": "2026-11-22T09:00:47Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124428130127630500",
+      "url": "https://x.com/shirakamifubuki/status/2124428130127630500",
+      "handle": "shirakamifubuki",
+      "text": "これでholoXと闘える",
+      "likes": 581,
+      "rts": 87,
+      "replies": 80,
+      "views": 19539,
+      "time": "2026-11-22T09:01:50Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124427771112009884",
+      "url": "https://x.com/FRUITS_ZIPPER/status/2124427771112009884",
+      "handle": "FRUITS_ZIPPER",
+      "text": "❖━━━━━━━━━━━━━━━━❖\n　　秋ツアー『Secret Code』\n　全23公演完走おめでとう！🔑🎉\n❖━━━━━━━━━━━━━━━━❖\n\nこの素敵な景色を一緒につくってくれた、ふるっぱーのみんなへ。\n\nうれしいことがあるたびに一緒に喜んでくれて、悲しいことも悔しいこともどんな感情もみんなと共有してきた3ヶ月。\n全国にいる\"味方\"のみんなの近くに行くことができたとても尊い時間でした。\n\nそして、23公演駆け抜けたメンバーのみんなへ。\n\nおめでたいことがありすぎたこの秋の最後に、\nふるっぱーから集めたありったけの「おめでとう」を。\n\n23公演の思い出と一緒に、「超めでたいソング〜こんなに幸せでいいのかな？〜」にのせて届けます💌✨\n\n💜仲川瑠夏\n💛早瀬ノエル\n💚櫻井優衣\n🩵真中まな\n💗松本かれん\n🧡鎮西寿々歌\n❤️月足天音\n\n🔗YouTubeでダイジェストフルを見る\nhttps://t.co/MhjOAeoy9R\n\n#ふるっぱーと全国ツアー2026\n#FRUITSZIPPER #ふるっぱー",
+      "likes": 1008,
+      "rts": 280,
+      "replies": 14,
+      "views": 10981,
+      "time": "2026-11-22T09:00:25Z",
+      "query": "エンタメ"
+    }
+  ]
+}
