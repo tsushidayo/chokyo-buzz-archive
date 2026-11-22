@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T06:17:27.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124385202541867066",
+      "url": "https://x.com/Supdra_staff/status/2124385202541867066",
+      "handle": "Supdra_staff",
+      "text": "／\nMajor 2nd Album「STAR」\nリリースイベント@大阪：セブンパーク天美\n＼\n\n🔹 ［グループ撮影会］座り位置はこちら！\n⚠️ メンバーはハイチェアに着席する形となります。\n\n🔹 メンバーのポーズはこちら！\n\nA：僕たちと指スマ\nB：友達だよ！約束だよ！ポーズ\nC：ご主人サマ...♡///\n\n⚠️ お客さまのポーズは指定ございません。\n⚠️ 撮影の際は、顔・体ともに正面をお向きください。\n\n#SD_STAR\n#スパドラ #SUPERDRAGON",
+      "likes": 1003,
+      "rts": 191,
+      "replies": 0,
+      "views": 12881,
+      "time": "2026-11-22T06:11:16Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124384502525174232",
+      "url": "https://x.com/netkeiba/status/2124384502525174232",
+      "handle": "netkeiba",
+      "text": "【京都10R 西陣ステークス】\nジョディーズマロンが4年半ぶりの勝利\n\nディスクリートキャット産駒の8歳馬\n通算46戦目にして待望のオープン入り\n\nhttps://db.sp.netkeiba.com/horse/result/2018101989/?rf=x",
+      "likes": 333,
+      "rts": 107,
+      "replies": 0,
+      "views": 20210,
+      "time": "2026-11-22T06:08:29Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124383874725851263",
+      "url": "https://x.com/jujutsuphanpara/status/2124383874725851263",
+      "handle": "jujutsuphanpara",
+      "text": "レイドバトルイベント「共祓戦 -VS片影の呪霊・禍蝕体-」開催予告！\n\nレイドバトルイベント「共祓戦 -VS片影の呪霊・禍蝕体-」は、全プレイヤーで協力する期間限定のレイドバトルが展開され、共鳴の欠片SSRや廻珠などの報酬を獲得できるイベントです。\n\n■開催期間\n11/23(月) 15:00 〜 12/5(土) 23:59\n\n詳細はゲーム内お知らせをご確認ください。\n\n#ファンパレ共祓戦\n#ファンパレ #呪術廻戦",
+      "likes": 427,
+      "rts": 82,
+      "replies": 2,
+      "views": 18621,
+      "time": "2026-11-22T06:05:59Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124383710065942825",
+      "url": "https://x.com/acola_Lui/status/2124383710065942825",
+      "handle": "acola_Lui",
+      "text": "マジでもっかいカズヤ使う。オリマー滅ぼす",
+      "likes": 569,
+      "rts": 89,
+      "replies": 7,
+      "views": 11248,
+      "time": "2026-11-22T06:05:20Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124383243692843098",
+      "url": "https://x.com/nogizaka46/status/2124383243692843098",
+      "handle": "nogizaka46",
+      "text": "本日11月22日(日)18:00〜\n文化放送　乃木坊46の「の」に、\n#海邊朱莉 #冨里奈央 が出演します🐶🐶\n\nぜひ、お聴きください🐏\n\n#乃木のの\n#乃木坊46\n\nhttps://www.joqr.co.jp/qr/program/nogizaka/",
+      "likes": 1070,
+      "rts": 173,
+      "replies": 6,
+      "views": 30248,
+      "time": "2026-11-22T06:03:29Z",
+      "query": "エンタメ"
+    }
+  ]
+}
