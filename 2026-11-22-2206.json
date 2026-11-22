@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T13:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124488622909129041",
+      "url": "https://x.com/SixTONES_SME/status/2124488622909129041",
+      "handle": "SixTONES_SME",
+      "text": "／\nSixTONES LIVE TOUR 2026\n「MILESixTONES」(スタジアムツアー)🏟️\n全6公演終了！🎉\n＼\n\nアリーナからスタジアムまで、\n全56公演ありがとうございました！✨\n\n#SixTONES_MILESixTONES\n#MILESixTONES_STadium",
+      "likes": 21886,
+      "rts": 6225,
+      "replies": 156,
+      "views": 119937,
+      "time": "2026-11-22T13:02:13Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124488785056715176",
+      "url": "https://x.com/nctwish_jp/status/2124488785056715176",
+      "handle": "nctwish_jp",
+      "text": "NCT WISH\n『I SPY - The 4th Mini Album』\nリリースイベントありがとうございました⭐️⸝⸝⹎\n\n2026年も最後まで一緒に駆け抜けていきましょう✊🏻❤️‍🔥\n\nEVERYTHING, ALL AT ONCE, NEO\nhttps://www.2026nct.com/\n\n#NCTWISH #ISPY \n#NCTWISH_ISPY \n#NCT_10TH_ANNIVERSARY",
+      "likes": 1546,
+      "rts": 413,
+      "replies": 0,
+      "views": 18627,
+      "time": "2026-11-22T13:02:52Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124478540276220195",
+      "url": "https://x.com/SAK_SAK_SAKUMA/status/2124478540276220195",
+      "handle": "SAK_SAK_SAKUMA",
+      "text": "ぬぁ〜！！！仕事終わった〜！！！\n今日の仕事も楽しかった〜 (^^)",
+      "likes": 12969,
+      "rts": 758,
+      "replies": 661,
+      "views": 114404,
+      "time": "2026-11-22T12:22:09Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124488316410053105",
+      "url": "https://x.com/dramal_abc/status/2124488316410053105",
+      "handle": "dramal_abc",
+      "text": "┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n　彼氏だから。\n　心配ぐらいさせてよ\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n#修学旅行で仲良くないグループに入りました ２\n𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲 𝐧𝐢𝐠𝐡𝐭 𝐚𝐭 𝟐𝟗:𝟐𝟐\n\n#ドラマ修学旅行",
+      "likes": 1338,
+      "rts": 313,
+      "replies": 1,
+      "views": 10978,
+      "time": "2026-11-22T13:01:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124488567867224526",
+      "url": "https://x.com/dramal_abc/status/2124488567867224526",
+      "handle": "dramal_abc",
+      "text": "┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n　俺はずっと\n　隣にいるから\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n#修学旅行で仲良くないグループに入りました ２\n𝐒𝐚𝐭𝐮𝐫𝐝𝐚𝐲 𝐧𝐢𝐠𝐡𝐭 𝐚𝐭 𝟐𝟗:𝟐𝟐\n\n#ドラマ修学旅行",
+      "likes": 1376,
+      "rts": 338,
+      "replies": 0,
+      "views": 10602,
+      "time": "2026-11-22T13:02:00Z",
+      "query": "エンタメ"
+    }
+  ]
+}
