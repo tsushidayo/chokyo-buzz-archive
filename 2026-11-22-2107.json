@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-22T12:07:31.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124473486555197524",
+      "url": "https://x.com/NCT_OFFICIAL_JP/status/2124473486555197524",
+      "handle": "NCT_OFFICIAL_JP",
+      "text": "#NCTDREAM が #テレ朝ドリフェス に出演しました💫\n\n60分間のステージでは #HAECHAN と #NCTJNJM のステージも披露🎙️🎶\nまた、「Boogie Woogie」も日本のイベントで初パフォーマンス💚✨\n\nお越しいただいたみなさん、大きな声で応援していただき本当にありがとうございました🌼\n\n#NCTDREAM #HAECHAN #NCTJNJM \n#DREAM_AFTER_DREAM\n#NCTDREAM_DREAM_AFTER_DREAM\n#NCT_10TH_ANNIVERSARY",
+      "likes": 1277,
+      "rts": 570,
+      "replies": 4,
+      "views": 23217,
+      "time": "2026-11-22T12:02:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124473325904932896",
+      "url": "https://x.com/uma_musu/status/2124473325904932896",
+      "handle": "uma_musu",
+      "text": "【アニメ『#うまゆる ふるげ～と！』配信！】\n第9話「ハラハラスライダー大作戦！」\n\nたまには息抜きしなくちゃ！と、プールへやってきたラヴズオンリーユーたち。だけどウォータースライダーで、マルちゃん大ピンチ！？\n\nhttps://www.youtube.com/watch?v=OL_ETOQMkKs&feature=youtu.be\n\n#ウマ娘 #アニメウマ娘",
+      "likes": 937,
+      "rts": 357,
+      "replies": 8,
+      "views": 38314,
+      "time": "2026-11-22T12:01:26Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124473238961131562",
+      "url": "https://x.com/jr_official_X/status/2124473238961131562",
+      "handle": "jr_official_X",
+      "text": "【🎶 TikTok更新】\n\n『KAMIGATA EXPO PARK FES 2026』\n2日間楽しかった〜🎊\n#関西ジュニア #AmBitious #Boysbe\n#無責任でええじゃないかLOVE #KAMIGATA_BOYZ \nhttps://www.tiktok.com/@jr_official_tiktok/video/7710963806163242260?_r=1&_t=ZS-9BcITGxZjZk",
+      "likes": 745,
+      "rts": 210,
+      "replies": 0,
+      "views": 22695,
+      "time": "2026-11-22T12:01:05Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124473216668164607",
+      "url": "https://x.com/KO1KEYZofficial/status/2124473216668164607",
+      "handle": "KO1KEYZofficial",
+      "text": "[📸] 261122\n\n「SAPPORO COLLECTION 2026 A/W」\nありがとうございました🤟\n\n⚾️ #ISSA\nDetail ➡︎https://ko1keyz.com/feature/issa\n\n'KO1KEYZ' Official MV\n🔗https://www.youtube.com/watch?v=75MEFldsJKc&feature=youtu.be\n\n#SAPPOROCOLLECTION\n#サツコレ\n#KO1KEYZ #コイキーズ #코이키즈",
+      "likes": 1085,
+      "rts": 208,
+      "replies": 9,
+      "views": 20505,
+      "time": "2026-11-22T12:01:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124473181511782476",
+      "url": "https://x.com/Aooo_band/status/2124473181511782476",
+      "handle": "Aooo_band",
+      "text": "◤ 𝗣𝐈𝗹𝗧 𝗠𝗹𝗯𝗸 ◢\n\nAooo初の全国ホールツアー\n『Aooo Live Tour \"HIRAHIRA\"』\n開催決定！🎉\n\n2027年4月8日(木)神奈川公演を皮切りに、全国9都市10公演を巡ります！✨\n\nさらに、12/2(水)発売のBlu-ray＋CD『RINGRING』初回仕様に、チケット最速先行抽選のシリアルコード封入決定！🎫\n\n📅受付期間\n12/1(火)10:00〜12/13(日)23:59\n\n▼公演詳細はこちら\nhttps://t.co/hm39B8ek09\n\n#Aooo #Aooo_HIRAHIRA",
+      "likes": 807,
+      "rts": 310,
+      "replies": 1,
+      "views": 10989,
+      "time": "2026-11-22T12:00:51Z",
+      "query": "エンタメ"
+    }
+  ]
+}
