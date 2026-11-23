@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T18:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2124904980083798139",
+      "url": "https://x.com/Saaanjjiii/status/2124904980083798139",
+      "handle": "Saaanjjiii",
+      "text": "みんなでやるゲーム、おもろすぎるな！！",
+      "likes": 966,
+      "rts": 65,
+      "replies": 12,
+      "views": 22486,
+      "time": "2026-11-23T16:36:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124896647348199845",
+      "url": "https://x.com/Taiga_Kaminaga/status/2124896647348199845",
+      "handle": "Taiga_Kaminaga",
+      "text": "メン限配信ありがとなー！！！\n幸せな3連休やった！！！ほんまにみんなありがとな！\n明日は夜ゲーム配信するな！！\nほなねー！おやすみー💤\n\n#神はいしん",
+      "likes": 1498,
+      "rts": 196,
+      "replies": 140,
+      "views": 21200,
+      "time": "2026-11-23T16:03:34Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124914231690891614",
+      "url": "https://x.com/danchou_sub/status/2124914231690891614",
+      "handle": "danchou_sub",
+      "text": "ほんとホロライブってあったかいなあ…だんちょ幸せだ🫶🏻♡\ufe0f\n夜遅くなっちゃったから明日朝に本アカで唆くね！\nカウントダウン配信ありがとー！！！\n団員さんらぶち太郎だ🎂🥳🫰🏻✨",
+      "likes": 1176,
+      "rts": 123,
+      "replies": 122,
+      "views": 12397,
+      "time": "2026-11-23T17:13:26Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124910508730171518",
+      "url": "https://x.com/uruhasub/status/2124910508730171518",
+      "handle": "uruhasub",
+      "text": "ヒマダナーヒマ",
+      "likes": 1136,
+      "rts": 21,
+      "replies": 96,
+      "views": 31772,
+      "time": "2026-11-23T16:58:38Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124903568738324517",
+      "url": "https://x.com/Saiki_Supadari/status/2124903568738324517",
+      "handle": "Saiki_Supadari",
+      "text": "チェーンコンボが使えるようになると一気に楽しくなるな！\nな、そう思うだろ？レイレイ？\n\nﾃﾃﾝﾗｲﾊｰ",
+      "likes": 1338,
+      "rts": 161,
+      "replies": 40,
+      "views": 32754,
+      "time": "2026-11-23T16:31:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124899525525659781",
+      "url": "https://x.com/omakiss_drama/status/2124899525525659781",
+      "handle": "omakiss_drama",
+      "text": "🎬第7話予告編を公開👔💋\n\n過去の経験から\n本心を伝えられない上野🥺\n\nそんな時、神田から電話が…📱\n\n📺次週は𝟙𝟙月𝟑𝟘日(月)𝟐𝟒:𝟓𝟓～\n※10分遅れ\n\n📡過去回はTVerで🙌\nhttps://tver.jp/series/sr9f5090wx\n🎬FODノーカット完全版\nhttps://fod.fujitv.co.jp/title/20ju/\n\n#ドラマおまキス #鈴木仁 #押田岳",
+      "likes": 1850,
+      "rts": 255,
+      "replies": 1,
+      "views": 55354,
+      "time": "2026-11-23T16:15:00Z",
+      "query": "エンタメ"
+    }
+  ]
+}
