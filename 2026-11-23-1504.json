@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T06:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2124744848070885687",
+      "url": "https://x.com/enstars_music/status/2124744848070885687",
+      "handle": "enstars_music",
+      "text": "【お知らせ】\n\n 11月24日 15時〜\n『ソロメドレー（ライカ・ニキ・ユメ・光）』がライブ楽曲に追加✨\n\nMVは、アプリでの登場に先行して【本日18時】に公開予定です❗✨\n\nMVはあんスタチャンネルでも公開予定💫\nhttps://www.youtube.com/@ensemble_stars\n\nぜひお楽しみに♪\n\n#あんスタ",
+      "likes": 1742,
+      "rts": 673,
+      "replies": 0,
+      "views": 29991,
+      "time": "2026-11-23T06:00:22Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124744764343935340",
+      "url": "https://x.com/FRIEREN_PR/status/2124744764343935340",
+      "handle": "FRIEREN_PR",
+      "text": "鉱山で300年働く時にどうぞ。",
+      "likes": 788,
+      "rts": 115,
+      "replies": 7,
+      "views": 18081,
+      "time": "2026-11-23T06:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124744762129281131",
+      "url": "https://x.com/onenonly_tokyo/status/2124744762129281131",
+      "handle": "onenonly_tokyo",
+      "text": "／\n『TETTA 29th BIRTHDAY SCRATCH』開催決定🎉\n＼\n\nTETTA 29歳の誕生日を記念した『TETTA 29th BIRTHDAY SCRATCH』の開催が決定しました🎂✨\n\n[開催期間]\n11/24(火)09:00〜11/26(木)23:59まで\n\n詳細はこちら📝\n🔗https://one-n-only.jp/contents/1130176\n\n#Happy_TETTA_Day #ワンエン #ONENONLY",
+      "likes": 1246,
+      "rts": 247,
+      "replies": 3,
+      "views": 16001,
+      "time": "2026-11-23T06:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124744759889514546",
+      "url": "https://x.com/poke_times/status/2124744759889514546",
+      "handle": "poke_times",
+      "text": "ホエルコじょうろ\n\nみずを かける どうぐ\nつちに うめた きのみを\nすくすく そだてる\nhttps://www.pokemon.co.jp/goods/2026/11/261120_to02.html",
+      "likes": 441,
+      "rts": 98,
+      "replies": 0,
+      "views": 30328,
+      "time": "2026-11-23T06:00:01Z",
+      "query": "エンタメ"
+    }
+  ]
+}
