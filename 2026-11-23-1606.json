@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T07:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124759970520727945",
+      "url": "https://x.com/netkeiba/status/2124759970520727945",
+      "handle": "netkeiba",
+      "text": "武豊騎手が“国内重賞500勝”を達成\n\n中央重賞375勝\n地方重賞125勝\n\nレジェンドがまた一つ、大記録を打ち立てました。\n\nhttps://news.netkeiba.com/?pid=news_view&no=349020&rf=x",
+      "likes": 1532,
+      "rts": 679,
+      "replies": 8,
+      "views": 27114,
+      "time": "2026-11-23T07:00:27Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124759860466360647",
+      "url": "https://x.com/pj_sekai/status/2124759860466360647",
+      "handle": "pj_sekai",
+      "text": "👑総集編イベント\nワンダーランズ×ショウタイム Memories 開催中🎉\n\n総集編イベント開催を記念して、ワンダーランズ×ショウタイムのイベントストーリーの一部と、当時投稿された #セカイの4コマ をお届け✨\n\n『Deep Dark For Light』\n\n#プロセカ #ワンダショ",
+      "likes": 580,
+      "rts": 144,
+      "replies": 2,
+      "views": 36022,
+      "time": "2026-11-23T07:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124759855948837295",
+      "url": "https://x.com/STARTO_INT/status/2124759855948837295",
+      "handle": "STARTO_INT",
+      "text": "SixTONES「MILESixTONES」日産スタジアム公演が終演🎤\n\nSixTONES at the Nissan Stadium for their MILESixTONES concert tour🎤\n\nSixTONES「MILESixTONES」日產體育場公演圓滿落幕🎤\n\nhttps://starto-news.com/en/news/3303/ \n\n#SixTONES @SixTONES_SME",
+      "likes": 767,
+      "rts": 175,
+      "replies": 0,
+      "views": 11358,
+      "time": "2026-11-23T07:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124759855609295149",
+      "url": "https://x.com/onenonly_tokyo/status/2124759855609295149",
+      "handle": "onenonly_tokyo",
+      "text": "／\nメジャー2ndアルバムリード曲『Golden Sun』\n#YBSラジオ #山梨放送 パワープレイ決定🎉\n＼\n\n『Golden Sun』山梨放送ラジオのパワープレイに決定しました‼️👑✨\n\n皆さまぜひチェックしてください🐶🎵\n\n＜OA期間＞\n11/23(月)〜11/29(日)\n\n[山梨放送]\n🔗https://www.ybs.jp/hits/\n\n#メガアゲゴールデンサン\n#ワンエンリリース #ワンエン #ONENONLY",
+      "likes": 842,
+      "rts": 85,
+      "replies": 0,
+      "views": 11737,
+      "time": "2026-11-23T07:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124759578231660828",
+      "url": "https://x.com/netkeiba/status/2124759578231660828",
+      "handle": "netkeiba",
+      "text": "【WIN5】\n的中1票\n配当3億4019万8740円\n\n▼結果はこちら\nhttps://race.sp.netkeiba.com/?pid=win5&rf=x",
+      "likes": 621,
+      "rts": 279,
+      "replies": 8,
+      "views": 28441,
+      "time": "2026-11-23T06:58:54Z",
+      "query": "エンタメ"
+    }
+  ]
+}
