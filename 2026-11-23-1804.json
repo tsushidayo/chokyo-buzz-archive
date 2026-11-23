@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T09:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124699514883956921",
+      "url": "https://x.com/cinnamon_sanrio/status/2124699514883956921",
+      "handle": "cinnamon_sanrio",
+      "text": "えへへ、いつもおつかれさま♪",
+      "likes": 13685,
+      "rts": 2303,
+      "replies": 73,
+      "views": 215724,
+      "time": "2026-11-23T03:00:14Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124726586297741583",
+      "url": "https://x.com/kanzakihiro/status/2124726586297741583",
+      "handle": "kanzakihiro",
+      "text": "荷物片付けてたら古のド新人だった頃の原画発掘したけど例の回です",
+      "likes": 25683,
+      "rts": 4208,
+      "replies": 70,
+      "views": 632980,
+      "time": "2026-11-23T04:47:48Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124699464397181161",
+      "url": "https://x.com/realive_jp/status/2124699464397181161",
+      "handle": "realive_jp",
+      "text": "❄️「REALIVE」佐賀公演\n本番まであと5日⛸\n\n📋 公演までのチェックリスト\n\n🎫 チケットの確認\n🚄 会場までのアクセスを確認\n🛍️ オフィシャルグッズをチェック\n📸 当日の持ち物をチェック\n\n準備はできていますか？👀\nあとは会場で、その瞬間を迎えるだけ！\n\n✨ 佐賀でお会いしましょう！ ✨\n\n🎫会場チケットも発売中！\nhttps://t.co/qUBOdU4bU7\n\n#羽生結弦 #REALIVE #Prequel #佐賀 #ＳＡＧＡアリーナ",
+      "likes": 6345,
+      "rts": 2515,
+      "replies": 238,
+      "views": 92473,
+      "time": "2026-11-23T03:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124639061415502054",
+      "url": "https://x.com/McDonaldsJapan/status/2124639061415502054",
+      "handle": "McDonaldsJapan",
+      "text": "豪沢で濃厚な味わいのグラコロ®だゼ\n\n【#具がおいしいゼボロネーゼグラコロ】をつけて本日11/23(月)中にリプライすると、抽選で3日合計100名様に1,000円分のマックカードプレゼント！\n\n詳細は画像をタップ！",
+      "likes": 6626,
+      "rts": 3999,
+      "replies": 10339,
+      "views": 411168,
+      "time": "2026-11-22T23:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124739594700865874",
+      "url": "https://x.com/iLiFE_sumire/status/2124739594700865874",
+      "handle": "iLiFE_sumire",
+      "text": "まむおたんじょう日おめでとう🧡💜\nいつもそばにいてくれてありがとう",
+      "likes": 16834,
+      "rts": 1165,
+      "replies": 232,
+      "views": 191345,
+      "time": "2026-11-23T05:39:29Z",
+      "query": "エンタメ"
+    }
+  ]
+}
