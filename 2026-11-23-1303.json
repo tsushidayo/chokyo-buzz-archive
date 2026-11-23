@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "日常",
+  "genres": [
+    "日常"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T04:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2124712733212098878",
+      "url": "https://x.com/k4sen/status/2124712733212098878",
+      "handle": "k4sen",
+      "text": "寝て起きて大分感情は落ち着いてきたのに、昨日涙腺バグりすぎたせいでなんもしてないのに涙目のルカみたいになってる",
+      "likes": 2464,
+      "rts": 142,
+      "replies": 6,
+      "views": 37141,
+      "time": "2026-11-23T03:52:45Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124713155893084475",
+      "url": "https://x.com/Tr0uT_2434/status/2124713155893084475",
+      "handle": "Tr0uT_2434",
+      "text": "いいにーさんの日に一人っ子27が通過",
+      "likes": 1408,
+      "rts": 201,
+      "replies": 54,
+      "views": 15574,
+      "time": "2026-11-23T03:54:26Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124711059680588079",
+      "url": "https://x.com/shiroganenoel/status/2124711059680588079",
+      "handle": "shiroganenoel",
+      "text": "このあと19時から！\n\n🎶 #ホロドリトライアスロン🎶\n\n優勝商品の海外旅行ペアチケット欲しいいい！\n音ゲー以外ならなんとか…チャンスないか…？！\nパッションでいくぞおおお🥳🙌\n\n〈✨待機所✨〉\nhttps://www.youtube.com/live/4f2jjlJF_EM?si=M_axTIlzGOp9Xx17",
+      "likes": 724,
+      "rts": 145,
+      "replies": 64,
+      "views": 19417,
+      "time": "2026-11-23T03:46:06Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124710896589279427",
+      "url": "https://x.com/Hayama_Fuka/status/2124710896589279427",
+      "handle": "Hayama_Fuka",
+      "text": "こんにちは🌞\n石川公演まであと少し！\n\n久しぶりの石川めっちゃ楽しみだ✨\n\n去年、11月より前の時点でまぁまぁ寒かったので普通に寒いと思います。\nダウンとか厚手のものを着てもいいかと…\n\n参考になれば！！\nとにかく風邪ひかないようにお互い気をつけようぜ💪",
+      "likes": 863,
+      "rts": 232,
+      "replies": 55,
+      "views": 10252,
+      "time": "2026-11-23T03:45:27Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124680043834351953",
+      "url": "https://x.com/illmaaaaaa/status/2124680043834351953",
+      "handle": "illmaaaaaa",
+      "text": "おはようおまえら！！！\n\n今日祝日なのは聞いてないんだけどおまえら何すんの。",
+      "likes": 3016,
+      "rts": 366,
+      "replies": 530,
+      "views": 22391,
+      "time": "2026-11-23T01:42:51Z",
+      "query": "日常"
+    },
+    {
+      "id": "2124713617195213001",
+      "url": "https://x.com/todoroki_hajime/status/2124713617195213001",
+      "handle": "todoroki_hajime",
+      "text": "ダンスレッスンいってきまああ💃✨✨",
+      "likes": 490,
+      "rts": 57,
+      "replies": 89,
+      "views": 10093,
+      "time": "2026-11-23T03:56:16Z",
+      "query": "日常"
+    }
+  ]
+}
