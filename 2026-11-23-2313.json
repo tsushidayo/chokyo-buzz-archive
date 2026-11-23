@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T14:13:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124868631951753350",
+      "url": "https://x.com/H_KAGAMI2434/status/2124868631951753350",
+      "handle": "H_KAGAMI2434",
+      "text": "皆さま、こんばんは🏢🌙\nボルメテウスの書は無限の可能性がありますね😌加賀美でございます。\n本日は恐れ入りますが、配信をお休みさせて頂きます！\nアーカイブなどご覧頂けますと幸いです！！",
+      "likes": 1169,
+      "rts": 275,
+      "replies": 27,
+      "views": 18002,
+      "time": "2026-11-23T14:12:14Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124867722987356475",
+      "url": "https://x.com/Kagetsu_2434/status/2124867722987356475",
+      "handle": "Kagetsu_2434",
+      "text": "配信見てくださってありがとうございました！ \nドン勝も食べれてよかった！ \nクラグラマップ難しくてめっちゃ面白かったです！\nダウンロードはこちらから！ https://battlegroundsmobile.go.link/?adj_t=25bk5t9c_25dqn03l \n#PUBGモバイル #PR",
+      "likes": 1153,
+      "rts": 221,
+      "replies": 31,
+      "views": 17174,
+      "time": "2026-11-23T14:08:37Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124866816967397495",
+      "url": "https://x.com/houshoumarine/status/2124866816967397495",
+      "handle": "houshoumarine",
+      "text": "今日は恒例のノエちゃん生誕カウントダウンなので、ちらっと顔出すｶﾓﾞ😆",
+      "likes": 1286,
+      "rts": 339,
+      "replies": 193,
+      "views": 27978,
+      "time": "2026-11-23T14:05:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124865651215052934",
+      "url": "https://x.com/Stray_Kids_JP/status/2124865651215052934",
+      "handle": "Stray_Kids_JP",
+      "text": "日本テレビ「しゃべくり007」に、Stray Kidsの出演が決定いたしました！\nぜひご覧ください！\n\n放送日時：2026年11月30日(月) 21:00~21:54\n番組HP：https://www.ntv.co.jp/007/\n\n#StrayKids\n#スキズ\n#しゃべくり007\n@shabekuri007ntv",
+      "likes": 6977,
+      "rts": 2011,
+      "replies": 35,
+      "views": 101450,
+      "time": "2026-11-23T14:00:24Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124865642704908540",
+      "url": "https://x.com/jr_official_X/status/2124865642704908540",
+      "handle": "jr_official_X",
+      "text": "【 💫 Concert 】\n\n『 #関西ジュニア CONCERT 2026 〜僕たち粉もんちゃうで〜 』\n\n本日より、オリックス劇場にて大阪公演がスタート🐙💨\n\n明日もたくさんのご来場をお待ちしています🪩🎵\n\n#嶋﨑斗亜 #大西風雅 #岡﨑彪太郎\n#渡邉大我 #野田開仁 #森ケイン #井上蒼生 #北野快浴 #濱出顕斗 #中崎結翔\n#元重瑛翔 #藤本有惘 #岡野すこやか #谷口尊星 #三浦慎ノ亮",
+      "likes": 2326,
+      "rts": 606,
+      "replies": 1,
+      "views": 41547,
+      "time": "2026-11-23T14:00:21Z",
+      "query": "エンタメ"
+    }
+  ]
+}
