@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T15:19:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124882289880613204",
+      "url": "https://x.com/hololive_dreams/status/2124882289880613204",
+      "handle": "hololive_dreams",
+      "text": "/／\n#白銀ノエル さんの誕生日を記念して、\nオリジナル楽曲「リリカルMonster」を追加🎉⚔️\n\\＼\n\nぜひゲーム内でプレイしてみてください✨\n\n#ホロドリ",
+      "likes": 599,
+      "rts": 172,
+      "replies": 7,
+      "views": 17512,
+      "time": "2026-11-23T15:06:30Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124884590338953648",
+      "url": "https://x.com/root_nico_2/status/2124884590338953648",
+      "handle": "root_nico_2",
+      "text": "ファンミ喜んでくれて本当に本当に嬉しい。\n\nありがとうって沢山伝えさせてね🫶️",
+      "likes": 1002,
+      "rts": 378,
+      "replies": 201,
+      "views": 10580,
+      "time": "2026-11-23T15:15:39Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124885350132924918",
+      "url": "https://x.com/nino_honmono/status/2124885350132924918",
+      "handle": "nino_honmono",
+      "text": "4分後に…\n#デジにの",
+      "likes": 1586,
+      "rts": 228,
+      "replies": 107,
+      "views": 7627,
+      "time": "2026-11-23T15:18:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124884197592740253",
+      "url": "https://x.com/NiziU__official/status/2124884197592740253",
+      "handle": "NiziU__official",
+      "text": "╭━━━━━━ · · 🔔 · · ━━━━━━╮\n                  NiziU「Jolly Jolly」\n   SNSにて一部音源先行配信スタート！\n╰━━━━━━ · · 🎄 · · ━━━━━━╯\n\nNiziU SNSにて「Jolly Jolly」の\n一部音源先行配信がスタート🎁\n\n12/2(水)の配信リリース＆クリスマスに先駆けて\n楽曲を使ってたくさん投稿してください📱🎶\n\n📲音源はコチラ\nhttps://t.co/DwgxRZ6fMU\n\n💿3rd EP『You're the best』ご予約はコチラ\nhttps://t.co/s5ny3TM2N7\n\n#NiziU #ニジュー #ニジュ #WithU\n#NiziU_JollyJolly",
+      "likes": 554,
+      "rts": 163,
+      "replies": 1,
+      "views": 8967,
+      "time": "2026-11-23T15:14:05Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124883716053049810",
+      "url": "https://x.com/mwamjapan/status/2124883716053049810",
+      "handle": "mwamjapan",
+      "text": "🐺🎪\n\nMAN WITH A MISSION\n\n12月23日(水)リリース\nニューアルバム『The Circus』収録曲\n\n\"一閃\" 先行配信開始💥\n\n🎧🔗 https://mwam.lnk.to/dWvPA2\n\n#MWAM #TheCircus #一閃",
+      "likes": 291,
+      "rts": 70,
+      "replies": 1,
+      "views": 8304,
+      "time": "2026-11-23T15:12:10Z",
+      "query": "エンタメ"
+    }
+  ]
+}
