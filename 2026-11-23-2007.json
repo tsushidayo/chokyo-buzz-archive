@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T11:07:49.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124822018151563271",
+      "url": "https://x.com/AORINGOHUZIN/status/2124822018151563271",
+      "handle": "AORINGOHUZIN",
+      "text": "𝐌𝐫𝐬. 𝐆𝐑𝐄𝐄𝐍 𝐀𝐏𝐏𝐋𝐄\nプロジェクト𝟜\n𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐕𝐢𝐝𝐞𝐨\n⁡\nhttps://www.youtube.com/watch?v=Rmskp6rQxF8&feature=youtu.be\n⁡\n#ミセスPOPS\n#プロジェクト4",
+      "likes": 4287,
+      "rts": 1002,
+      "replies": 91,
+      "views": 23110,
+      "time": "2026-11-23T11:07:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124821394496409959",
+      "url": "https://x.com/Lauren_iroas/status/2124821394496409959",
+      "handle": "Lauren_iroas",
+      "text": "開始しまＳ【The Plant Shop】夜の植物店にはやべーやつしかいないらしい【ローレン・イロアス/にじさんじ】 https://www.youtube.com/live/OE89om4KHdk?si=riauM4XLjBnlI-3y @YouTubeより",
+      "likes": 1053,
+      "rts": 323,
+      "replies": 74,
+      "views": 29146,
+      "time": "2026-11-23T11:04:32Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124820963384832389",
+      "url": "https://x.com/Kanae_2434/status/2124820963384832389",
+      "handle": "Kanae_2434",
+      "text": "はじまった！！",
+      "likes": 2128,
+      "rts": 522,
+      "replies": 96,
+      "views": 35334,
+      "time": "2026-11-23T11:02:49Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124699514883956921",
+      "url": "https://x.com/cinnamon_sanrio/status/2124699514883956921",
+      "handle": "cinnamon_sanrio",
+      "text": "えへへ、いつもおつかれさま♪",
+      "likes": 15346,
+      "rts": 2504,
+      "replies": 80,
+      "views": 248873,
+      "time": "2026-11-23T03:00:14Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124639061415502054",
+      "url": "https://x.com/McDonaldsJapan/status/2124639061415502054",
+      "handle": "McDonaldsJapan",
+      "text": "贅沢で濃厚な味わいのグラコロ®だゼ\n\n【#具がおいしいゼボロネーゼグラコロ】をつけて本日11/23(月)中にリプライすると、抽選で3日合計100名様に1,000円分のマックカードプレゼント！\n\n詳細は画像をタップ！",
+      "likes": 7287,
+      "rts": 4482,
+      "replies": 11201,
+      "views": 448886,
+      "time": "2026-11-22T23:00:00Z",
+      "query": "エンタメ"
+    }
+  ]
+}
