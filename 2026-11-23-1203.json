@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T03:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2124699475163611290",
+      "url": "https://x.com/BEFIRSTofficial/status/2124699475163611290",
+      "handle": "BEFIRSTofficial",
+      "text": "ファミリーマート クリスマスタイアップソング\nBE:FIRST 'Dance on Christmas'\n\n2025.11.30\nDigital Release\n\nPre-Add・Pre-Save\nhttps://avex.ffm.to/danceonchristmas\n\n#BF_DanceonChristmas\n#BEFIRST",
+      "likes": 2594,
+      "rts": 869,
+      "replies": 22,
+      "views": 21193,
+      "time": "2026-11-23T03:00:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124697612313899116",
+      "url": "https://x.com/hinatazaka46/status/2124697612313899116",
+      "handle": "hinatazaka46",
+      "text": "【ブログ更新☀️ 高井俐香】 スイートりかたんひひーん。\nhttps://www.hinatazaka46.com/s/official/diary/detail/71933?ima=0000 #日向坂46 #高井俐香",
+      "likes": 882,
+      "rts": 214,
+      "replies": 4,
+      "views": 18482,
+      "time": "2026-11-23T02:52:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124695066753335545",
+      "url": "https://x.com/Saiki_Supadari/status/2124695066753335545",
+      "handle": "Saiki_Supadari",
+      "text": "とりあえずカプコンファイティングコレクション買いました",
+      "likes": 1408,
+      "rts": 162,
+      "replies": 42,
+      "views": 27215,
+      "time": "2026-11-23T02:42:33Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124693800014819476",
+      "url": "https://x.com/amamiya_kokoro/status/2124693800014819476",
+      "handle": "amamiya_kokoro",
+      "text": "今日もいい天気♪\n空気はつめたいけど、おひさまはポカポカ☀️\nみんな三連休なにしてすごしてるの？",
+      "likes": 903,
+      "rts": 62,
+      "replies": 42,
+      "views": 18487,
+      "time": "2026-11-23T02:37:31Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124684360980787401",
+      "url": "https://x.com/McDonaldsJapan/status/2124684360980787401",
+      "handle": "McDonaldsJapan",
+      "text": "エスコフィエ、何を作ってくれますか？",
+      "likes": 5756,
+      "rts": 719,
+      "replies": 28,
+      "views": 124830,
+      "time": "2026-11-23T02:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124684360364486908",
+      "url": "https://x.com/Pizza_Hut_Japan/status/2124684360364486908",
+      "handle": "Pizza_Hut_Japan",
+      "text": "／\nピザハット×『鳴潮』\nコラボ開催決定‼\n＼\n\n本日は「リンネー」のコラボビジュアルをお届け🏍🎧🫤\n明日11時、次は誰が来る？👀\n\nコラボキャンペーンは12/1(火)〜\n詳細は後日発表いたします！\n是非、お楽しみに🍕\n\n#鳴潮ピザハット\n#ピザで共鳴inウィンター",
+      "likes": 3748,
+      "rts": 1141,
+      "replies": 6,
+      "views": 59381,
+      "time": "2026-11-23T02:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124623487998587156",
+      "url": "https://x.com/haruspring_wind/status/2124623487998587156",
+      "handle": "haruspring_wind",
+      "text": "アニメドラえもんの「どこに作画パワー注ぎ込んでるねん」と言いたくなるシーン",
+      "likes": 1338,
+      "rts": 206,
+      "replies": 21,
+      "views": 107715,
+      "time": "2026-11-22T21:58:07Z",
+      "query": "エンタメ"
+    }
+  ]
+}
