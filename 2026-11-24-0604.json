@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-23T21:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2124971249143075064",
+      "url": "https://x.com/milk_info/status/2124971249143075064",
+      "handle": "milk_info",
+      "text": "／\n「CHARGESPOT」新CMキャラクターに\nM!LKが就任決定！\n＼\n\n5人がモバイルバッテリーに大変身！\n新TVCM「M!LKのチャースポ」篇が、本日11月24日(火)より放映開始いたします！\n\n特設サイトはこちら⇩\nhttps://chargespot.jp/special/milk/\n\nhttps://sd-milk.com/contents/1129780\n@CHARGESPOT_JP\n#MILK",
+      "likes": 2375,
+      "rts": 614,
+      "replies": 14,
+      "views": 23718,
+      "time": "2026-11-23T21:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124969841941745728",
+      "url": "https://x.com/LaplusDarknesss/status/2124969841941745728",
+      "handle": "LaplusDarknesss",
+      "text": "賢様ら、おーはよ🛸💜\n\n今日明日はお仕事したりなどで活動なし🤓\nそして明後日26日は活動5周年記念ということでみんなに見てもらいたい物がたーくさんあるのでお楽しみに〜📻⚡\n普通に雑談配信する予定♪\n\nでは‼️✋",
+      "likes": 691,
+      "rts": 105,
+      "replies": 119,
+      "views": 15182,
+      "time": "2026-11-23T20:54:25Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124969808752156675",
+      "url": "https://x.com/enako_cos/status/2124969808752156675",
+      "handle": "enako_cos",
+      "text": "おはよ〜！今日は写真集の撮影行ってくる！",
+      "likes": 857,
+      "rts": 55,
+      "replies": 81,
+      "views": 16067,
+      "time": "2026-11-23T20:54:17Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124965814675914781",
+      "url": "https://x.com/takamatsuhitomi/status/2124965814675914781",
+      "handle": "takamatsuhitomi",
+      "text": "おはようございます！✨\n\nめざましテレビ\n出演させていただきます♪\n\nマンスリーエンタメプレゼンターとして\n最後の出演！！！楽しみながら頑張ります✊\n\nよろしくお願いします⏰",
+      "likes": 1148,
+      "rts": 127,
+      "replies": 69,
+      "views": 11046,
+      "time": "2026-11-23T20:38:24Z",
+      "query": "エンタメ"
+    }
+  ]
+}
