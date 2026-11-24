@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T09:46:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125162089752993864",
+      "url": "https://x.com/nogizaka46/status/2125162089752993864",
+      "handle": "nogizaka46",
+      "text": "💜✦　⚡️　✦🌟 ✦　⚡️　✦💚\n　　　　　乃木坂46\n        6期生全国ツアー2026\n💚✦⚡️　✦　⚡️ ✦　⚡️　✦💜\n\n愛知公演1日目です🫶\n11人のフルパワーをぜひお楽しみに🏯\n\n📍Zepp Nagoya\n⏰ 開場 18:00 / 開演 19:00\n\n#愛岡心響\n#乃木坂46_6期生\n#6期生全国ツアー2026\n\nhttps://www.nogizaka46.com/s/n46/page/6thgen_tour2026",
+      "likes": 946,
+      "rts": 147,
+      "replies": 4,
+      "views": 23839,
+      "time": "2026-11-24T09:38:20Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125160725916323939",
+      "url": "https://x.com/genjibu_sdr/status/2125160725916323939",
+      "handle": "genjibu_sdr",
+      "text": "★#TikTok 更新\n\n【ラブリーズン】\n「 #ラブリーズン 」Music Video Making \n\n#原因は自分にある。\n\nhttps://www.tiktok.com/@gnjb_official/video/7711667617945144584?_r=1&_t=ZS-9BfWIcv5VMF",
+      "likes": 2269,
+      "rts": 407,
+      "replies": 1,
+      "views": 29855,
+      "time": "2026-11-24T09:32:55Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125159995822010682",
+      "url": "https://x.com/Ryosuke_Storm/status/2125159995822010682",
+      "handle": "Ryosuke_Storm",
+      "text": "❖━━━━━━━━━━━❖\n　ベルーナドームで2shot📸\n❖━━━━━━━━━━━❖\n\n『JEONGHAN X JOSHUA JOURNEY \n　INTO [DREAMING] - JAPAN』\n終演後に撮影させていただいた\n2ショットを公開！\nありがとうございました✨\n\n#RyosukeYamada & #JEONGHAN\nDigital Single『Afterglow』\n12/14 Release\n\n#RyosukeYamada_and_JEONGHAN",
+      "likes": 6529,
+      "rts": 1553,
+      "replies": 19,
+      "views": 53132,
+      "time": "2026-11-24T09:30:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125159995306344646",
+      "url": "https://x.com/pledis_17jp/status/2125159995306344646",
+      "handle": "pledis_17jp",
+      "text": "『JEONGHAN X JOSHUA JOURNEY INTO [DREAMING] - JAPAN』\nベルーナドーム公演に #HeySɑyJUMP の #山田涼介 さんが来てくださいました💎\nありがとうございました✨\n\n#RyosukeYamada \n#RyosukeYamada_and_JEONGHAN\n#SEVENTEEN \n#JEONGHAN #JxJ\n#JOURNEY_INTO_DREAMING",
+      "likes": 6813,
+      "rts": 1676,
+      "replies": 3,
+      "views": 79606,
+      "time": "2026-11-24T09:30:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125159459077169313",
+      "url": "https://x.com/genjibu_sdr/status/2125159459077169313",
+      "handle": "genjibu_sdr",
+      "text": "★#武藤潤 出演情報\n『結婚しましょう、恋する前に』\n\n2027 年 1 月配信開始\nショートドラマ『結婚しましょう、恋する前に』に、\n筵冬麻役として武藤潤が出演。\n\n#PR",
+      "likes": 2716,
+      "rts": 407,
+      "replies": 0,
+      "views": 40141,
+      "time": "2026-11-24T09:27:53Z",
+      "query": "エンタメ"
+    }
+  ]
+}
