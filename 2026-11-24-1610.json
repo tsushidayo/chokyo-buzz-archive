@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T07:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125111544728187267",
+      "url": "https://x.com/gnomotoke/status/2125111544728187267",
+      "handle": "gnomotoke",
+      "text": "ロッテ戦力外→DeNAと育成契約の菊地吏玖が入団会見「腕がちぎれるまで投げてやろう」（スポニチアネックス）-Yahoo!ニュース https://news.yahoo.co.jp/articles/074b8716138ddde56da3d8fd861b228108c689fb\n\nロッテを戦力外となり、DeNAに育成選手として入団した菊地吏玖投手（26）が24日、横浜スタジアムで入団会見に臨んだ。",
+      "likes": 368,
+      "rts": 52,
+      "replies": 1,
+      "views": 14170,
+      "time": "2026-11-24T06:17:29Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125109890083680612",
+      "url": "https://x.com/JRCentral_OFL/status/2125109890083680612",
+      "handle": "JRCentral_OFL",
+      "text": "【ニュースリリース】「ＪＲ東海☆冬の乗り放題きっぷ」発売！～この冬も、おトクにのんびり在来線の旅へ～https://jr-central.co.jp/news/release/_pdf/000046211.pdf",
+      "likes": 110,
+      "rts": 44,
+      "replies": 0,
+      "views": 13998,
+      "time": "2026-11-24T06:10:55Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125109618699620849",
+      "url": "https://x.com/JRCentral_OFL/status/2125109618699620849",
+      "handle": "JRCentral_OFL",
+      "text": "【ニュースリリース】東海道新幹線「のぞみ」停車駅におけるホーム上の案内設備の増設等についてhttps://jr-central.co.jp/news/release/_pdf/000046212.pdf",
+      "likes": 225,
+      "rts": 117,
+      "replies": 0,
+      "views": 34643,
+      "time": "2026-11-24T06:09:50Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125109502563524990",
+      "url": "https://x.com/gnomotoke/status/2125109502563524990",
+      "handle": "gnomotoke",
+      "text": "ソフトバンク津森宸紀がチーム第1号の契約保留　「それなりに頑張った自負もあるので」　来季中にも国内FA権取得（西スポWEB OTTO!）-Yahoo!ニュース https://news.yahoo.co.jp/articles/e806f8854e3df1d4f06ccfbffb240be3d897c270\n\nソフトバンクの津森宸紀投手（28）が24日、みずほペイペイドーム内の球団事務所で契約更改交渉に臨み、保留した。",
+      "likes": 213,
+      "rts": 22,
+      "replies": 0,
+      "views": 15220,
+      "time": "2026-11-24T06:09:22Z",
+      "query": "ニュース"
+    }
+  ]
+}
