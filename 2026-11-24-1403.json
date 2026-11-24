@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T05:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125073906377867711",
+      "url": "https://x.com/Osatou_Apex/status/2125073906377867711",
+      "handle": "Osatou_Apex",
+      "text": "⚡️ニュース⚡️\n【歴代ランク報酬のダイブ軌道！】\n\nシーズン32（2月10日）よりランク報酬にダイブ軌道が復活予定\nランク昇格時に即時付与へ\n\n※有効期間/対象ランクは後日発表\n#APEX│#エーペックスレジェンズ",
+      "likes": 767,
+      "rts": 85,
+      "replies": 8,
+      "views": 53904,
+      "time": "2026-11-24T03:47:55Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125064326889517276",
+      "url": "https://x.com/rakuten_hochi/status/2125064326889517276",
+      "handle": "rakuten_hochi",
+      "text": "【楽天】 ４１歳・岸孝之が契約更改　今季１１登板で５勝５敗、防御率２・７３「トータルでみたら良かったかな」２１年目来季は球界最年長投手の見込み　２００勝まで残り２５勝 - スポーツ報知 https://hochi.news/articles/20261124-OHT1T51035.html",
+      "likes": 1012,
+      "rts": 179,
+      "replies": 2,
+      "views": 47009,
+      "time": "2026-11-24T03:09:51Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125064177450463263",
+      "url": "https://x.com/SUNRISE_web/status/2125064177450463263",
+      "handle": "SUNRISE_web",
+      "text": "【作品ニュース】[装甲騎兵ボトムズ 灰色の魔女]バリアフリー上映が決定！音声ガイドは『装甲騎兵ボトムズ』キリコ・キュービィー役の郷田ほづみさんが担当！ https://www.sunrise-inc.co.jp/work/news.php?id=29317",
+      "likes": 602,
+      "rts": 363,
+      "replies": 0,
+      "views": 23630,
+      "time": "2026-11-24T03:09:16Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125061866409849167",
+      "url": "https://x.com/yu_gi_oh_jp/status/2125061866409849167",
+      "handle": "yu_gi_oh_jp",
+      "text": "【更新情報】「グッズニュース」更新！\nぬいぐるみシリーズ「ちまっとたぴぬい デュエルモンスターズ Ver.」(全5種)が27年5月に新登場！\n\n#遊戯王\nhttps://yu-gi-oh.jp/news/1i-mkb7y3xn/",
+      "likes": 441,
+      "rts": 292,
+      "replies": 1,
+      "views": 63280,
+      "time": "2026-11-24T03:00:05Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125058150248354168",
+      "url": "https://x.com/yakiniku_king_/status/2125058150248354168",
+      "handle": "yakiniku_king_",
+      "text": "＼12月9日(水)スタート／\n期間限定「北海道フェア」を開催します🎉\n\n“ラム”と“かに”を主役に、\n北海道の名物グルメやご当地メーカーとのコラボメニューが登場✨\n冬の『焼肉きんぐ』をお楽しみに🦀\n\n#焼肉きんぐ #北海道フェア\n\n▼詳細はこちら\nhttps://www.yakiniku-king.jp/menu_all/season/2611_hokkaidofair/",
+      "likes": 790,
+      "rts": 152,
+      "replies": 3,
+      "views": 59706,
+      "time": "2026-11-24T02:45:19Z",
+      "query": "ニュース"
+    }
+  ]
+}
