@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T00:08:58.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2125016550398685655",
+      "url": "https://x.com/pledis_17jp/status/2125016550398685655",
+      "handle": "pledis_17jp",
+      "text": "[#SEVENTEEN JAPAN NEWS]\n12月9日(水)フジテレビ系列『2026 FNS歌謡祭 第2夜』にJEONGHANの出演が決定！\nRyosuke Yamada ＆ JEONGHANで「Afterglow」を初披露いたします。\nぜひご覧ください！💖\n\n詳しくはこちら→https://www.seventeen-17.jp/posts/information/faoegn\n\n#JEONGHAN\n#FNS歌謡祭\n#RyosukeYamada_and_JEONGHAN",
+      "likes": 973,
+      "rts": 251,
+      "replies": 1,
+      "views": 26074,
+      "time": "2026-11-24T00:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125009066812698991",
+      "url": "https://x.com/denfaminicogame/status/2125009066812698991",
+      "handle": "denfaminicogame",
+      "text": "「バザールでござーる」公式サイトが本日で閉鎖、年内に引退へ。約35年親しまれてきたNECのマスコットキャラ\nhttps://news.denfaminicogamer.jp/news/261124l\n\n1991年に販促キャンペーンのために誕生し、俳優の財津一郎さんが声を担当。「～でござーる」という口調は子どもたちが真似るほど流行し、広告賞も数多く受賞した",
+      "likes": 1330,
+      "rts": 766,
+      "replies": 5,
+      "views": 75559,
+      "time": "2026-11-23T23:30:16Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125005976705159373",
+      "url": "https://x.com/AZKi_VDiVA/status/2125005976705159373",
+      "handle": "AZKi_VDiVA",
+      "text": "おはあずき☀️火曜日！連休明け無理せずがんばろ～～～！！！\nAZKiもお仕事いってきます💨",
+      "likes": 2597,
+      "rts": 333,
+      "replies": 406,
+      "views": 31172,
+      "time": "2026-11-23T23:18:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125013913536479444",
+      "url": "https://x.com/shiroganenoel/status/2125013913536479444",
+      "handle": "shiroganenoel",
+      "text": "だんちょが生まれた朝🥳🫶✨\nホロライブに入って8回目のお祝い🎉🤍\nお誕生日だああああああჱ̒˶ｰ̀֊ｰ́ )✥︎",
+      "likes": 1558,
+      "rts": 369,
+      "replies": 260,
+      "views": 19630,
+      "time": "2026-11-23T23:49:32Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125010416451698989",
+      "url": "https://x.com/voguejp/status/2125010416451698989",
+      "handle": "voguejp",
+      "text": "社会にその声を響かせる、新世代の表現者たち #StandoutVoices 。デビュー6周年を迎えた2026年、ベストアルバム『MILESixTONES - BestTracks-』をリリースし、グループ初のスタジアムツアーも成功させた #SixTONES 。\n\n「メンバーそれぞれの尖り方があるから、面白いグループになっていると思うんです。だからこそ自分のカラーや個性に責任を持つことを大事にしたい」\n\nインタビューの続きはこちらから。\nhttps://t.co/idNLfvrrLA\n\nPhotography: Genki Nishikawa\nStyling: Ai Suganuma at Tron\nHair & Makeup: Miho Matsubara, Miki Asaoka at Nestation, Junko Fukuda\nText: Mika Hosoya\nEditor: Yaka Matsumoto\n\n#StandoutVoices2026\n\n@SixTONES_SME",
+      "likes": 1452,
+      "rts": 539,
+      "replies": 0,
+      "views": 11374,
+      "time": "2026-11-23T23:35:38Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124981410440310876",
+      "url": "https://x.com/jel_sub/status/2124981410440310876",
+      "handle": "jel_sub",
+      "text": "おはよー！\n\n会える楽しみが増えたから\n毎日頑張れちゃうね✨\n\n今日も一緒に頑張ろな",
+      "likes": 3844,
+      "rts": 645,
+      "replies": 946,
+      "views": 32324,
+      "time": "2026-11-23T21:40:23Z",
+      "query": "エンタメ"
+    }
+  ]
+}
