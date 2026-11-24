@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T04:05:26.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125070512997212289",
+      "url": "https://x.com/Equal_LOVE_12/status/2125070512997212289",
+      "handle": "Equal_LOVE_12",
+      "text": "【#イコラブメディア情報】\n\n日本テレビ「ZIP!」に\n齋藤樹愛羅、諸橋沙夏の\n生出演が決定いたしました💗ˎˊ˗ \n\n▼放送日\n11/25(水) 05:50～\n※08:00台生出演予定\n\n▼番組HP\nhttps://www.ntv.co.jp/zip/\n\n※放送内容は予告なく変更になる場合がございます。\n\nどうぞ、お楽しみに✨\n\n#ZIP !\n#イコラブ\n@ZIP_TV",
+      "likes": 2055,
+      "rts": 297,
+      "replies": 2,
+      "views": 47596,
+      "time": "2026-11-24T03:34:26Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125070770816925947",
+      "url": "https://x.com/Equal_LOVE_12/status/2125070770816925947",
+      "handle": "Equal_LOVE_12",
+      "text": "【#イコラブメディア情報】\n\n日本テレビ「ヒルナンデス！」に\n齋藤樹愛羅、諸橋沙夏の\n生出演が決定いたしました💗ˎˊ˗ \n\n▼放送日\n11/25(水) 11:55〜\n\n▼番組HP\nhttps://www.ntv.co.jp/hirunan/\n\nどうぞ、お楽しみに✨\n\n#ヒルナンデス\n#イコラブ\n@hirunandes_4ntv",
+      "likes": 1766,
+      "rts": 258,
+      "replies": 4,
+      "views": 47557,
+      "time": "2026-11-24T03:35:28Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125070417811603622",
+      "url": "https://x.com/modelpress/status/2125070417811603622",
+      "handle": "modelpress",
+      "text": "KEY TO LIT、グループの夢は日産スタジアム\nSixTONESに受けた刺激明かす💭\nhttps://mdpr.jp/news/4882253\n\n猪狩蒼弥「先日、SixTONESさんのスタジアムを観に行かせていただきまして、やっぱり違いましたね。6人でスタジアムに立つっていうのはすごくて、我々KEY TO LITも5人いるんでね。5人でいつか、日産の土地を踏みたいなと、そういう風に思いました」\n\n「MONOPOLY GO！」新CM発表会📱",
+      "likes": 836,
+      "rts": 191,
+      "replies": 0,
+      "views": 22716,
+      "time": "2026-11-24T03:34:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125073589829292510",
+      "url": "https://x.com/sakurazaka46/status/2125073589829292510",
+      "handle": "sakurazaka46",
+      "text": "稲熊ひながブログを更新しました！🌸|\nおしらせ- ̗̀ 📢💭\nhttps://sakurazaka46.com/s/s46/diary/detail/71939?ima=0000\n#櫻坂46 #稲熊ひな",
+      "likes": 1614,
+      "rts": 247,
+      "replies": 9,
+      "views": 34306,
+      "time": "2026-11-24T03:46:40Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125074546428727621",
+      "url": "https://x.com/udukikohh/status/2125074546428727621",
+      "handle": "udukikohh",
+      "text": "ごめん、画像載せ忘れちゃった、、！\nにじなな12月26日発売です！よろしく！\n\n#PR  #にじなな",
+      "likes": 1480,
+      "rts": 340,
+      "replies": 27,
+      "views": 22064,
+      "time": "2026-11-24T03:50:28Z",
+      "query": "エンタメ"
+    }
+  ]
+}
