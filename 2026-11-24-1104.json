@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T02:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125047168172220647",
+      "url": "https://x.com/728_Storm/status/2125047168172220647",
+      "handle": "728_Storm",
+      "text": "＼僕がカワイくて君がカワイくて／\n\n／\n🎥 1,000,000 views!!\n🥇 音楽 急上昇チャート!!\nたくさんのご視聴ありがとうございます🎉\n＼\n\nワン回と言わず、ニャン回でも！\n配信でもたくさん楽しんでください🐶😺\n\nサブスク&ダウンロードはこちら🎧\n▶︎ https://naniwadanshi.lnk.to/BokukawaTw\n\nMusic Videoはこちら🎥\n▶︎ https://t.co/cE2IoDW4BI\n\n#僕がカワイくて君がカワイくて\n#にゃにわん男子\n#なにわ男子",
+      "likes": 2036,
+      "rts": 595,
+      "replies": 8,
+      "views": 14897,
+      "time": "2026-11-24T02:01:41Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125046749295513799",
+      "url": "https://x.com/TXT_bighit_jp/status/2125046749295513799",
+      "handle": "TXT_bighit_jp",
+      "text": "[SOOBIN's Birthday Cake] Cake Delivered by CHOI YONG MEONG販売決定🍰\n\n詳しくはこちら→https://txt-official.jp/news/862d97614154\n\n#TOMORROW_X_TOGETHER #TXT \n#PPULBATU #TXT_PPULBATU \n#CHOIYONGMEONG\n#BIRTHDAY_MERCH #SOOBIN",
+      "likes": 648,
+      "rts": 157,
+      "replies": 0,
+      "views": 22633,
+      "time": "2026-11-24T02:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125046754009612573",
+      "url": "https://x.com/pledis_17jp/status/2125046754009612573",
+      "handle": "pledis_17jp",
+      "text": "[#SEVENTEEN JAPAN NEWS]\n『JEONGHAN X JOSHUA JOURNEY INTO [DREAMING] - JAPAN』 Official Merch.予約販売決定！\n\n詳しくはこちら→https://www.seventeen-17.jp/posts/information/gnysax\n\n#JxJ\n#JOURNEY_INTO_DREAMING_JAPAN",
+      "likes": 291,
+      "rts": 47,
+      "replies": 0,
+      "views": 23827,
+      "time": "2026-11-24T02:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125046753007489357",
+      "url": "https://x.com/andTEAMofficial/status/2125046753007489357",
+      "handle": "andTEAMofficial",
+      "text": "&TEAM KR 2nd Mini Album 'Mark on Me' Trailer Photobook Edition 予約受付開始！\n\n詳しくはこちら👉https://www.andteam-official.jp/news/3bd097f3796d\n\n#MarkonMe\n#andTEAM #앤팀 #エンティーム\n#andTEAM_MarkonMe",
+      "likes": 408,
+      "rts": 76,
+      "replies": 0,
+      "views": 16843,
+      "time": "2026-11-24T02:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125046752772596098",
+      "url": "https://x.com/houkaistarrail/status/2125046752772596098",
+      "handle": "houkaistarrail",
+      "text": "『崩壊：スターレイル』ローソンキャンペーン\n🍬愉悦★おかしタイム🍬実施中！\n\nからあげクンのデリバリー専用BOXに、\n#星神アッハ ＆ #千冶・刃 のオリジナル描きおろしイラストが登場✨\n\nここでしか見られない特別なビジュアルを、ぜひチェックしてください！\n\nその他の楽しい企画もお見逃しなく！",
+      "likes": 483,
+      "rts": 119,
+      "replies": 0,
+      "views": 39082,
+      "time": "2026-11-24T02:00:01Z",
+      "query": "エンタメ"
+    }
+  ]
+}
