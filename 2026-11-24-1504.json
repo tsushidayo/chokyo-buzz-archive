@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T06:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125107146971132364",
+      "url": "https://x.com/official__INI/status/2125107146971132364",
+      "handle": "official__INI",
+      "text": "[📢]\n\n11月25日(水)11:30〜\n\nFM大阪「iDoBuddy」\n#尾崎匠海 の生出演が決定！\n\n※14時台に出演します。\n\nぜひお聴きください📻\n\n▼番組HP\nhttps://www.fmosaka.net/_sites/16783751\n\n@iDoBuddy \n#ido851",
+      "likes": 692,
+      "rts": 110,
+      "replies": 1,
+      "views": 14264,
+      "time": "2026-11-24T06:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125105323367440596",
+      "url": "https://x.com/uruha_ichinose/status/2125105323367440596",
+      "handle": "uruha_ichinose",
+      "text": "おはやう🥱むちゃ寝た\n今日は20時からAPEX予定あり❕",
+      "likes": 645,
+      "rts": 19,
+      "replies": 94,
+      "views": 15414,
+      "time": "2026-11-24T05:52:46Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125104663750205940",
+      "url": "https://x.com/omarupolka/status/2125104663750205940",
+      "handle": "omarupolka",
+      "text": "OHAPOL✨\n今日はフブキのとこで #狐族密会 だあああああ\nえ！？はやくね！？！？",
+      "likes": 636,
+      "rts": 102,
+      "replies": 107,
+      "views": 15277,
+      "time": "2026-11-24T05:50:09Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125103840714526921",
+      "url": "https://x.com/tomo0723sw/status/2125103840714526921",
+      "handle": "tomo0723sw",
+      "text": "こんごのかつどーよてー\n救急隊や健康鮫もあってバラエティーに富んでます('ω')\n合間にゼルダとGTAを一人で遊ぶ予定です！\nあとは年末になにかマイクラ企画を主催したいな～って思ってる",
+      "likes": 627,
+      "rts": 73,
+      "replies": 18,
+      "views": 12969,
+      "time": "2026-11-24T05:46:52Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125101457418629442",
+      "url": "https://x.com/Tr0uT_2434/status/2125101457418629442",
+      "handle": "Tr0uT_2434",
+      "text": "配信開始〜",
+      "likes": 523,
+      "rts": 48,
+      "replies": 7,
+      "views": 16174,
+      "time": "2026-11-24T05:37:24Z",
+      "query": "エンタメ"
+    }
+  ]
+}
