@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "マーケティング",
+  "genres": [
+    "マーケティング"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T14:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2123220210249338948",
+      "url": "https://x.com/MacopeninSUTABA/status/2123220210249338948",
+      "handle": "MacopeninSUTABA",
+      "text": "博報堂が無料公開している「マーケティングガイドブック」が有益。\n\n「効果測定」や「MMM」から、実践的なデータ分析手法、さらにはモデル構造までを豊富な図解で徹底網羅。現場でそのまま活かせる「マーケティング分析の考え方」が体系的に学べる決定版。\n\nこちら👉\nhttps://docs.google.com/presentation/d/1EubeiD6dAhws1WMcp7tBRYsf3Jvs6cORHDllpKqFtzg/mobilepresent?slide=id.p1",
+      "likes": 660,
+      "rts": 44,
+      "replies": 2,
+      "views": 54685,
+      "time": "2026-11-19T01:02:00Z",
+      "query": "マーケティング"
+    },
+    {
+      "id": "2122595555285283211",
+      "url": "https://x.com/ikedanoriyuki/status/2122595555285283211",
+      "handle": "ikedanoriyuki",
+      "text": "ほんとこれofこれ。例外はほぼ無い＞「BtoBマーケティングなら才流」と言われるまでの一連の取り組みを解説 https://sairu.co.jp/blog/110447/",
+      "likes": 224,
+      "rts": 17,
+      "replies": 2,
+      "views": 25449,
+      "time": "2026-11-17T07:39:50Z",
+      "query": "マーケティング"
+    },
+    {
+      "id": "2124154564802953265",
+      "url": "https://x.com/tmhr94/status/2124154564802953265",
+      "handle": "tmhr94",
+      "text": "📢【急募】\n人手足りてません💦\n\nフルリモートでお仕事手伝ってくれる方いませんか？\n\n👉仕事内容\nWebマーケティング全般\n詳しくは https://chiyuu.co.jp/recruit/web-marketer/ を見ていただけると！\n\n頑張ってみたい！という気持ちのある方大歓迎です😌\n\n興味ある方はリプ、DM✉️お待ちしております！",
+      "likes": 142,
+      "rts": 6,
+      "replies": 9,
+      "views": 40585,
+      "time": "2026-11-21T14:54:47Z",
+      "query": "マーケティング"
+    },
+    {
+      "id": "2116666536719245593",
+      "url": "https://x.com/Collie_Collie_/status/2116666536719245593",
+      "handle": "Collie_Collie_",
+      "text": "PwCの整理。AIエージェント時代、マーケティング競争は人の「注意」だけでなくAIの「判断」へ。\n企業が失い得るのは、顧客理解・クロスセル/アップセル・直接関係の3接点。AIに選ばれる情報設計とブランド指名が論点です。自社の顧客接点を見直す際に役立ちそうです。\nhttps://www.pwc.com/jp/ja/services/consulting/intelligence/assets/pdf/world-trend-foresight-129.pdf",
+      "likes": 162,
+      "rts": 13,
+      "replies": 7,
+      "views": 11231,
+      "time": "2026-10-31T23:00:02Z",
+      "query": "マーケティング"
+    },
+    {
+      "id": "2119973331822862613",
+      "url": "https://x.com/markezine_jp/status/2119973331822862613",
+      "handle": "markezine_jp",
+      "text": "マーケティングの“判断基準”を集合知へ──サントリー×電通グループが挑む「暗黙知」のAI実装 #ad https://markezine.jp/article/detail/77674?utm_source=dlvr.it&utm_medium=twitter",
+      "likes": 144,
+      "rts": 9,
+      "replies": 0,
+      "views": 20610,
+      "time": "2026-11-10T02:00:04Z",
+      "query": "マーケティング"
+    }
+  ]
+}
