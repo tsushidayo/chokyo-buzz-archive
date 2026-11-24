@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T17:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125273865635193180",
+      "url": "https://x.com/Tigers_Atsuya69/status/2125273865635193180",
+      "handle": "Tigers_Atsuya69",
+      "text": "［日本ハム］\n長谷川威展が４年ぶり復帰へ　\nソフトバンク戦力外の左腕を育成で再獲得 https://news.yahoo.co.jp/articles/6275b5e20e1227805a803f486f4da4914ddd6260",
+      "likes": 213,
+      "rts": 71,
+      "replies": 2,
+      "views": 19312,
+      "time": "2026-11-24T17:02:29Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125268983888888258",
+      "url": "https://x.com/Tigers_Atsuya69/status/2125268983888888258",
+      "handle": "Tigers_Atsuya69",
+      "text": "［DeNA］\n太田光を獲得調査",
+      "likes": 754,
+      "rts": 224,
+      "replies": 24,
+      "views": 96596,
+      "time": "2026-11-24T16:43:06Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125264739735638327",
+      "url": "https://x.com/Saba_Tigers/status/2125264739735638327",
+      "handle": "Saba_Tigers",
+      "text": "佐藤輝明という野球選手、あまりにも偉大すぎるよ。\n\n・小6で阪神ジュニアに選出\n・大学でリーグ本塁打記録更新\n・ドラフト4球団競合の末、地元阪神に\n・新人から3年連続20本を達成\n・3度のリーグ優勝、日本一に貢献\n・25年に40本102打点、打撃二冠\n・26年に球団日本人選手初の三冠王\n・初代長嶋茂雄賞受賞\n・日本人野手史上最高額でMLBへ\n\n仁川学院→近畿大→阪神→カブス\nミスタータイガースが海を渡る！",
+      "likes": 557,
+      "rts": 83,
+      "replies": 6,
+      "views": 15324,
+      "time": "2026-11-24T16:26:14Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125258882323005574",
+      "url": "https://x.com/Saba_Tigers/status/2125258882323005574",
+      "handle": "Saba_Tigers",
+      "text": "【阪神】佐藤輝明選手がカブスと6年総額1億2000万ドル（約190億8000万円）で契約合意\n\n阪神が受け取る譲渡金は約32億円！",
+      "likes": 1617,
+      "rts": 207,
+      "replies": 17,
+      "views": 36554,
+      "time": "2026-11-24T16:02:57Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125255058795475149",
+      "url": "https://x.com/gnomotoke/status/2125255058795475149",
+      "handle": "gnomotoke",
+      "text": "佐藤輝明　カブスと6年総額191億円で合意　阪神が受け取る譲渡金は約32億円！　現地報道（スポニチアネックス）-Yahoo!ニュース https://news.yahoo.co.jp/articles/a4cdf4e362fda21990e6eb2599d8fe17eb13383a\n\n今回の移籍が成立した場合、阪神がカブスから受け取る譲渡金は1987万5000ドル（約31億6000万円）となる。",
+      "likes": 827,
+      "rts": 149,
+      "replies": 6,
+      "views": 47060,
+      "time": "2026-11-24T15:47:46Z",
+      "query": "スポーツ"
+    }
+  ]
+}
