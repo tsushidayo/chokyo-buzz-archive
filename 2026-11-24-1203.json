@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T03:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2125061848705974708",
+      "url": "https://x.com/AORINGOHUZIN/status/2125061848705974708",
+      "handle": "AORINGOHUZIN",
+      "text": "この後、13:00から放送の\nテレビ朝日系「徹子の部屋」に出演します💐\n⁣\n#黒柳徹子 さんとのトークをお楽しみに🍏\n皆さま、ぜひご覧ください👀\n⁣\n▼公式サイト\nhttps://www.tv-asahi.co.jp/tetsuko/\n⁣\n#MrsGREENAPPLE\n#徹子の部屋",
+      "likes": 1557,
+      "rts": 307,
+      "replies": 26,
+      "views": 18353,
+      "time": "2026-11-24T03:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125061681818800555",
+      "url": "https://x.com/shiroganenoel/status/2125061681818800555",
+      "handle": "shiroganenoel",
+      "text": "このあと20時から！\n\n🎂 #白銀ノエル生誕祭2026 🎂\n\n過去のノエルより強くなりたい…。\nそんな気持ちで！カラオケ採点90点を目指すよー！(！？)\n果たして1時間で達成できるか…応援よろしゅ太郎ッ🥹🫶❤️\n\n〈✨待機所✨〉\nhttps://www.youtube.com/live/S9WBVmRt_h8?si=kgAqWcnPQoyCqPI5",
+      "likes": 531,
+      "rts": 170,
+      "replies": 62,
+      "views": 11886,
+      "time": "2026-11-24T02:59:21Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125061972182089890",
+      "url": "https://x.com/ALD1_jp/status/2125061972182089890",
+      "handle": "ALD1_jp",
+      "text": "ALPHA DRIVE ONE JAPAN 1ST SINGLE 『青春同盟』\n予約販売スタート＆店舗特典が決定！！🎊\n特典の絵柄は後日公開いたしますので、お楽しみに🎁✨\n\n🔗 予約販売についてはこちら\n🏎️ https://www.alphadriveone.jp/posts/news/ggecxv\n\n🔗 店舗特典についてはこちら\n🏎️ https://www.alphadriveone.jp/posts/news/ikgtyo\n\n🛒 ご予約はこちら\n🏎️ https://t.co/U8LjU4W2vn\n\n#ALPHADRIVEONE #ALD1\n#青春同盟\n#アカツキ #ALD1_アカツキ\n#ALD1_JAPANDEBUT\n#ALD1と青春の1ページ",
+      "likes": 938,
+      "rts": 379,
+      "replies": 6,
+      "views": 14863,
+      "time": "2026-11-24T03:00:30Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125061904687391153",
+      "url": "https://x.com/nijisanji_app/status/2125061904687391153",
+      "handle": "nijisanji_app",
+      "text": "【📢#にじさんじ恋愛ゲームパロディボイス 再販中！】\n#にじストア にて再販売中の「にじさんじ 恋愛ゲームパロディボイス」\n再販期間は＜ 11/27(金)23:59 ＞まで！\n\n再販売ページはこちら！▼\nhttps://shop.nijisanji.jp/DIG_TAG_166\n\n再販売されるボイスは「にじストアボイスアプリ」でも再生できます。\n\nアプリ特設ページはこちら▼",
+      "likes": 412,
+      "rts": 33,
+      "replies": 0,
+      "views": 48972,
+      "time": "2026-11-24T03:00:14Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125061890057658796",
+      "url": "https://x.com/cinnamon_sanrio/status/2125061890057658796",
+      "handle": "cinnamon_sanrio",
+      "text": "さむくなってきたね～\nぼくの新しい #LINEスタンプ が登場したよ♪\nhttps://store.line.me/stickershop/product/38114",
+      "likes": 990,
+      "rts": 227,
+      "replies": 7,
+      "views": 12699,
+      "time": "2026-11-24T03:00:10Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125061863046324388",
+      "url": "https://x.com/BEFIRSTofficial/status/2125061863046324388",
+      "handle": "BEFIRSTofficial",
+      "text": "本日11/24(火)-\nファミリーマートコラボ\n\nメンバー監修商品 順次発売\nブロマイド第一弾 ファミマプリントに登場\n\n🔗https://www.family.co.jp/campaign/spot/2611_befirst-collabo_cp.html\n\n#おいしいのがいちばんファミマのクリスマス2026\n#ファミマ @famima_now\n#BEFIRST",
+      "likes": 1467,
+      "rts": 474,
+      "replies": 1,
+      "views": 14886,
+      "time": "2026-11-24T03:00:04Z",
+      "query": "エンタメ"
+    }
+  ]
+}
