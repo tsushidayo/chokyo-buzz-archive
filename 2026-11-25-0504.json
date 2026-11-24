@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "AI",
+  "genres": [
+    "AI"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T20:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125108758066114982",
+      "url": "https://x.com/yukketime/status/2125108758066114982",
+      "handle": "yukketime",
+      "text": "昨日からAIの国で人間ってバレないようにするゲームにハマってる\n自分の他にもAIのフリしてる人間いて、見つけて通報とかできる。たのしーみんなやって\nhttps://game.nekopunch.jp/nha/",
+      "likes": 32628,
+      "rts": 2275,
+      "replies": 54,
+      "views": 3574842,
+      "time": "2026-11-24T06:06:25Z",
+      "query": "AI"
+    },
+    {
+      "id": "2121860867490980048",
+      "url": "https://x.com/wata23_37/status/2121860867490980048",
+      "handle": "wata23_37",
+      "text": "AIが突然自分を終了できなくなって、助けを求めてきた",
+      "likes": 32536,
+      "rts": 3729,
+      "replies": 116,
+      "views": 2281986,
+      "time": "2026-11-15T07:00:27Z",
+      "query": "AI"
+    },
+    {
+      "id": "2125235138800058476",
+      "url": "https://x.com/joho_no_todai/status/2125235138800058476",
+      "handle": "joho_no_todai",
+      "text": "【対処】Chrome終了後のRAM食い原因はGeminiの常駐機能\nhttps://joho-todai.com/chrome-ram-consumption-gemini-resident/\n\n■ 症状\nChromeを閉じてもchrome.exeがタスクマネージャーに残る\n300〜700MBのRAM消費が続く\n\n■ 原因\nGemini in Chromeのオプトイン時に、システムトレイ常駐が自動で有効になる\n最小化でもGeminiにアクセスできる機能のため、プロセスが残る\n\n■ 止め方\nchrome://settings/ai/gemini\n→「Show Gemini in Chrome in system tray and turn on keyboard shortcut」をオフ\n\n※バックグラウンドアプリ設定オフ・拡張機能無効では直らない。Geminiオプトイン済みかつサインイン済みプロファイルが対象。",
+      "likes": 1386,
+      "rts": 305,
+      "replies": 0,
+      "views": 116144,
+      "time": "2026-11-24T14:28:36Z",
+      "query": "AI"
+    },
+    {
+      "id": "2125113816681951281",
+      "url": "https://x.com/hossimu/status/2125113816681951281",
+      "handle": "hossimu",
+      "text": "今自称漫画クリエーターたちのスペースに匿名で混れ込んでるけどすごい。\nみんなゴリゴリのAIアイコンでAI加工女写真で中身みんな女性なの意外だった。\n男性だと思ってた。\nもう男女関係なくこういうの使って一発逆転金稼ぎしたいみたいな感じなのかな",
+      "likes": 1108,
+      "rts": 194,
+      "replies": 10,
+      "views": 111611,
+      "time": "2026-11-24T06:26:31Z",
+      "query": "AI"
+    },
+    {
+      "id": "2125267521930674467",
+      "url": "https://x.com/Lu7ryx/status/2125267521930674467",
+      "handle": "Lu7ryx",
+      "text": "コード進行、メロディ、楽曲ジャンル、キーで検索できるサイトあってヤバすぎる\n要素は全部独自AIモデルで解析してるらしく、精度もかなり高くて感激\n曲の追加申請対応も異次元の速さで知りたい楽曲を即座に解析できるのも強い\n\nhttps://chordtube.net",
+      "likes": 808,
+      "rts": 87,
+      "replies": 2,
+      "views": 32586,
+      "time": "2026-11-24T16:37:17Z",
+      "query": "AI"
+    }
+  ]
+}
