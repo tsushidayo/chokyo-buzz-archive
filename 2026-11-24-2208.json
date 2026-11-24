@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "AI",
+  "genres": [
+    "AI"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T13:08:38.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2121943011525624151",
+      "url": "https://x.com/hayashimon1/status/2121943011525624151",
+      "handle": "hayashimon1",
+      "text": "Blender MCP と Fable5.2 で、古びた駅のホームを歩く15秒の映像を作りました。モデリングからレンダリングまで、Blender は自分では触らずAI が書いたプログラムで動かしています。手順をまとめます。※動画生成ではありません",
+      "likes": 2584,
+      "rts": 218,
+      "replies": 54,
+      "views": 192653,
+      "time": "2026-11-15T12:26:52Z",
+      "query": "AI"
+    },
+    {
+      "id": "2125064361886777797",
+      "url": "https://x.com/29meat_ai/status/2125064361886777797",
+      "handle": "29meat_ai",
+      "text": "やばぁぁぁぁぁぁ！！ちょっと待って、画質エグすぎない！？！？Colab × Blender使ってAntigravityに任せたら全自動でできちゃったwww\n\n① 国土交通省PLATEAU × Blenderで京都の3D土台\n② Google Flowで夜の京都・無限ループ映像を生成\n③ ColabのGPUで4K 60fps にAI超解像＆ヌルヌル化",
+      "likes": 1077,
+      "rts": 89,
+      "replies": 21,
+      "views": 172856,
+      "time": "2026-11-24T03:10:00Z",
+      "query": "AI"
+    },
+    {
+      "id": "2124329219358687456",
+      "url": "https://x.com/protoduct_ai/status/2124329219358687456",
+      "handle": "protoduct_ai",
+      "text": "AIアプリ作ってる人、これ使える\n\n「考え中」の表示がかっこよくなる\nSwiftUIの部品、ThinkingOrbs\n\n・点で描いたローディングが9種類\n・大小2サイズ、1行で置ける\n・ライトもダークも対応",
+      "likes": 1716,
+      "rts": 118,
+      "replies": 41,
+      "views": 103173,
+      "time": "2026-11-22T02:28:48Z",
+      "query": "AI"
+    },
+    {
+      "id": "2125091868803498414",
+      "url": "https://x.com/gosrum/status/2125091868803498414",
+      "handle": "gosrum",
+      "text": "Opus 5.5 が気を抜いたら英語で喋りだす問題、みのるんさんの「claude-code-japanese-guard」を使うようにしたらほぼ解決しました。圧倒的感謝...！\n\n「Opus 5.5 を使うときに、急に英語話し出して困る」という方は一度導入することをおすすめします\nhttps://github.com/minorun365/claude-code-japanese-guard",
+      "likes": 1610,
+      "rts": 148,
+      "replies": 25,
+      "views": 164505,
+      "time": "2026-11-24T04:59:18Z",
+      "query": "AI"
+    },
+    {
+      "id": "2123194492895584294",
+      "url": "https://x.com/LIVALEST/status/2123194492895584294",
+      "handle": "LIVALEST",
+      "text": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd\n思ってる以上にAI感がなくてびっくりしてる。",
+      "likes": 5287,
+      "rts": 280,
+      "replies": 21,
+      "views": 2482475,
+      "time": "2026-11-18T23:19:48Z",
+      "query": "AI"
+    }
+  ]
+}
