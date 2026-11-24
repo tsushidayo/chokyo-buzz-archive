@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "社会",
+  "genres": [
+    "社会"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T22:05:57.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125118205219995703",
+      "url": "https://x.com/Siino_13/status/2125118205219995703",
+      "handle": "Siino_13",
+      "text": "日本刀はだめだ。もっとこう、卑勺かつ素人でも使えそうな凶器がいいな。",
+      "likes": 12109,
+      "rts": 860,
+      "replies": 768,
+      "views": 700447,
+      "time": "2026-11-24T06:43:57Z",
+      "query": "社会"
+    },
+    {
+      "id": "2125137346224144541",
+      "url": "https://x.com/xqwooi/status/2125137346224144541",
+      "handle": "xqwooi",
+      "text": "ちょっと聞きたいんですが、\n「雨の匂いがする」と言うと、\n「はぁ？」って言われることがあります。\n\n「雨の匂い」分かる人はいますか？",
+      "likes": 23360,
+      "rts": 708,
+      "replies": 1685,
+      "views": 550795,
+      "time": "2026-11-24T08:00:01Z",
+      "query": "社会"
+    },
+    {
+      "id": "2125078433483104400",
+      "url": "https://x.com/Mt_Nandeya/status/2125078433483104400",
+      "handle": "Mt_Nandeya",
+      "text": "自宅に日本刀置いとく話を見てて、明らかに増えてきたのが、仮に闇バイト10人入ってきたとして、10人に勝てはしなくても2人か3人でも殺しておけば「最低限名誉は保たれる」「後悔はしない」「多少なりともスッキリする」という考え方なあたり、多分今でも日本人は根っこに蛮族飼ってるだろ…",
+      "likes": 34042,
+      "rts": 4192,
+      "replies": 348,
+      "views": 1879685,
+      "time": "2026-11-24T04:05:55Z",
+      "query": "社会"
+    },
+    {
+      "id": "2122983669694640295",
+      "url": "https://x.com/otamiotanomi/status/2122983669694640295",
+      "handle": "otamiotanomi",
+      "text": "立ち飲み屋のおじさんが言ってたことです",
+      "likes": 139236,
+      "rts": 16326,
+      "replies": 239,
+      "views": 8978547,
+      "time": "2026-11-18T09:22:04Z",
+      "query": "社会"
+    },
+    {
+      "id": "2125122243797950488",
+      "url": "https://x.com/officialhige/status/2125122243797950488",
+      "handle": "officialhige",
+      "text": "【New Release】\n\n12/1(火)配信リリース「#エバーグリーン」\n\n#ポケモン30周年『#ポケモンとつづく』\nPokémon Special Music Video楽曲に決定！\n\n本楽曲を使用したMVは、11/30(月) 23:00にポケモン公式YouTubeチャンネルにてプレミア公開🎥\n\n🎧Pre-add/Pre-save\nhttps://HGDN.lnk.to/EVERGREEN\n\n🎥Pokémon Special Music Video\nhttps://t.co/MOl7pmne5f\n\n💻特設サイト\nhttps://t.co/95LU44k6lN\n\n@Pokemon_cojp",
+      "likes": 18674,
+      "rts": 4841,
+      "replies": 125,
+      "views": 690330,
+      "time": "2026-11-24T07:00:00Z",
+      "query": "社会"
+    }
+  ]
+}
