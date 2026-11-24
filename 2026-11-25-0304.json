@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "AI",
+  "genres": [
+    "AI"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T18:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124293174504099998",
+      "url": "https://x.com/Suryman_2/status/2124293174504099998",
+      "handle": "Suryman_2",
+      "text": "若手コンサルの資料レビュー。またAIか…と頭を抱えがち",
+      "likes": 6515,
+      "rts": 440,
+      "replies": 80,
+      "views": 3231595,
+      "time": "2026-11-22T00:05:34Z",
+      "query": "AI"
+    },
+    {
+      "id": "2123194492895584294",
+      "url": "https://x.com/LIVALEST/status/2123194492895584294",
+      "handle": "LIVALEST",
+      "text": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd\n思ってる以上にAI感がなくてびっくりしてる。",
+      "likes": 5286,
+      "rts": 279,
+      "replies": 21,
+      "views": 2482927,
+      "time": "2026-11-18T23:19:48Z",
+      "query": "AI"
+    },
+    {
+      "id": "2123311981264593353",
+      "url": "https://x.com/wad0427/status/2123311981264593353",
+      "handle": "wad0427",
+      "text": "これだよこれ",
+      "likes": 1533,
+      "rts": 110,
+      "replies": 20,
+      "views": 296074,
+      "time": "2026-11-19T07:06:40Z",
+      "query": "AI"
+    },
+    {
+      "id": "2124789563893969221",
+      "url": "https://x.com/denfaminicogame/status/2124789563893969221",
+      "handle": "denfaminicogame",
+      "text": "【すごい】テスラの「車の周りを自動で映像化」する新機能が未来すぎる。「まるでゲーム画面だ！」と話題に\nhttps://news.denfaminicogamer.jp/news/261123l\n\nイーロン・マスク氏も「GTAみたいだ」とコメント。AIが周囲の状況を読み取ってリアルタイムに映像を生成し、さながら「ゲームの三人称視点」のような画面が生まれる",
+      "likes": 1223,
+      "rts": 263,
+      "replies": 27,
+      "views": 220830,
+      "time": "2026-11-23T08:58:03Z",
+      "query": "AI"
+    },
+    {
+      "id": "2124344622327689338",
+      "url": "https://x.com/kodama_aiojisan/status/2124344622327689338",
+      "handle": "kodama_aiojisan",
+      "text": "やばばば！！ColabでBlender描画したあとgemini-omni-1.2-flashで動画生成した！！すべてAntigravity内で完結したわ！！",
+      "likes": 1921,
+      "rts": 151,
+      "replies": 31,
+      "views": 173906,
+      "time": "2026-11-22T03:30:01Z",
+      "query": "AI"
+    }
+  ]
+}
