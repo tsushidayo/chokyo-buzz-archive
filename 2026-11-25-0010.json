@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-24T15:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125137347259859022",
+      "url": "https://x.com/livedoornews/status/2125137347259859022",
+      "handle": "livedoornews",
+      "text": "【複雑胸中】仕事が無いのに給料UP…「年収1000万円の社内ニート」が明かす8時間\nhttps://news.livedoor.com/article/detail/32878882/\n\n大手企業に勤務する年収1000万円の30代女性は、朝にメールを確認すると“もうやることがない“という。そのため、勤務時間中に映画を見る日も。しかしそんな中でも、時折不安に襲われるそう。",
+      "likes": 6403,
+      "rts": 630,
+      "replies": 152,
+      "views": 2312962,
+      "time": "2026-11-24T08:00:01Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2124818930967695590",
+      "url": "https://x.com/kepikepi_X/status/2124818930967695590",
+      "handle": "kepikepi_X",
+      "text": "年齢当てゲームを作りました\n\nhttps://kepigame.com/games/nenrei.html\n\n#あなたの年齢を当てます #KEPIGAME #個人開発",
+      "likes": 114853,
+      "rts": 16975,
+      "replies": 943,
+      "views": 52662985,
+      "time": "2026-11-23T10:54:45Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125137729046593911",
+      "url": "https://x.com/uryu0329/status/2125137729046593911",
+      "handle": "uryu0329",
+      "text": "■ 新作アバター『NULU』11月27日リリース＆プレゼントキャンペーン 🎁\n\n新作アバター『NULU』を11月27日にリリースします！\n発売に先駆け、『NULU』を抽選でプレゼントいたします！\n\n【応募方法】\n① このアカウントをフォロー＆このポストをRP\n② BOOTHの商品ページに「スキ♡」（任意）\n\n🎁 BOOTHの「スキ♡」が200件増えるごとに、当選枠を1名追加！\n\n⏰ 応募締切は11月26日 23:59まで\n▼『NULU』商品ページ\nhttps://t.co/aoZNsEBqZF\nご応募をお待ちしております！",
+      "likes": 6522,
+      "rts": 3740,
+      "replies": 71,
+      "views": 175795,
+      "time": "2026-11-24T08:01:32Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125195629748216218",
+      "url": "https://x.com/livedoornews/status/2125195629748216218",
+      "handle": "livedoornews",
+      "text": "【苦戦】かっぱ寿司、赤字9億円で15店舗閉店へ\nhttps://news.livedoor.com/article/detail/32885898/\n\n「かっぱ寿司」の2026年4～9月期営業損失は約9億円に達し、国内15店舗の閉店が決定。かつて業界トップだった同社が後発のスシロー・はま寿司・くら寿司に差を付けられた理由とは。",
+      "likes": 6860,
+      "rts": 1093,
+      "replies": 266,
+      "views": 1532765,
+      "time": "2026-11-24T11:51:37Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125113295120281748",
+      "url": "https://x.com/kaguyairoP1201/status/2125113295120281748",
+      "handle": "kaguyairoP1201",
+      "text": "米アカデミー賞審査対象に超かぐや姫！が選出されてて草です",
+      "likes": 12775,
+      "rts": 2812,
+      "replies": 66,
+      "views": 280808,
+      "time": "2026-11-24T06:24:26Z",
+      "query": "ニュース"
+    }
+  ]
+}
