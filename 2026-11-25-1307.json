@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T04:07:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125439334836752505",
+      "url": "https://x.com/Genshin_7/status/2125439334836752505",
+      "handle": "Genshin_7",
+      "text": "【壁紙配布】\n「終焉へ墜ちる時」シリーズのキービジュアルを使用したスマートフォン用とデスクトップ用の壁紙を配布します。\nぜひお好きなデザインをご利用ください！\n\n#原神 #Genshin",
+      "likes": 2792,
+      "rts": 620,
+      "replies": 5,
+      "views": 99686,
+      "time": "2026-11-25T04:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125439339215864263",
+      "url": "https://x.com/ZZZ_JP/status/2125439339215864263",
+      "handle": "ZZZ_JP",
+      "text": "サンブリンガー エキシビション「日没の前に」｜ゼンレスゾーンゼロ\n\nまるで、重くのしかかるあの太陽が、彼女に運命を宣告したかのようだった。\n\n#ゼンゼロ \n#サンブリンガー",
+      "likes": 1887,
+      "rts": 724,
+      "replies": 4,
+      "views": 49306,
+      "time": "2026-11-25T04:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125439338477437341",
+      "url": "https://x.com/Fuwa_Minato/status/2125439338477437341",
+      "handle": "Fuwa_Minato",
+      "text": "Zoff SMART15周年👓\n長時間ゲームしててもずれなし、疲れなさすぎて掛けてること忘れるレベルです✨\n俺たちのPOPの店頭展示は12/24（木）まで‼️‼️‼️\nZoffでお気に入りのメガネを探してください✨\n\n特設ページ▼\nhttps://www.zoff.co.jp/shop/default.aspx\n\nZoff SMART▼\nhttps://www.zoff.co.jp/shop/contents/zoffsmart.aspx?utm_source=twitter&utm_medium=social&utm_content=202611_fuwaminato_smartpr\n\n#PR #にじぞふ #軽くて壊れにくいメガネ",
+      "likes": 1842,
+      "rts": 433,
+      "replies": 30,
+      "views": 30138,
+      "time": "2026-11-25T04:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125439534926266472",
+      "url": "https://x.com/TDR_PR/status/2125439534926266472",
+      "handle": "TDR_PR",
+      "text": "ディズニーリゾートラインでは、「ダッフィー＆フレンズのメイキング・ウィンター・ウォーム」デザインのフリーきっぷを販売中⭐\n\nあなたの大切なダッフィー＆フレンズと一緒に東京ディズニーシー®に行こう🎶\nhttps://www.tokyodisneyresort.jp/fantasy/resortline/",
+      "likes": 503,
+      "rts": 42,
+      "replies": 0,
+      "views": 23415,
+      "time": "2026-11-25T04:00:48Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125403423696896133",
+      "url": "https://x.com/miminaga6767/status/2125403423696896133",
+      "handle": "miminaga6767",
+      "text": "好きなタイミングで止めてお嬢様に飲み物を提供しよう!！ \n#東方Project  #レミリア・スカーレット",
+      "likes": 5752,
+      "rts": 677,
+      "replies": 55,
+      "views": 299498,
+      "time": "2026-11-25T01:37:18Z",
+      "query": "エンタメ"
+    }
+  ]
+}
