@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T23:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125726317115256873",
+      "url": "https://x.com/AORINGOHUZIN/status/2125726317115256873",
+      "handle": "AORINGOHUZIN",
+      "text": "【TV出演情報📺】\n⁡\n明日11月27日(金)\nフジテレビ系「#めざましテレビ」 にて\n藤澤涼架の「#涼ちゃんの動物メモ」が放送となります🐰📝\n⁡\n出身地の長野県にある城山動物園にお邪魔させていただきました🌈\n⁡\n6時台・8時台に放送予定となります！\n皆さま、ぜひご覧ください！\n⁡\n▼番組HP\nhttps://t.co/cFWNEBNxh7\n⁡\n#MrsGREENAPPLE \n#藤澤涼架",
+      "likes": 1680,
+      "rts": 287,
+      "replies": 34,
+      "views": 23798,
+      "time": "2026-11-25T23:00:22Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125726233900306674",
+      "url": "https://x.com/akiko_lawson/status/2125726233900306674",
+      "handle": "akiko_lawson",
+      "text": "5日間限定の無料券チャレンジ(^^)\n今日はワッフル無料の2日目です♪\n\n1）このアカウントをフォロー\n2）この投稿をリポスト\n3）抽選で毎日1万名様に無料券！結果は自動でお知らせ",
+      "likes": 2670,
+      "rts": 12272,
+      "replies": 13,
+      "views": 79618,
+      "time": "2026-11-25T23:00:02Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125726271833297234",
+      "url": "https://x.com/gongcha_japan/status/2125726271833297234",
+      "handle": "gongcha_japan",
+      "text": "フォロー&リポストで当てよう❕​\n\n📢今日から全店販売スタート\nあまおうづくしのデザートティーを試してみてね🍓\n\n🍓✨🍓\n​\n毎日1︕0︕0名様に\n『あまおう®ホリデー』の\nドリンクTicketを🎁\n​\nそのうち10名様には大当たり🎯でドリンクTicket️️枚を🎁\n​\n🍓✨🍓\n​\n※この投稿は11/27 7:59まで",
+      "likes": 694,
+      "rts": 2791,
+      "replies": 8,
+      "views": 18251,
+      "time": "2026-11-25T23:00:11Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125726224882504116",
+      "url": "https://x.com/sd_bt/status/2125726224882504116",
+      "handle": "sd_bt",
+      "text": "★☆お知らせ☆★\n\n#小笠原海(2号車 #カイ)出演！✨\nフジテレビ『ポリティカルパン』第9話\n\n12月9日(水)よる10時放送！\nぜひチェックしてください！👀\nhttps://www.fujitv.co.jp/politicalupin/news/news17.html\n\n@politicalupin\n#ポリティカルパン",
+      "likes": 1921,
+      "rts": 231,
+      "replies": 4,
+      "views": 23444,
+      "time": "2026-11-25T23:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125724406697574893",
+      "url": "https://x.com/sdurorhr/status/2125724406697574893",
+      "handle": "sdurorhr",
+      "text": "全部好きで描いてるんでね、いつもありがとうって言われてなんかこっちがありがとうってなる",
+      "likes": 1902,
+      "rts": 229,
+      "replies": 2,
+      "views": 15551,
+      "time": "2026-11-25T22:52:47Z",
+      "query": "エンタメ"
+    }
+  ]
+}
