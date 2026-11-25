@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T10:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125221873067991372",
+      "url": "https://x.com/sanohayatodazo/status/2125221873067991372",
+      "handle": "sanohayatodazo",
+      "text": "今日M！LK12周年を迎えました！！\n応援してくださる皆様、いつも本当にありがとうございます！！\nまだまだ未熟な僕らですが、皆さんに少しでも楽しんでもらえるようにこれからも頑張っていきます。\nこれからもよろしくお願いします！！",
+      "likes": 232243,
+      "rts": 27070,
+      "replies": 1565,
+      "views": 2026615,
+      "time": "2026-11-24T13:35:53Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125512115415101565",
+      "url": "https://x.com/official_jo1/status/2125512115415101565",
+      "handle": "official_jo1",
+      "text": "[📢]\n\n沖縄県那覇市の「那覇市観光大使」に\n#與那城奨 が就任させていただきました✨\n\n那覇市の魅力をお伝えしていきます！\n\n今後ともよろしくお願いします！\n\n▼詳細\nhttps://cloud.jo1.jp/news/detail/6570\n\n#JO1 #SHO",
+      "likes": 10201,
+      "rts": 2575,
+      "replies": 209,
+      "views": 111301,
+      "time": "2026-11-25T08:49:13Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125478106689397003",
+      "url": "https://x.com/ArturGalata/status/2125478106689397003",
+      "handle": "ArturGalata",
+      "text": "しぶりぼり！！！！！！\nあああチーズョ！！！！\nムズンコ茶！！！！！！",
+      "likes": 5263,
+      "rts": 715,
+      "replies": 76,
+      "views": 236659,
+      "time": "2026-11-25T06:34:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125526234952323537",
+      "url": "https://x.com/nogizaka46/status/2125526234952323537",
+      "handle": "nogizaka46",
+      "text": "【ブログ更新 五百城茉央】 刹那的な日々を噛み締めて\nhttps://www.nogizaka46.com/s/n46/diary/detail/105029",
+      "likes": 1970,
+      "rts": 385,
+      "replies": 11,
+      "views": 42181,
+      "time": "2026-11-25T09:45:19Z",
+      "query": "エンタメ"
+    }
+  ]
+}
