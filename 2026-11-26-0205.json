@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T17:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125633656786141427",
+      "url": "https://x.com/ryoganosu/status/2125633656786141427",
+      "handle": "ryoganosu",
+      "text": "「BULLET TRAIN 1st DOME LIVE Signal」\n\n東京ドーム1日目、ありがとうございました(^o^)  \n\nツンデレ発動。\n\n#5号車ユーキさん\n#5万人記念写真\n#明日も東京ドームでお待ちしております",
+      "likes": 2696,
+      "rts": 733,
+      "replies": 10,
+      "views": 14659,
+      "time": "2026-11-25T16:52:10Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125628899468227010",
+      "url": "https://x.com/zootopureyade/status/2125628899468227010",
+      "handle": "zootopureyade",
+      "text": "🐯\n\n8号車のみなさーん\n\nタカシくんのゆめ\nかないました\n\nずーつとのゆめ\nかないました\n\nとーきようどーむのタカシくんは\nいままでで\nいちばんかつこいいの\n\nだからぼくはあしたも\nふれーふれーするよ\n\nタカシくんにとどくように\nたくさんふれーふれー\nするんだもん\n\nティガシ",
+      "likes": 4356,
+      "rts": 987,
+      "replies": 16,
+      "views": 32581,
+      "time": "2026-11-25T16:33:16Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125628441806651573",
+      "url": "https://x.com/_talkqueens/status/2125628441806651573",
+      "handle": "_talkqueens",
+      "text": "次回の #トークィーンズ は❗\ufe0f\n\n▷▷ GUEST💫 #StrayKids  ⚡️◁◁\n\n    -`⏰2日（水）24:45 スタート💄´-\n╰━━━━━ｖ━━━━━━━━━━╯\n世界的アーティスト🪸\n大人気❗️ #StrayKids 🎤\n通称◤ #スキズ ◢ が全員で参戦🌟✨\n\n12月2日（水）9日（水）2週連続放送‼️\n\n是非ご覧ください🙌",
+      "likes": 1684,
+      "rts": 451,
+      "replies": 1,
+      "views": 16147,
+      "time": "2026-11-25T16:31:27Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125465426855649586",
+      "url": "https://x.com/Rou_2434/status/2125465426855649586",
+      "handle": "Rou_2434",
+      "text": "誕生日感謝。",
+      "likes": 58146,
+      "rts": 10462,
+      "replies": 1670,
+      "views": 711257,
+      "time": "2026-11-25T05:43:41Z",
+      "query": "エンタメ"
+    }
+  ]
+}
