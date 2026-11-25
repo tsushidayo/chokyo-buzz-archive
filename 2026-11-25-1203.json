@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T03:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125419577878413664",
+      "url": "https://x.com/pj_sekai/status/2125419577878413664",
+      "handle": "pj_sekai",
+      "text": "👑総集編イベント\nワンダーランズ×ショウタイム Memories\n\nワンダーランズ×ショウタイムのストーリーに登場するキャラクターをまとめてご紹介✨\n\n#プロセカ #ワンダショ",
+      "likes": 1796,
+      "rts": 527,
+      "replies": 6,
+      "views": 62640,
+      "time": "2026-11-25T02:41:30Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125418129786560534",
+      "url": "https://x.com/TravisJapan_cr/status/2125418129786560534",
+      "handle": "TravisJapan_cr",
+      "text": "⋰  Thank you !!!!!!! ⋱\n\n📣“Jewelry Basket”\n通算7作目のデジタルアルバム🥇位獲得!!!!!!!\n\n本当にありがとうございます✨\n\n💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻\n\n#TravisJapan #トラジャ #JewelryBasket",
+      "likes": 1935,
+      "rts": 507,
+      "replies": 16,
+      "views": 19383,
+      "time": "2026-11-25T02:35:45Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125417941252649225",
+      "url": "https://x.com/onenonly_tokyo/status/2125417941252649225",
+      "handle": "onenonly_tokyo",
+      "text": "＼ まもなく ／\n\nこのあと11:55〜\n日本テレビ系『#ヒルナンデス！』\n(https://www.ntv.co.jp/hirunan/\n\n#HAYATO #NAOYA がVTR出演🚌✨\n\n群馬日帰りバスツアーで高級イチゴを堪能します🍓\n\n皆さまぜひ覧ください📺\n\n@hirunandes_4ntv\n#ワンエン #ONENONLY",
+      "likes": 2924,
+      "rts": 422,
+      "replies": 7,
+      "views": 29376,
+      "time": "2026-11-25T02:35:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125415518425514215",
+      "url": "https://x.com/shirakamifubuki/status/2125415518425514215",
+      "handle": "shirakamifubuki",
+      "text": "改めまして！\n騎士団リーダーの黒上\n冥界の女王ナイラ様\n実装……ガチ！？😭✨\nありがとうございます…また続報をお待ちください🦊✨\n⬇️王国サイト👑\nhttps://fbkingdom.hololivepro.com/",
+      "likes": 1635,
+      "rts": 299,
+      "replies": 99,
+      "views": 48245,
+      "time": "2026-11-25T02:25:22Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125415433486676202",
+      "url": "https://x.com/tdr_doria/status/2125415433486676202",
+      "handle": "tdr_doria",
+      "text": "＼初の常設／\n5月12日より、東京ディズニーシー・ホテルミラコスタに、ダッフィー＆フレンズをテーマにした客室「ダッフィー＆フレンズ・スーペリアルーム・リコルド」が登場します🧸\n\n※4ヶ月前同日11:00～販売開始\nhttps://www.tokyodisneyresort.jp/hotel/memory/dhm/duffy/\n#TDR_now #TDR__now #TDR_info",
+      "likes": 1531,
+      "rts": 180,
+      "replies": 0,
+      "views": 66410,
+      "time": "2026-11-25T02:25:02Z",
+      "query": "エンタメ"
+    }
+  ]
+}
