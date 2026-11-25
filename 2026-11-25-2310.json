@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T14:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125499279473348814",
+      "url": "https://x.com/nhk_news/status/2125499279473348814",
+      "handle": "nhk_news",
+      "text": "【ミャクミャク 「任務」終え下山】\n去年の大阪・関西万博の公式キャラクター「ミャクミャク」のモニュメントが、山での「任務」を終え、ヘリコプターでつり下げられて下山しました。\n\nhttps://news.web.nhk/newsweb/na/nd-20261125de81258\n#nhk_video",
+      "likes": 9773,
+      "rts": 3138,
+      "replies": 85,
+      "views": 481731,
+      "time": "2026-11-25T07:58:12Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125560309133836583",
+      "url": "https://x.com/nikkei/status/2125560309133836583",
+      "handle": "nikkei",
+      "text": "防衛省、自衛官の定数削減へ\nhttps://www.nikkei.com/article/DGXZQOUA20BWZ0Q6A121C2000000/?n_cid=SNSTW005&n_tw=1795576968\n\n現在は定数の1割が欠員状態。防衛省幹部は定員に満たない部隊は「現場のブラック労働で何とかなっている」と明かします。定数と隊員の実数の差を小さくしなければ現場の負担が増し、運用に支障が出ると判断しました。",
+      "likes": 2042,
+      "rts": 841,
+      "replies": 176,
+      "views": 377019,
+      "time": "2026-11-25T12:00:43Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125590498740199796",
+      "url": "https://x.com/sd_bt/status/2125590498740199796",
+      "handle": "sd_bt",
+      "text": "✉️ニュース超特急✉️\n\n本日、東京ドームにて開催されました、\n「BULLET TRAIN 1st DOME LIVE Signal」\n初日の裏側を\"世界最速\"でお届けします！！\nhttps://www.youtube.com/watch?v=JZi6wZXqq2o&feature=youtu.be\n\n#超特急_Signal",
+      "likes": 9216,
+      "rts": 2029,
+      "replies": 18,
+      "views": 70939,
+      "time": "2026-11-25T14:00:41Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2125571278727987545",
+      "url": "https://x.com/info__Johnnys/status/2125571278727987545",
+      "handle": "info__Johnnys",
+      "text": "【ACEes アリーナツアー発表】\n\n「ACEes Arena Tour 2027 \"I\"」\n■2/6(土)～7(日) 宮城・セキスイハイム\n■2/26(金)～27(土) 福岡・マリンメッセ\n■3/25(木)～28(日) 神奈川・横浜アリーナ\n■4/17(土)～18(日) 愛知・Sky Expo\n■5/4(火 祝)～5(水 祝) 大阪・大阪城ホール\n#ACEes #あわてんぼうのACEesとクリパ",
+      "likes": 9957,
+      "rts": 1175,
+      "replies": 14,
+      "views": 714093,
+      "time": "2026-11-25T12:44:18Z",
+      "query": "ニュース"
+    }
+  ]
+}
