@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T19:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2125656294128570852",
+      "url": "https://x.com/NOGI46ann/status/2125656294128570852",
+      "handle": "NOGI46ann",
+      "text": "#乃木坂46ANN  をTFで🎧\n\n地元の親子バスケに参加した\n#乃木坂46 #井上和 がお送りしました🏀\n\nリスナーからアドバイスを聞いてからのシュートは決まったのか…\n\n来週は三期生の #岩本蓮加 #伊藤理々杏 が登場🎊\n\nradikoは👇\nhttps://radiko.jp/share/?sid=LFR&t=20261126010000",
+      "likes": 613,
+      "rts": 139,
+      "replies": 9,
+      "views": 10602,
+      "time": "2026-11-25T18:22:07Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125654607951237529",
+      "url": "https://x.com/H_KAGAMI2434/status/2125654607951237529",
+      "handle": "H_KAGAMI2434",
+      "text": "配信ありがとうございました！\nこれが、戦国を生き抜く難しさ。",
+      "likes": 765,
+      "rts": 132,
+      "replies": 49,
+      "views": 22873,
+      "time": "2026-11-25T18:15:25Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125653609933345044",
+      "url": "https://x.com/mizumiya_su/status/2125653609933345044",
+      "handle": "mizumiya_su",
+      "text": "ぴゃーーーーーーーー",
+      "likes": 540,
+      "rts": 53,
+      "replies": 71,
+      "views": 12473,
+      "time": "2026-11-25T18:11:27Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125652475646742835",
+      "url": "https://x.com/Amayui_Moka/status/2125652475646742835",
+      "handle": "Amayui_Moka",
+      "text": "わーーーーーーーーーーーい！！！！！！！！！\n全然配信出来る状態じゃないのがくやまれる🙂\nみんなありがとう🎉",
+      "likes": 1434,
+      "rts": 133,
+      "replies": 121,
+      "views": 14628,
+      "time": "2026-11-25T18:06:57Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125651591533638128",
+      "url": "https://x.com/brnic_dakota/status/2125651591533638128",
+      "handle": "brnic_dakota",
+      "text": "今年のMVP取りに来てるわ",
+      "likes": 823,
+      "rts": 111,
+      "replies": 50,
+      "views": 10722,
+      "time": "2026-11-25T18:03:26Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125661542503067940",
+      "url": "https://x.com/tsunomakiwatame/status/2125661542503067940",
+      "handle": "tsunomakiwatame",
+      "text": "食べながら打ってる…？！",
+      "likes": 249,
+      "rts": 33,
+      "replies": 19,
+      "views": 11892,
+      "time": "2026-11-25T18:42:59Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125661074980790405",
+      "url": "https://x.com/stylishnoob/status/2125661074980790405",
+      "handle": "stylishnoob",
+      "text": "ハイゲOW出場者が危険な状態",
+      "likes": 300,
+      "rts": 21,
+      "replies": 4,
+      "views": 13937,
+      "time": "2026-11-25T18:41:07Z",
+      "query": "エンタメ"
+    }
+  ]
+}
