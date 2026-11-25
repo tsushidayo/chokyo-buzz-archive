@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T12:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125560201927692360",
+      "url": "https://x.com/fctokyoofficial/status/2125560201927692360",
+      "handle": "fctokyoofficial",
+      "text": "🔵🔴\n𝐅𝐔𝐋𝐋 𝐓𝐈𝐌𝐄 #TokyoHiroshima\n\n2026/27明治安田Ｊ１リーグ第16節\n#FC東京 2-2 #サンフレッチェ広島\n\n前半に失点。後半に #長倉幹樹 選手、#仲川輝人 選手のゴールで逆転するも同点ゴールを許し試合終了。\n\n本日もホーム #味の素スタジアム での大きなサポートをありがとうございました。\n\n#fctokyo #tokyo",
+      "likes": 591,
+      "rts": 146,
+      "replies": 44,
+      "views": 25832,
+      "time": "2026-11-25T12:00:17Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125559738809340338",
+      "url": "https://x.com/frontale_staff/status/2125559738809340338",
+      "handle": "frontale_staff",
+      "text": "試合終了\n\n🏆明治安田J1リーグ 第16節\n#V・ファーレン長崎 1-2 #川崎フロンターレ\n\n22分 フィリップウレモヴィッチ\n48分 伊藤達哉\n\n【広報】 #frontale",
+      "likes": 737,
+      "rts": 189,
+      "replies": 30,
+      "views": 14885,
+      "time": "2026-11-25T11:58:27Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125559589542461868",
+      "url": "https://x.com/sanfrecce_SFC/status/2125559589542461868",
+      "handle": "sanfrecce_SFC",
+      "text": "⏹️𝐅𝐔𝐋𝐋𝐓𝐈𝐌𝐄\n\n#クシニイェンギ が値千金の同点弾\nアウェイで勝点1を手にする\n\n🏆明治安田J1リーグ 第16節\n🆚FC東京\n🔢 2-2\n⚽️鮎川峻, クシニイェンギ\n#sanfrecce #ONEVIOLET #Jリーグ",
+      "likes": 736,
+      "rts": 163,
+      "replies": 16,
+      "views": 17218,
+      "time": "2026-11-25T11:57:51Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2125559403646738941",
+      "url": "https://x.com/DAZN_JPN/status/2125559403646738941",
+      "handle": "DAZN_JPN",
+      "text": "まだ終わらない\n\nセットプレーから最後はクシニ イェンギ🔥🔥\n負けられない首位攻防戦で広島が意地を見せる\n\n🇯🇵明治安田J1リーグ第16節\n🆚FC東京×広島\n#Jリーグ #だったらDAZN",
+      "likes": 529,
+      "rts": 124,
+      "replies": 1,
+      "views": 30208,
+      "time": "2026-11-25T11:57:07Z",
+      "query": "スポーツ"
+    }
+  ]
+}
