@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T16:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125620526580437200",
+      "url": "https://x.com/official_jo1/status/2125620526580437200",
+      "handle": "official_jo1",
+      "text": "2026.11.25\n📸 ニッポン放送 #JO1 のオールナイトニッポンX \n\n#白岩瑠姫 が出演させていただきました！\nありがとうございました！\n\n#JO1ANNX",
+      "likes": 1083,
+      "rts": 375,
+      "replies": 13,
+      "views": 14957,
+      "time": "2026-11-25T16:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125619570170036357",
+      "url": "https://x.com/kabuara5/status/2125619570170036357",
+      "handle": "kabuara5",
+      "text": "リーダー、誕生日おめでとう❗️㊗️🎉",
+      "likes": 2720,
+      "rts": 617,
+      "replies": 38,
+      "views": 16319,
+      "time": "2026-11-25T15:56:12Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125619267966304727",
+      "url": "https://x.com/official_jo1/status/2125619267966304727",
+      "handle": "official_jo1",
+      "text": "2026.11.25\n📸TBS #よるのブランチ\n\n#與那城奨 #河野純喜 #佐藤景珓 #木全翔也 #金城碧海 が出演させていただきました！\nありがとうございました！\n\n#JO1",
+      "likes": 1570,
+      "rts": 493,
+      "replies": 2,
+      "views": 19531,
+      "time": "2026-11-25T15:55:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125611414341702096",
+      "url": "https://x.com/tentenchan2525/status/2125611414341702096",
+      "handle": "tentenchan2525",
+      "text": "メスガキ姫",
+      "likes": 1294,
+      "rts": 121,
+      "replies": 18,
+      "views": 48382,
+      "time": "2026-11-25T15:23:47Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125611780382896562",
+      "url": "https://x.com/spygea_jp/status/2125611780382896562",
+      "handle": "spygea_jp",
+      "text": "３７歳になりました！\nこれからも人生楽しんでいきます！",
+      "likes": 2337,
+      "rts": 191,
+      "replies": 59,
+      "views": 31386,
+      "time": "2026-11-25T15:25:15Z",
+      "query": "エンタメ"
+    }
+  ]
+}
