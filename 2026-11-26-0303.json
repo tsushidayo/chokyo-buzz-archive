@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T18:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125644614866739562",
+      "url": "https://x.com/hakuikoyori/status/2125644614866739562",
+      "handle": "hakuikoyori",
+      "text": "今日明日でやらねばならないお仕事を9割した…！！\n\n明日(今日)は余裕あったら早めに配信が始まるかーも！\n\nおやすみ助手くん💗\nまた明日だっ(ᖁ •͈ ·̫ •͈ ᖁ)✨",
+      "likes": 458,
+      "rts": 42,
+      "replies": 61,
+      "views": 16264,
+      "time": "2026-11-25T17:35:43Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125642417462526365",
+      "url": "https://x.com/NOGI46ann/status/2125642417462526365",
+      "handle": "NOGI46ann",
+      "text": "／\n#乃木坂46ANN 放送中📻\n＼\n\nブースに運び込まれたバスケットゴールにシュートを放つ  #井上和 🏀\n\nこちらから👇\nhttps://radiko.jp/share/?sid=LFR&t=20261126010000",
+      "likes": 849,
+      "rts": 207,
+      "replies": 16,
+      "views": 18689,
+      "time": "2026-11-25T17:26:59Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125641056964468838",
+      "url": "https://x.com/hakuikoyori/status/2125641056964468838",
+      "handle": "hakuikoyori",
+      "text": "これだから麻雀はやめられない♡",
+      "likes": 455,
+      "rts": 61,
+      "replies": 16,
+      "views": 18926,
+      "time": "2026-11-25T17:21:35Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125640901016031523",
+      "url": "https://x.com/rei_Toya_rei/status/2125640901016031523",
+      "handle": "rei_Toya_rei",
+      "text": "主人公のようにちゃんと逃避せず受けとめよう\n\n『気のせいすぎるRPG』が面白かったのも、\n剣持のサジェストに\"浮気\"が出てくるのも、\n僕ピカチュウ！と発言したというデマが横行してるのも、\n全て向かい合わないといけない現実なのだ\n#剣持刀也生",
+      "likes": 3223,
+      "rts": 826,
+      "replies": 106,
+      "views": 51818,
+      "time": "2026-11-25T17:20:57Z",
+      "query": "エンタメ"
+    }
+  ]
+}
