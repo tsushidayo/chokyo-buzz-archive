@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T05:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125454473875030160",
+      "url": "https://x.com/poke_times/status/2125454473875030160",
+      "handle": "poke_times",
+      "text": "そんな言い方されたらさ…ピィの音も出ないよ",
+      "likes": 732,
+      "rts": 118,
+      "replies": 3,
+      "views": 32697,
+      "time": "2026-11-25T05:00:10Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125454435463954584",
+      "url": "https://x.com/AORINGOHUZIN/status/2125454435463954584",
+      "handle": "AORINGOHUZIN",
+      "text": "【雑誌掲載情報📚】\n\n本日発売！\n「smart」27年1月号\nMrs. GREEN APPLE表紙✨\n\n══════════\n smart × エピソード\n══════════\n \n「smart」表紙に初登場！\nアルバム『POPS』の収録曲『エピソード』をテーマにした撮りおろし特集\n〈ミセスと僕らをつなぐ、エピソード〉を15ページで掲載しています🍏\n誌面には、電子版には載らないスペシャルなA3両面ワイドグラビアページが付属します！\n\n皆さま、ぜひチェックしてください✅\n\n▼smart 公式サイト\nhttps://t.co/dunRtIm3KT\n\n#ミセスPOPS\n#ミセス表紙\n#smart1月号",
+      "likes": 920,
+      "rts": 157,
+      "replies": 7,
+      "views": 15475,
+      "time": "2026-11-25T05:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125451259415232755",
+      "url": "https://x.com/official_jo1/status/2125451259415232755",
+      "handle": "official_jo1",
+      "text": "[#金城碧海]\n\n植活中のみなさーん！What's up!?\nすーちゃんです！この度「先どり！GREEN x EXPO 2027」のレポーターに就任しました！！大好きな植物の魅力をより沢山の方へお伝えできるよう精一杯頑張ります🔥\nそれと！！「趣味の園芸」1月号にもすーちゃん出てくるのでチェックしてね！！✈️\n\n@shumien \n#趣味の園芸\n#JO1 #SKY",
+      "likes": 2746,
+      "rts": 766,
+      "replies": 41,
+      "views": 27785,
+      "time": "2026-11-25T04:47:23Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125454432338866413",
+      "url": "https://x.com/ZZZ_JP/status/2125454432338866413",
+      "handle": "ZZZ_JP",
+      "text": "エージェント未収録映像｜サンブリンガー編\n\n「私が、対処しよう」\n「『私たち』が、でしょう？」\n\n▼Ver.3.4を配信登録してポリクロームと記念名刺をゲット！\nhttps://act.hoyoverse.com/zzz/event/e20261120reserve-auy9i1/index.html?game_biz=nap_global&hyl_presentation_style=fullscreen&hyl_auth_required=true&hyl_landscape=true&hyl_hide_status_bar=true&mode=fullscreen&win_mode=fullscreen&utm_source=sns&utm_medium=CM_Twitter&utm_campaign=nap_appid_1289\n\n#ゼンゼロ #サンブリンガー",
+      "likes": 804,
+      "rts": 230,
+      "replies": 3,
+      "views": 31179,
+      "time": "2026-11-25T05:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125452035613171967",
+      "url": "https://x.com/kota_yabu_hsj/status/2125452035613171967",
+      "handle": "kota_yabu_hsj",
+      "text": "侑李と大ちゃんと光が３人で一つのスマホでYouTube見ながらゲラゲラ笑ってる\n\n今日も平和だ🕊️",
+      "likes": 2521,
+      "rts": 457,
+      "replies": 66,
+      "views": 16522,
+      "time": "2026-11-25T04:50:28Z",
+      "query": "エンタメ"
+    }
+  ]
+}
