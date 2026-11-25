@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T22:08:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125711140206318046",
+      "url": "https://x.com/golden_onespoon/status/2125711140206318046",
+      "handle": "golden_onespoon",
+      "text": "#黄金のワンスプーン ！🥄🌹\n12月4日(金)よる8時55分から\n放送が決定しましたぞ🤩🎉📺\n\n今回も豪華なゲストの皆様に\nお越しいただいております🍽️✨\n\n久しぶりに\n親愛なる皆さまと待ち合わせができるのを\n心待ちにしておりますぞ😎\n\n#SnowMan #宮舘涼太\n#冬の舘祭り",
+      "likes": 2172,
+      "rts": 809,
+      "replies": 84,
+      "views": 12379,
+      "time": "2026-11-25T22:00:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125705742527435017",
+      "url": "https://x.com/nino_honmono/status/2125705742527435017",
+      "handle": "nino_honmono",
+      "text": "皆ーおはよー",
+      "likes": 11989,
+      "rts": 660,
+      "replies": 1503,
+      "views": 101391,
+      "time": "2026-11-25T21:38:37Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125704864806437327",
+      "url": "https://x.com/GoalJP_Official/status/2125704864806437327",
+      "handle": "GoalJP_Official",
+      "text": "🇯🇵 上田綺世が今季 UCL 2ゴール目！⚽\n\nバイエルン戦の62分、日本代表 FW 上田綺世のゴールでリールが同点に追いつく！\n\n抜群の動き出しでンゴイからパスを受けると、ゴール右隅にシュートを流し込んだ！",
+      "likes": 3125,
+      "rts": 386,
+      "replies": 18,
+      "views": 131817,
+      "time": "2026-11-25T21:35:08Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125704755725119985",
+      "url": "https://x.com/root_nico_2/status/2125704755725119985",
+      "handle": "root_nico_2",
+      "text": "☀️朝活雑談☀️\n\nおはようって伝えに来てね。\n\n特別な朝を届けたい！！！\n\nhttps://www.youtube.com/live/AXcWu3yImuo?si=ysz6AlmFpK3mSIx9",
+      "likes": 1306,
+      "rts": 417,
+      "replies": 274,
+      "views": 18297,
+      "time": "2026-11-25T21:34:42Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125703376994529360",
+      "url": "https://x.com/ABEMA_soccer/status/2125703376994529360",
+      "handle": "ABEMA_soccer",
+      "text": "[速報]上田綺世 同点弾！\n\n🏆UEFAチャンピオンズリーグ Matchday5\n🆚リール vs バイエルン\n\n／\n62分  今大会通算2ゴール目\n実況も「上手い！」と絶叫の同点弾！\n＼\n\nABEMAでWOWSPOに登録して\n世界最高峰のスポーツを楽しもう\nABEMA de WOWSPOはこちら👇",
+      "likes": 1371,
+      "rts": 241,
+      "replies": 6,
+      "views": 131752,
+      "time": "2026-11-25T21:29:13Z",
+      "query": "エンタメ"
+    }
+  ]
+}
