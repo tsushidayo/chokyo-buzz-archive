@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T01:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2124818930967695590",
+      "url": "https://x.com/kepikepi_X/status/2124818930967695590",
+      "handle": "kepikepi_X",
+      "text": "年齢当てゲームを作りました\n\nhttps://kepigame.com/games/nenrei.html\n\n#あなたの年齢を当てます #KEPIGAME #個人開発",
+      "likes": 135777,
+      "rts": 18812,
+      "replies": 1416,
+      "views": 66952411,
+      "time": "2026-11-23T10:54:45Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124369855252250993",
+      "url": "https://x.com/kamicigerrardon/status/2124369855252250993",
+      "handle": "kamicigerrardon",
+      "text": "移動です。\n\nタクシー乗せてくださいました。\n\n乗車拒否されてもおかしくない。",
+      "likes": 162454,
+      "rts": 7588,
+      "replies": 609,
+      "views": 14755841,
+      "time": "2026-11-22T05:10:17Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2123939646401102082",
+      "url": "https://x.com/sanohayatodazo/status/2123939646401102082",
+      "handle": "sanohayatodazo",
+      "text": "本当にごめんなさい。\n今日は神奈川でコンサートでした…\nここはYes、神奈川",
+      "likes": 186653,
+      "rts": 9896,
+      "replies": 694,
+      "views": 6279593,
+      "time": "2026-11-21T00:40:47Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124973282579648969",
+      "url": "https://x.com/pc_watch/status/2124973282579648969",
+      "handle": "pc_watch",
+      "text": "NECの「バザールでござーる」今日で引退。約35年の歴史に幕 https://pc.watch.impress.co.jp/docs/news/2158462.html",
+      "likes": 27781,
+      "rts": 14562,
+      "replies": 222,
+      "views": 1437310,
+      "time": "2026-11-23T21:08:05Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124733841533435994",
+      "url": "https://x.com/tanakaseij80061/status/2124733841533435994",
+      "handle": "tanakaseij80061",
+      "text": "日本のJICAが人手不足を世界中にアピール。\n\nJICAは！\nいらんだろって思う人！🙋‍♀️！",
+      "likes": 37555,
+      "rts": 8135,
+      "replies": 583,
+      "views": 313366,
+      "time": "2026-11-23T05:16:38Z",
+      "query": "エンタメ"
+    }
+  ]
+}
