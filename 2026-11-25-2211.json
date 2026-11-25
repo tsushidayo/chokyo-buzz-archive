@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-25T13:11:57.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125574973372907873",
+      "url": "https://x.com/nogizaka46/status/2125574973372907873",
+      "handle": "nogizaka46",
+      "text": "【ブログ更新 小川彩】\n私の手は思ったより冷たいです。\nhttps://www.nogizaka46.com/s/n46/diary/detail/105031",
+      "likes": 1877,
+      "rts": 370,
+      "replies": 9,
+      "views": 38752,
+      "time": "2026-11-25T12:58:59Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125575049231118477",
+      "url": "https://x.com/LoveLive_staff/status/2125575049231118477",
+      "handle": "LoveLive_staff",
+      "text": "☀沼津☀\n本日11月25日『日本地域コンテンツ大賞2026』におきまして、『ラブライブ！サンシャイン!!』がアニメ(漫画)・ゲーム部門の最優秀賞を受賞いたしました🎊\n\n10年を超える年月を、沼津の皆さんと、ファンの皆さんとで歩んできた事が評価されたことと思います。\nあらためまして、感謝いたします。\n\nこれからも『ラブライブ！サンシャイン!!』は故郷・沼津と共にあります。\n#Aqours",
+      "likes": 1631,
+      "rts": 736,
+      "replies": 2,
+      "views": 29633,
+      "time": "2026-11-25T12:59:17Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125575229141569833",
+      "url": "https://x.com/USGinfo/status/2125575229141569833",
+      "handle": "USGinfo",
+      "text": "『UNISON SQUARE GARDEN LIVE 2026 「Sentimental Period」 at Makuhari Messe International Exhibition Hall 2026.07.15』\nジャケットアートワーク公開！\n\nさらに完全生産限定盤BOXの詳細も解禁しました！\nhttps://unison-s-g.com/news/\n\n▼ご予約はこちらより\nhttps://TF.lnk.to/USG_SentiPBDDVD",
+      "likes": 1096,
+      "rts": 424,
+      "replies": 0,
+      "views": 21813,
+      "time": "2026-11-25T13:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125575272032501827",
+      "url": "https://x.com/marumaru_sanrio/status/2125575272032501827",
+      "handle": "marumaru_sanrio",
+      "text": "（あまいものをたべると、しあわせなきぶんでねむれるとおもうの！）（またあした、たべるほうがいいとおもうの・・・）",
+      "likes": 1418,
+      "rts": 385,
+      "replies": 9,
+      "views": 15100,
+      "time": "2026-11-25T13:00:10Z",
+      "query": "エンタメ"
+    }
+  ]
+}
