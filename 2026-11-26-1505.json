@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "アニメ",
+  "genres": [
+    "アニメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T06:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2125817758999056390",
+      "url": "https://x.com/rindochihaya/status/2125817758999056390",
+      "handle": "rindochihaya",
+      "text": "【Animation MV】果てない旅 / 輪堂千速（official） https://www.youtube.com/watch?si=GMaxUQDf8nhbB8Rz&v=CAuo9Nrfor4&feature=youtu.be @YouTubeより\n\n40万回ありがとう〜！！✨😳\n40万回分存在しないアニメがみんなの脳裏に刻まれたとおもうと嬉しいね😽💚笑\n\nこれからもたくさん見てね！",
+      "likes": 1106,
+      "rts": 161,
+      "replies": 84,
+      "views": 21180,
+      "time": "2026-11-26T05:03:44Z",
+      "query": "アニメ"
+    },
+    {
+      "id": "2125802906305851398",
+      "url": "https://x.com/oricon_anime_/status/2125802906305851398",
+      "handle": "oricon_anime_",
+      "text": "『日本アニメトレンド大賞2026』\n鈴代紗弓、夏吉ゆうこ、関智一らの出演決定\nhttps://www.oricon.co.jp/news/2495351/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003\n⠀\nメインMCはハライチ岩井勇気、\n上坂すみれ、徳井青空",
+      "likes": 1111,
+      "rts": 218,
+      "replies": 0,
+      "views": 53807,
+      "time": "2026-11-26T04:04:43Z",
+      "query": "アニメ"
+    },
+    {
+      "id": "2125800115722244297",
+      "url": "https://x.com/Shadowgarden_PR/status/2125800115722244297",
+      "handle": "Shadowgarden_PR",
+      "text": "𝟐 𝐝𝐚𝐲𝐬 𝐥𝐞𝐟𝐭──\n\n￣￣￣￣￣￣￣￣￣￣￣￣\n#陰の実力者 になりたくて！\nアニメ × ゲーム4周年記念合同公開生放送\n𝟗𝟗.𝟐𝟖[𝐬𝐚𝐭] 𝟗𝟓:𝟏𝟏 𝐬𝐭𝐚𝐫𝐭\n\nhttps://www.shadow-garden-mog.jp/4th-anniversary-news/",
+      "likes": 715,
+      "rts": 129,
+      "replies": 1,
+      "views": 17347,
+      "time": "2026-11-26T03:53:37Z",
+      "query": "アニメ"
+    },
+    {
+      "id": "2125795496895930633",
+      "url": "https://x.com/denfaminicogame/status/2125795496895930633",
+      "handle": "denfaminicogame",
+      "text": "アニメ『ジョジョの奇妙な冒険』モチーフのスーツがはるやまのブランド「P.S.FA」から発売。ビジネスシーンで着こなせるシックさに、作品をイメージした柄の裏地で遊び心を\nhttps://news.denfaminicogamer.jp/news/261126q\n\nデザインは「ジョナサン＆ディオ」「ジョセフ＆シーザー」「柱の男」の3種類。サイズはSSから3Lまで",
+      "likes": 3950,
+      "rts": 1039,
+      "replies": 16,
+      "views": 231403,
+      "time": "2026-11-26T03:35:16Z",
+      "query": "アニメ"
+    },
+    {
+      "id": "2125790582257951199",
+      "url": "https://x.com/natori_office/status/2125790582257951199",
+      "handle": "natori_office",
+      "text": "なとり「セレナーデ」が、JOYSOUNDカラオケランキング アニメソング部門で3位に選ばれました。\nたくさん歌ってくださった皆さま、ありがとうございます🎙️\n\n#推しの子 #なとり_セレナーデ \n@Siritoriyowai_  @anime_oshinoko",
+      "likes": 1554,
+      "rts": 275,
+      "replies": 4,
+      "views": 24077,
+      "time": "2026-11-26T03:15:44Z",
+      "query": "アニメ"
+    },
+    {
+      "id": "2125832422696890820",
+      "url": "https://x.com/gkmas_official/status/2125832422696890820",
+      "handle": "gkmas_official",
+      "text": "📢明日11時より！\n📌新プロデュースアイドル\n【アンバランス】 #有村麻央\n\n📅ガシャ開催期間：11/27 (金) 11:00 ～ (予定)\n🕶 # アンバランス 乖轟ガシャ 🎩",
+      "likes": 495,
+      "rts": 196,
+      "replies": 0,
+      "views": 22479,
+      "time": "2026-11-26T06:02:00Z",
+      "query": "アニメ"
+    }
+  ]
+}
