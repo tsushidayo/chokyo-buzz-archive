@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T13:07:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125938426780475474",
+      "url": "https://x.com/AZKi_VDiVA/status/2125938426780475474",
+      "handle": "AZKi_VDiVA",
+      "text": "はじめてのホロじゃん！！！！！あずいろ麻雀いくぞ！！！！！",
+      "likes": 682,
+      "rts": 194,
+      "replies": 72,
+      "views": 14571,
+      "time": "2026-11-26T13:03:13Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125938217103089832",
+      "url": "https://x.com/kazamairohach/status/2125938217103089832",
+      "handle": "kazamairohach",
+      "text": "はじまりました✨\n\nたんやお！！",
+      "likes": 695,
+      "rts": 193,
+      "replies": 84,
+      "views": 16641,
+      "time": "2026-11-26T13:02:23Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125938032088158577",
+      "url": "https://x.com/shirakamifubuki/status/2125938032088158577",
+      "handle": "shirakamifubuki",
+      "text": "急遶REPO参戦してますううう！！！！！",
+      "likes": 733,
+      "rts": 168,
+      "replies": 134,
+      "views": 23549,
+      "time": "2026-11-26T13:01:39Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125937965675565446",
+      "url": "https://x.com/CUTIE_STREET_/status/2125937965675565446",
+      "handle": "CUTIE_STREET_",
+      "text": "💐︎︎❤︎佐野愛花 x スタンドフラワー❤︎💐\n\n薔薈でいっぱいのスタフラ🌹\n最高の1枚🍓✨\n\n皆さま、ありがとうございます💍\n\n11/26(木)\n『佐野愛花生誕祭 2026』\n📍SGCホール有明\n\n❤︎佐野愛花\n\n#さぁのんびり愛活\n#佐野愛花生誕祭2026\n#CUTIESTREET #きゅーすと\n\nPhoto by @yoshimoriyuna",
+      "likes": 847,
+      "rts": 168,
+      "replies": 2,
+      "views": 13585,
+      "time": "2026-11-26T13:01:23Z",
+      "query": "エンタメ"
+    }
+  ]
+}
