@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T03:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125767377933742100",
+      "url": "https://x.com/achichi_mela/status/2125767377933742100",
+      "handle": "achichi_mela",
+      "text": "おぬしらに質問なのじゃ！\n\nまずはRPGを知ってから〇〇すぎるRPGシリーズを触ってみたいって思ったんじゃが、RPG初見さんにおすすめな難易度が高すぎない作品ってどんなのがあるのかのー？",
+      "likes": 2444,
+      "rts": 273,
+      "replies": 550,
+      "views": 65810,
+      "time": "2026-11-26T01:43:32Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125575069518946515",
+      "url": "https://x.com/super_ol_war/status/2125575069518946515",
+      "handle": "super_ol_war",
+      "text": "日本の猫は日本ぽい顔をしている、という話題を見て、ドイツの公園で見かけた猫があまりにもドイツ人顔だったなと思い出していた",
+      "likes": 39103,
+      "rts": 2764,
+      "replies": 36,
+      "views": 642681,
+      "time": "2026-11-25T12:59:22Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125725467617685967",
+      "url": "https://x.com/55_kumamon/status/2125725467617685967",
+      "handle": "55_kumamon",
+      "text": "おはくま〜！よ〜し、行くかモン☆",
+      "likes": 4219,
+      "rts": 534,
+      "replies": 316,
+      "views": 31628,
+      "time": "2026-11-25T22:57:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125700725552595376",
+      "url": "https://x.com/kaerunrun26/status/2125700725552595376",
+      "handle": "kaerunrun26",
+      "text": "ゲーム誘われて2時間くらいしたあと\n他のフレンドと約束してあるって感じな人まじで苦手かも\nそれなら誘わないで欲しいタイプだ私😂",
+      "likes": 3046,
+      "rts": 191,
+      "replies": 39,
+      "views": 594952,
+      "time": "2026-11-25T21:18:41Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2124689516615332134",
+      "url": "https://x.com/AUTOMATONJapan/status/2124689516615332134",
+      "handle": "AUTOMATONJapan",
+      "text": "「猫撫でシミュレーター」無料公開され話題沸騰中。まるで液体、PC/スマホでモフモフし放題\nhttps://automaton-media.com/articles/newsjp/20261123-480411/",
+      "likes": 9712,
+      "rts": 4200,
+      "replies": 46,
+      "views": 856643,
+      "time": "2026-11-23T02:20:30Z",
+      "query": "エンタメ"
+    }
+  ]
+}
