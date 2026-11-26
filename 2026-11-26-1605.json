@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ OR アイドル OR ゲーム OR キャンペーン",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T07:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2123952005530214878",
+      "url": "https://x.com/milk_info/status/2123952005530214877",
+      "handle": "milk_info",
+      "text": "💥💥💥💥💥\nM!LK「爆裂愛してる」\nMV再生回数 1億回突破🎉\n💥💥💥💥💥\n\nみ！るきーずの皆さまをはじめ\nたくさんの方にご視聴、コメントをいただき\n本当にありがとうございます！！！！！\n\n🎥MUSIC VIDEO\n🔗 https://www.youtube.com/watch?v=tpFDnOnOdSQ&feature=youtu.be\n\n#爆裂愛してる #MILK",
+      "likes": 103687,
+      "rts": 15839,
+      "replies": 203,
+      "views": 1566803,
+      "time": "2026-11-21T01:29:53Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125786622591455492",
+      "url": "https://x.com/SNK_crossover/status/2125786622591455492",
+      "handle": "SNK_crossover",
+      "text": "🎊『#SNKクロスオーバー』事前登録開始🎊\n 【1日目】4日間連続フォロー＆リポストキャンペーン開催！\n \n SNKの人気ファイターが集結！\n 事前登録開始を記念して、抽選でギフトが当たる🎁\n その場で結果がわかる✨\n \n えらべるPay最大10,000円分✨\n ▼参加方法\n ① @SNK_crossover をフォロー\n ②この投稿をリポスト\n ③下記リンクから抽選結果を確認👇\nhttps://t.co/lnmYYKGhVh\n\n #SNKクロスオーバー #SNK #えらべるPay",
+      "likes": 1506,
+      "rts": 5854,
+      "replies": 17,
+      "views": 32917,
+      "time": "2026-11-26T03:00:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125835949368357321",
+      "url": "https://x.com/achichi_mela/status/2125835949368357321",
+      "handle": "achichi_mela",
+      "text": "シリーズ系おすすめしてくれてる方見るんじゃけど、こういうのって1からじゃなくてもいけるのかのー？",
+      "likes": 1143,
+      "rts": 167,
+      "replies": 196,
+      "views": 27408,
+      "time": "2026-11-26T06:16:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125794172959379712",
+      "url": "https://x.com/McDonaldsJapan/status/2125794172959379712",
+      "handle": "McDonaldsJapan",
+      "text": "今年も登場！コクUPして帰ってきた！\n\n【#マックに3種チーズのビーフシチューパイ】をつけて本日11/26(木)中にリプライすると、抽選で4日合計100名様に1,000円分のマックカードプレゼント！\n\n詳細は画像をタップ！",
+      "likes": 3939,
+      "rts": 1944,
+      "replies": 6650,
+      "views": 293930,
+      "time": "2026-11-26T03:30:00Z",
+      "query": "エンタメ"
+    }
+  ]
+}
