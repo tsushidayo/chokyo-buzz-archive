@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T11:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125908852277416030",
+      "url": "https://x.com/mazzel_official/status/2125908852277416030",
+      "handle": "mazzel_official",
+      "text": "2026.11.26\nMAZZEL 2nd Fan Meeting\n-Play at the MUZEUM Vol.2-\n大阪国際会議場 メインホール\n\nありがとうございました🐙\n\n#Play_at_the_MUZEUM2\n#MAZZEL",
+      "likes": 1580,
+      "rts": 290,
+      "replies": 2,
+      "views": 13970,
+      "time": "2026-11-26T11:05:42Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125907700290834856",
+      "url": "https://x.com/H_KAGAMI2434/status/2125907700290834856",
+      "handle": "H_KAGAMI2434",
+      "text": "少なくとも外で！",
+      "likes": 2137,
+      "rts": 473,
+      "replies": 30,
+      "views": 29771,
+      "time": "2026-11-26T11:01:07Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125907433763852416",
+      "url": "https://x.com/SixTONES_SME/status/2125907433763852416",
+      "handle": "SixTONES_SME",
+      "text": "SixTONESが渋谷スクランブルスクエアの\n #Spotify (@SpotifyJP)ビジョンに登場！\nSixTONESがこれまでリリースしてきた全303曲を\nSpotifyでお楽しみください！\n\n📅放映期間：11/29(日)まで\n\n🎧Listen on Spotify\nhttps://open.spotify.com/intl-ja/artist/7dhueqtbx2NVq1leXyqaNl\n\n#SixTONES_全曲配信",
+      "likes": 7364,
+      "rts": 1342,
+      "replies": 0,
+      "views": 74924,
+      "time": "2026-11-26T11:00:04Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125907728686309616",
+      "url": "https://x.com/jpapachannel/status/2125907728686309616",
+      "handle": "jpapachannel",
+      "text": "駅でカバン開けたら、緑のこの子が転がって焦った。すっごい見られた",
+      "likes": 1764,
+      "rts": 247,
+      "replies": 266,
+      "views": 10926,
+      "time": "2026-11-26T11:01:14Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125907434225238430",
+      "url": "https://x.com/imoko_iimo/status/2125907434225238430",
+      "handle": "imoko_iimo",
+      "text": "一歩も動かなくていい、これは無敵",
+      "likes": 1476,
+      "rts": 212,
+      "replies": 31,
+      "views": 11843,
+      "time": "2026-11-26T11:00:04Z",
+      "query": "エンタメ"
+    }
+  ]
+}
