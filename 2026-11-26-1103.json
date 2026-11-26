@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ゲーム",
+  "genres": [
+    "ゲーム"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T02:03:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2125352269927633130",
+      "url": "https://x.com/denfaminicogame/status/2125352269927633130",
+      "handle": "denfaminicogame",
+      "text": "【最大4人】“魔法大学”に通う期待の生活シミュレーションゲーム『Witchbrook』が開発完了。2027年1月28日にリリースへ\nhttps://news.denfaminicogamer.jp/news/261125a\n\nポーション調合、占星術、タロットなどの授業で腕を磨いて立派な魔法使いに。デートにバイト、天体観測と学生生活は大忙し。もちろん“ほうき”で空も飛べる",
+      "likes": 21521,
+      "rts": 5209,
+      "replies": 16,
+      "views": 1315077,
+      "time": "2026-11-24T22:14:02Z",
+      "query": "ゲーム"
+    },
+    {
+      "id": "2125245590154223905",
+      "url": "https://x.com/Amzk0303/status/2125245590154223905",
+      "handle": "Amzk0303",
+      "text": "(基本的に信頼してこういうのはお任せして報告いらないですって言ってるから\nいいんですが)\n\nこのゲームなにっ！？！？\nアオのハコゲームなってる？！？！すごい\n背景綺麗だな！！！！？\nもっとアップルパイあってもよくない？",
+      "likes": 5013,
+      "rts": 412,
+      "replies": 18,
+      "views": 350711,
+      "time": "2026-11-24T15:10:08Z",
+      "query": "ゲーム"
+    },
+    {
+      "id": "2125429906154881211",
+      "url": "https://x.com/famitsu/status/2125429906154881211",
+      "handle": "famitsu",
+      "text": "【最大4人】巨大ロボを操縦する協力ゲーム『Titan Crew』発表。近日Steamでアーリーアクセス予定\nhttps://www.famitsu.com/article/202611/94987\n\n操作マニュアルは全112ページ。全長27メートルの巨大機械“MULE”に乗り込み、操縦や発電機の管理、機体の修理などを分担。仲間と協力しながら、荒廃した谷の復興を目指す。",
+      "likes": 3124,
+      "rts": 789,
+      "replies": 8,
+      "views": 221981,
+      "time": "2026-11-25T03:22:32Z",
+      "query": "ゲーム"
+    },
+    {
+      "id": "2125062007791722611",
+      "url": "https://x.com/denfaminicogame/status/2125062007791722611",
+      "handle": "denfaminicogame",
+      "text": "読者投票で決める 「推したいゲーム大賞2026」実施します！\nhttps://news.denfaminicogamer.jp/kikakuthetower/261124a\n\n2026年発売のゲームであなたが思う「面白かった」「応援したい」「好き！」＝"推したい"ゲームはなんですか？\n回答者の中から3名様に「Amazonギフト券1万円分」をプレゼントいたします！",
+      "likes": 1196,
+      "rts": 1748,
+      "replies": 361,
+      "views": 229673,
+      "time": "2026-11-24T03:00:39Z",
+      "query": "ゲーム"
+    },
+    {
+      "id": "2125519987628773840",
+      "url": "https://x.com/game_daisuki14/status/2125519987628773840",
+      "handle": "game_daisuki14",
+      "text": "鍵を開けるゲーム作りました。\n(ホラー要素あり)\n失敗し続けると、、、\n\nhttps://asobi-dojo.com/kagi-akero/\n\n#鍵を開けろ #gamedev #ゲーム制作",
+      "likes": 1141,
+      "rts": 105,
+      "replies": 17,
+      "views": 168286,
+      "time": "2026-11-25T09:20:29Z",
+      "query": "ゲーム"
+    },
+    {
+      "id": "2125700725552595376",
+      "url": "https://x.com/kaerunrun26/status/2125700725552595376",
+      "handle": "kaerunrun26",
+      "text": "ゲーム誘われて2時間くらいしたあと\n他のフレンドと約束してあるって感じな人まじで苦手かも\nそれなら誘わないで欲しいタイプだ私😂",
+      "likes": 2167,
+      "rts": 133,
+      "replies": 30,
+      "views": 407093,
+      "time": "2026-11-25T21:18:41Z",
+      "query": "ゲーム"
+    }
+  ]
+}
