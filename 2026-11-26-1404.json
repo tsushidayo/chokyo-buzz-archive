@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T05:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2125816688189067309",
+      "url": "https://x.com/unkochan1234567/status/2125816688189067309",
+      "handle": "unkochan1234567",
+      "text": "ハイゲまであと2日！",
+      "likes": 1282,
+      "rts": 186,
+      "replies": 27,
+      "views": 33139,
+      "time": "2026-11-26T04:59:28Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125814605108879755",
+      "url": "https://x.com/jr_official_X/status/2125814605108879755",
+      "handle": "jr_official_X",
+      "text": "今日放送の『 #ぽかぽか 』に \n木曜レギュラーとしてKEY TO LITより\n#井上瑞稀 が生出演いたしました👦🔑❤\n\nご覧いただいた皆さま、ありがとうございました👀🌈\n\n来週の木曜日もよろしくお願いします🍳\n\n#KEYTOLIT",
+      "likes": 1710,
+      "rts": 345,
+      "replies": 2,
+      "views": 27198,
+      "time": "2026-11-26T04:51:12Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125812315039953085",
+      "url": "https://x.com/official_jo1/status/2125812315039953085",
+      "handle": "official_jo1",
+      "text": "[#木全翔也]\n\n学生役まだいけそう？？😎\n\n#AAO\n#JO1 #SYOYA",
+      "likes": 3007,
+      "rts": 699,
+      "replies": 36,
+      "views": 19118,
+      "time": "2026-11-26T04:42:06Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125811994955821458",
+      "url": "https://x.com/shirakamifubuki/status/2125811994955821458",
+      "handle": "shirakamifubuki",
+      "text": "よしお？？？\n小島？？？\nﾟ(^\u0e34๪^\u0e34*)ﾉ＜ｵｯﾊｯﾊｯｰ",
+      "likes": 1068,
+      "rts": 132,
+      "replies": 119,
+      "views": 32959,
+      "time": "2026-11-26T04:40:49Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125813948318659041",
+      "url": "https://x.com/ui_shig/status/2125813948318659041",
+      "handle": "ui_shig",
+      "text": "オータムいっぱい投稿してくださってありがとう🍂\n配信は29日（日）にやろうかなと思っています！",
+      "likes": 794,
+      "rts": 130,
+      "replies": 26,
+      "views": 23511,
+      "time": "2026-11-26T04:48:35Z",
+      "query": "エンタメ"
+    }
+  ]
+}
