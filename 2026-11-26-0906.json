@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T00:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2125732185298849892",
+      "url": "https://x.com/nino_honmono/status/2125732185298849892",
+      "handle": "nino_honmono",
+      "text": "やっと皆様にお伝え出来る日を迎えました😍\nこれからの続報も雄町下さい🙇‍♂️",
+      "likes": 17302,
+      "rts": 1894,
+      "replies": 852,
+      "views": 192978,
+      "time": "2026-11-25T23:23:41Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125741325790204176",
+      "url": "https://x.com/Equal_LOVE_12/status/2125741325790204176",
+      "handle": "Equal_LOVE_12",
+      "text": "【齋藤樹愛羅 Happy birthday🎂✨】\n\n本日、誕生日を迎えた齋藤樹愛羅の\n生誕記念特設サイトがOPEN💗\n\nFC会員様限定で\nおめでとうメッセージも募集します💌\n\n▼特設サイトはこちら\nhttps://equal-love.jp/feature/specialsite_saitokiara_birthday_2026\n\nぜひチェックしてください！\n\n#イコラブ",
+      "likes": 1003,
+      "rts": 194,
+      "replies": 3,
+      "views": 15252,
+      "time": "2026-11-26T00:00:01Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125741574344864052",
+      "url": "https://x.com/AORINGOHUZIN/status/2125741574344864052",
+      "handle": "AORINGOHUZIN",
+      "text": "【TV出演情報📺】\n\n12月1日(火) 5:25から放送の\nフジテレビ系「めざましテレビ」にて\nMrs. GREEN APPLE「家庭画報」の表紙撮影に密着した様子が放送予定となります☀️\n\n3人が着物姿で初めて雑誌の表紙を飾る、\n2027年1月号特別表紙版の撮影になります👘\n\n皆さま、お楽しみに！\n\n▼「家庭画報」ご予約はこちら\nhttps://t.co/lBC6HtjIe9\n\n※生放送のため、急なニュースなどにより放送内容・予定が変更になる場合があります。\n\n#ミセスPOPS\n#家庭画報\n#めざましテレビ",
+      "likes": 930,
+      "rts": 177,
+      "replies": 17,
+      "views": 14732,
+      "time": "2026-11-26T00:01:00Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2125728990992445533",
+      "url": "https://x.com/AZKi_VDiVA/status/2125728990992445533",
+      "handle": "AZKi_VDiVA",
+      "text": "おはあずき☀️今日は夜にあずいろコラボあります…✌️",
+      "likes": 2619,
+      "rts": 416,
+      "replies": 390,
+      "views": 32421,
+      "time": "2026-11-25T23:11:00Z",
+      "query": "エンタメ"
+    }
+  ]
+}
