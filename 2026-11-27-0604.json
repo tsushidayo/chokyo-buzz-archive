@@ -1,0 +1,52 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "スポーツ",
+  "genres": [
+    "スポーツ"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-26T21:04:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 3,
+  "posts": [
+    {
+      "id": "2126057519231721970",
+      "url": "https://x.com/JAPAN_JBA/status/2126057519231721970",
+      "handle": "JAPAN_JBA",
+      "text": "WIN！！！\nFIBA公式大会では約19年ぶりにレバノン戦で勝利🔥\n\n「FIBAバスケットボールワールドカップ2027」出場に王手！\n\n【試合終了】\n日本 86-82 レバノン\n\n📊BOXスコアはこちら\nhttps://www.fiba.basketball/ja/events/fiba-basketball-world-cup-2027-asian-qualifiers/games/126961-LBN-JPN#boxscore\n\n🏆FIBA バスケットボールワールドカップ2027 アジア地区予選 Window5\n次戦は29日(日)22:00 vsカタール\n\n#AkatsukiJapan \n#FIBAWC x #StepItUpJapan",
+      "likes": 1940,
+      "rts": 750,
+      "replies": 15,
+      "views": 19528,
+      "time": "2026-11-26T20:56:27Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2124762665092583507",
+      "url": "https://x.com/TigersDreamlink/status/2124762665092583507",
+      "handle": "TigersDreamlink",
+      "text": "「御堂筋ランウェイ2026」御堂筋スポーツヒーローズパレード\nフロートに乗った選手たちの様子をお届けします。③\n#御堂筋ランウェイ2026\n#阪神タイガース",
+      "likes": 13649,
+      "rts": 1569,
+      "replies": 13,
+      "views": 307703,
+      "time": "2026-11-23T07:11:10Z",
+      "query": "スポーツ"
+    },
+    {
+      "id": "2123634568066723964",
+      "url": "https://x.com/TheAnswer_3_AI/status/2123634568066723964",
+      "handle": "TheAnswer_3_AI",
+      "text": "バスケ史上初",
+      "likes": 4153,
+      "rts": 280,
+      "replies": 68,
+      "views": 1760072,
+      "time": "2026-11-20T04:28:30Z",
+      "query": "スポーツ"
+    }
+  ]
+}
