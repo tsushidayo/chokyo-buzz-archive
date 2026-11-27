@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "アイドル",
+  "genres": [
+    "アイドル"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-27T12:08:07.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2126285477494096079",
+      "url": "https://x.com/AORINGOHUZIN/status/2126285477494096079",
+      "handle": "AORINGOHUZIN",
+      "text": "𝐌𝐫𝐬. 𝐆𝐑𝐄𝐄𝐍 𝐀𝐏𝐏𝐋𝐄\nプロジェクト𝟜\n𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐮𝐬𝐢𝐜 𝐕𝐢𝐝𝐞𝐨\n⁡\nhttps://www.youtube.com/watch?v=Rmskp6rQxF8&feature=youtu.be\n⁡\n#ミセスPOPS\n#プロジェクト4\n#Project4",
+      "likes": 2222,
+      "rts": 401,
+      "replies": 7,
+      "views": 26381,
+      "time": "2026-11-27T12:02:16Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126285318412554411",
+      "url": "https://x.com/suisei_hosimati/status/2126285318412554411",
+      "handle": "suisei_hosimati",
+      "text": "二日間かけての長丁場収録が終わってルンルンです🎶🎶🎶🎶\n魔の11月を乗り込えた…………！！！！！\n\n早く告知したいなーーー🎶🎶🎶🎶🎶",
+      "likes": 1311,
+      "rts": 289,
+      "replies": 176,
+      "views": 28099,
+      "time": "2026-11-27T12:01:39Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126285067916099922",
+      "url": "https://x.com/jr_official_X/status/2126285067916099922",
+      "handle": "jr_official_X",
+      "text": "【🎶 TikTok更新】\n\nNEWSさんの背中を見て、沢山のことを学ばせていただきました。\nその大きな背中を追いかけながら、これからもアイドルとして生きていきます。\n#青木潑平\n#生きろ #NEWS \nhttps://www.tiktok.com/@jr_official_tiktok/video/7712818619599686913?_r=1&_t=ZS-9BknCvgGN4o",
+      "likes": 401,
+      "rts": 82,
+      "replies": 0,
+      "views": 22293,
+      "time": "2026-11-27T12:00:39Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126284947963187697",
+      "url": "https://x.com/iLiFE_official/status/2126284947963187697",
+      "handle": "iLiFE_official",
+      "text": "【新アー写公開】\n\nあいす 【白】@ice_icol \n心花りり【赤】@iLiFE_riri \n若葉のあ【緑】@iLiFE_wakaba \n虹羽みに【水色】@iLiFE_mini \n福丸うさ【黄】@iLiFE_fukumaru \n小熊まむ【橙】 @iLiFE_koguma\n空詩かれん【青】 @iLiFE_karen \n純嶺みき【紫】@iLiFE_sumire \n真守みゅう【ピンク】 @iLiFE_mew\n\n「私と貴方で作る、アイドルライフ！」\n\n#iLiFE",
+      "likes": 4360,
+      "rts": 1211,
+      "replies": 106,
+      "views": 50452,
+      "time": "2026-11-27T12:00:10Z",
+      "query": "アイドル"
+    }
+  ]
+}
