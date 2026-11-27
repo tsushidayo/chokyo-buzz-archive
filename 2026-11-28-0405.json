@@ -1,0 +1,64 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "1d",
+  "collectedAt": "2026-11-27T19:08:40.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 4,
+  "posts": [
+    {
+      "id": "2126379908327002221",
+      "url": "https://x.com/stylishnoob/status/2126379908327002221",
+      "handle": "stylishnoob",
+      "text": "どわーw",
+      "likes": 1346,
+      "rts": 93,
+      "replies": 48,
+      "views": 54119,
+      "time": "2026-11-27T18:17:31Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126365314166485469",
+      "url": "https://x.com/stylishnoob/status/2126365314166485469",
+      "handle": "stylishnoob",
+      "text": "うおw",
+      "likes": 2179,
+      "rts": 122,
+      "replies": 30,
+      "views": 106028,
+      "time": "2026-11-27T17:19:31Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126351412791796021",
+      "url": "https://x.com/stylishnoob/status/2126351412791796021",
+      "handle": "stylishnoob",
+      "text": "目が覚めてしまった\nまずい",
+      "likes": 3291,
+      "rts": 106,
+      "replies": 38,
+      "views": 116834,
+      "time": "2026-11-27T16:24:17Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126335919762592056",
+      "url": "https://x.com/yukihanalamy/status/2126335919762592056",
+      "handle": "yukihanalamy",
+      "text": "デスマウンテンめっちゃ怖かった～！！！！！！😢みんなのお陰でクリアできました！！ありがとう！！！",
+      "likes": 1752,
+      "rts": 256,
+      "replies": 292,
+      "views": 36886,
+      "time": "2026-11-27T15:22:43Z",
+      "query": "エンタメ"
+    }
+  ]
+}
