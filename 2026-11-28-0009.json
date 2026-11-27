@@ -1,0 +1,76 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "アイドル",
+  "genres": [
+    "アイドル"
+  ],
+  "period": "day",
+  "collectedAt": "2026-11-27T15:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 5,
+  "posts": [
+    {
+      "id": "2126331243365351741",
+      "url": "https://x.com/SAK_SAK_SAKUMA/status/2126331243365351741",
+      "handle": "SAK_SAK_SAKUMA",
+      "text": "武井さんめっちゃいい演技するな、、\n#真田十勇士",
+      "likes": 1727,
+      "rts": 125,
+      "replies": 48,
+      "views": 39583,
+      "time": "2026-11-27T15:04:08Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126330970840383895",
+      "url": "https://x.com/hikki_staff/status/2126330970840383895",
+      "handle": "hikki_staff",
+      "text": "SixTONES\n\nCloser\nhttps://SixTONES.lnk.to/Closer\n\n宇多田ヒカル\n初の楽曲提供&プロデュース作品です\n\n是非お聴きください\n\n#SixTONES_Closer #SixTONES_IMMA\n#HikaruUtada\n@SixTONES_SME  @utadahikaru",
+      "likes": 8075,
+      "rts": 2971,
+      "replies": 9,
+      "views": 56418,
+      "time": "2026-11-27T15:03:03Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126330924409540612",
+      "url": "https://x.com/SAK_SAK_SAKUMA/status/2126330924409540612",
+      "handle": "SAK_SAK_SAKUMA",
+      "text": "あぁ、、\nってガチで声出た、、\n#真田十勇士",
+      "likes": 1894,
+      "rts": 146,
+      "replies": 29,
+      "views": 42024,
+      "time": "2026-11-27T15:02:52Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126330694775558522",
+      "url": "https://x.com/SAK_SAK_SAKUMA/status/2126330694775558522",
+      "handle": "SAK_SAK_SAKUMA",
+      "text": "ああ、、目が、、\n#真田十勇士",
+      "likes": 2113,
+      "rts": 122,
+      "replies": 19,
+      "views": 46823,
+      "time": "2026-11-27T15:01:57Z",
+      "query": "アイドル"
+    },
+    {
+      "id": "2126330593797616011",
+      "url": "https://x.com/SAK_SAK_SAKUMA/status/2126330593797616011",
+      "handle": "SAK_SAK_SAKUMA",
+      "text": "おお！！三好激アツ！！！！\n#真田十勇士",
+      "likes": 1789,
+      "rts": 138,
+      "replies": 5,
+      "views": 42666,
+      "time": "2026-11-27T15:01:33Z",
+      "query": "アイドル"
+    }
+  ]
+}
