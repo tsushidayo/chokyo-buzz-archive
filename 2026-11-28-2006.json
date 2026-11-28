@@ -1,0 +1,100 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "VTuber",
+  "genres": [
+    "VTuber"
+  ],
+  "period": "day",
+  "collectedAt": "2026-11-28T11:06:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2126632636731019338",
+      "url": "https://x.com/rai_173/status/2126632636731019338",
+      "handle": "rai_173",
+      "text": "【初配信】皆様へ｜「「はじめまして、双子です。」」【リュール・ファクトゥール / ロビュスト・ファクトゥール  / にじさんじ】 https://www.youtube.com/live/ouiIAmLKftA?si=UiUrnfUKsGMnMhYU @YouTubeより",
+      "likes": 1674,
+      "rts": 266,
+      "replies": 9,
+      "views": 36355,
+      "time": "2026-11-28T11:01:46Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126632263005950318",
+      "url": "https://x.com/honmono_ibrahim/status/2126632263005950318",
+      "handle": "honmono_ibrahim",
+      "text": "帰り遅くなりそうだから帰ったら連絡する",
+      "likes": 2254,
+      "rts": 338,
+      "replies": 103,
+      "views": 35094,
+      "time": "2026-11-28T11:00:17Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126632211667390630",
+      "url": "https://x.com/suisei_hosimati/status/2126632211667390630",
+      "handle": "suisei_hosimati",
+      "text": "/／\n　NHK AM「ぶいあーる！」\n　今夜9時5分から📻\n\\\uff3c\n\n今週のゲストは…\n\n#あおぎり高校 \n💜#音霊魂子 @tamako_aogiri さん☪ \n🦋#千代浦蝶美 @tiyoura_tiyomi さん💗 \n\n🔽放送はこちら\nhttps://www.nhk.or.jp/radio/\n\n推し曲やメッセージは #ぶいあーる で投稿してね！",
+      "likes": 707,
+      "rts": 146,
+      "replies": 10,
+      "views": 29913,
+      "time": "2026-11-28T11:00:04Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126602006886596814",
+      "url": "https://x.com/nekogoing/status/2126602006886596814",
+      "handle": "nekogoing",
+      "text": "慈愛の怪盗、現る",
+      "likes": 6091,
+      "rts": 834,
+      "replies": 32,
+      "views": 106735,
+      "time": "2026-11-28T09:00:03Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126526763283169302",
+      "url": "https://x.com/WW_JP_Official/status/2126526763283169302",
+      "handle": "WW_JP_Official",
+      "text": "『魔法使いの夜』公開おめでとうございます！\n応援イラストをお届けします✨\n \n映画『魔法使いの夜』の上映劇場では、\n一部劇場にて『鳴潮』のCMも放映中！\n \nご鑑賞の際はぜひチェックしてみてください🎬\n \n#鳴潮 #魔法使いの夜",
+      "likes": 58110,
+      "rts": 12159,
+      "replies": 172,
+      "views": 1263617,
+      "time": "2026-11-28T04:01:03Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126630626317214156",
+      "url": "https://x.com/BEFIRSTofficial/status/2126630626317214156",
+      "handle": "BEFIRSTofficial",
+      "text": "2026.11.28\n日本テレビ系「ベストアーティスト2026」\n@musicday_ntv\n\n▼Missing -Music Video- (Move ver.)\nhttps://www.youtube.com/watch?v=I_6m6_Ylyd8&feature=youtu.be\n\n#ベストアーティスト2026\n#BF_Missing\n#BEFIRST",
+      "likes": 7006,
+      "rts": 2178,
+      "replies": 63,
+      "views": 70489,
+      "time": "2026-11-28T10:53:46Z",
+      "query": "VTuber"
+    },
+    {
+      "id": "2126629698101014844",
+      "url": "https://x.com/nijisanji_app/status/2126629698101014844",
+      "handle": "nijisanji_app",
+      "text": "🎉#FAC2RS このあと20:00初配信！\n📮 ━・━・━・━・━・━・━ ✉\n\n11/28(土)20:00〜初配信スタート！\n\nリュール・ファクトゥール(@Lueur_Facteur)\nロビュスト・ファクトゥール(@Robuste_Facteur)\n2名そろって実施！\n\n▼待機所\nhttps://www.youtube.com/live/ouiIAmLKftA?feature=share\n\n#にじさんじデビュー  #ファクトゥールズ",
+      "likes": 6703,
+      "rts": 2142,
+      "replies": 0,
+      "views": 182189,
+      "time": "2026-11-28T10:50:05Z",
+      "query": "VTuber"
+    }
+  ]
+}
