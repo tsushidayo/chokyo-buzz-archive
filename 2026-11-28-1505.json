@@ -1,0 +1,103 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース",
+    "社会",
+    "政治",
+    "エンタメ"
+  ],
+  "period": "day",
+  "collectedAt": "2026-11-28T06:05:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 7,
+  "posts": [
+    {
+      "id": "2126548862227894697",
+      "url": "https://x.com/livedoornews/status/2126548862227894697",
+      "handle": "livedoornews",
+      "text": "【賛否】産休取得の女性市長、ボーナス全額受給「出産を理由に報酬カットを強いられる前例は作りたくない」\nhttps://news.livedoor.com/article/detail/32920190/\n\n26日、京都府八幡市の川田翔子市長は約4ヶ月の産休期間分も含め、今冬の期末手当（約189万7000円）を満額受け取る方針を表明。SNSでは賛否の声が飛び交っている。",
+      "likes": 171,
+      "rts": 35,
+      "replies": 30,
+      "views": 65219,
+      "time": "2026-11-28T05:28:52Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126473051416170556",
+      "url": "https://x.com/andouhiroshi/status/2126473051416170556",
+      "handle": "andouhiroshi",
+      "text": "これ、日本国籍を有する者に限定しないと大変なことになるのでは？自民党にそこまでやれるかな？\n\n第3子以降に1000万円　自民党が政府に提言へ（FNNプライムオンライン（フジテレビ系）） https://news.yahoo.co.jp/articles/5620a5edb99fe88cfa58647ad1f6b9ce7d2d744c",
+      "likes": 2777,
+      "rts": 857,
+      "replies": 184,
+      "views": 39120,
+      "time": "2026-11-28T00:27:38Z",
+      "query": "政治"
+    },
+    {
+      "id": "2126496790556135720",
+      "url": "https://x.com/ikomasanjou/status/2126496790556135720",
+      "handle": "ikomasanjou",
+      "text": "本日11：30～の「アンパンマンショー」は予定通り実施いたします。\n*急な雨により中止となる場合がございますので\nあらかじめご了承ください。\n地面（芝生)が濡れていますので、敷物を持参の上、ご観覧ください。\n#生駒山上遊園地\n#アンパンマン",
+      "likes": 21686,
+      "rts": 4336,
+      "replies": 94,
+      "views": 963301,
+      "time": "2026-11-28T02:01:57Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126529820322652565",
+      "url": "https://x.com/livedoornews/status/2126529820322652565",
+      "handle": "livedoornews",
+      "text": "【政府起用】YouTuber「ナオキマン」の降圧薬めぐる動画に厚労大臣「医学的根拠なし」\nhttps://news.livedoor.com/article/detail/32919994/\n\n政府が起用したナオキマン氏が動画内で「血圧を下げる薬が脳卒中の原因になる」といった疫学的な見解が述べられていることについて、上野厚労大臣は医学的根拠を否定した。",
+      "likes": 423,
+      "rts": 191,
+      "replies": 39,
+      "views": 76551,
+      "time": "2026-11-28T04:13:12Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126517238849241202",
+      "url": "https://x.com/Sankei_news/status/2126517238849241202",
+      "handle": "Sankei_news",
+      "text": "外国人10年で倍増の群馬県「治安風紀が乱れる」72％　受け入れ「適正規模」独自に調査 　日本を守れるか　人口戦略と外国人①\nhttps://www.sankei.com/article/20261128-OSBNR5BKTBOGZNOHLZSFSHYW5U/\n\n「本県も外国人の受け入れペースの適正化を考えていく必要がある」。山本一太知事は定例記者会見でこう切りだした。",
+      "likes": 634,
+      "rts": 272,
+      "replies": 63,
+      "views": 21603,
+      "time": "2026-11-28T03:23:13Z",
+      "query": "社会"
+    },
+    {
+      "id": "2126467873073946665",
+      "url": "https://x.com/22hurt/status/2126467873073946665",
+      "handle": "22hurt",
+      "text": "トイレがベルベットルームになった\n#ペルソナ",
+      "likes": 8370,
+      "rts": 2241,
+      "replies": 16,
+      "views": 308819,
+      "time": "2026-11-28T00:07:03Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126530797817749573",
+      "url": "https://x.com/_nishimurayuji_/status/2126530797817749573",
+      "handle": "_nishimurayuji_",
+      "text": "たすけてくれるぜ！\n#ごきげんぱんだ　#むしゃくしゃ\n#助ける　#ごきげん\n#にしむらゆうじ",
+      "likes": 1063,
+      "rts": 139,
+      "replies": 16,
+      "views": 18448,
+      "time": "2026-11-28T04:17:05Z",
+      "query": "エンタメ"
+    }
+  ]
+}
