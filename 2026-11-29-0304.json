@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "ニュース",
+  "genres": [
+    "ニュース"
+  ],
+  "period": "day",
+  "collectedAt": "2026-11-28T18:06:28.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2126607586153886021",
+      "url": "https://x.com/kanayabeats/status/2126607586153886021",
+      "handle": "kanayabeats",
+      "text": "酪農業界またも生産抑制を余儀なくされ困っております。\n\nどなた様も牛乳をコップ一杯\n\nいつもより多く飲んでくださると\n\n全国の酪農家が喜びます。",
+      "likes": 11971,
+      "rts": 3683,
+      "replies": 134,
+      "views": 196081,
+      "time": "2026-11-28T09:22:13Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126548862227894697",
+      "url": "https://x.com/livedoornews/status/2126548862227894697",
+      "handle": "livedoornews",
+      "text": "【賛否】産休取得の女性市長、ボーナス全額受給「出産を理由に報酬カットを強いられる前例は作りたくない」\nhttps://news.livedoor.com/article/detail/32920190/\n\n26日、京都府八幡市の川田翔子市長は約4ヶ月の産休期間分も含め、今冬の期末手当（約189万7000円）を満額受け取る方針を表明。SNSでは賛否の声が飛び交っている。",
+      "likes": 9233,
+      "rts": 1276,
+      "replies": 1380,
+      "views": 5180168,
+      "time": "2026-11-28T05:28:52Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126617733869752540",
+      "url": "https://x.com/shukan_bunshun/status/2126617733869752540",
+      "handle": "shukan_bunshun",
+      "text": "高市首相が脱法スキームで企業献金を受け取っていた〈大阪の建設会社グループから総額3000万円〉\n\nhttps://bunshun.jp/denshiban/articles/b15352?utm_source=twitter.com&utm_medium=social&utm_campaign=denshibanPublished\n\n#週刊文春",
+      "likes": 20776,
+      "rts": 8315,
+      "replies": 531,
+      "views": 480035,
+      "time": "2026-11-28T10:02:33Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126609986994491410",
+      "url": "https://x.com/hajimekakeru/status/2126609986994491410",
+      "handle": "hajimekakeru",
+      "text": "台湾のチョコバナナ攻めてんな",
+      "likes": 40417,
+      "rts": 4558,
+      "replies": 562,
+      "views": 1749480,
+      "time": "2026-11-28T09:31:46Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126736266146553966",
+      "url": "https://x.com/hypergameinfo/status/2126736266146553966",
+      "handle": "hypergameinfo",
+      "text": "#配信者ハイパーゲーム大会FINAL #ハイゲFINAL\n【DAY1終了時点】\n━━━━━━━━\n🔵k4sen 【28pt】\n🔴SHAKA 【30pt】\n🟡もこう 【26pt】\n🟢SEKI 【30pt】\n━━━━━━━━\n※裏ハイパーゲーム大会の結果を加算\n\nほぼ点数差がない状態に…\n優勝の行方は、明日のDAY2で決まる🔥\n\n📺無料生配信\nYouTube：https://t.co/Bc0f2gDomh\nTwitch：https://t.co/SiEELWbTIG",
+      "likes": 772,
+      "rts": 245,
+      "replies": 5,
+      "views": 24773,
+      "time": "2026-11-28T17:53:33Z",
+      "query": "ニュース"
+    },
+    {
+      "id": "2126645163481313501",
+      "url": "https://x.com/rinu_sub/status/2126645163481313501",
+      "handle": "rinu_sub",
+      "text": "針探しリベンジしたくね？！！？！",
+      "likes": 5887,
+      "rts": 1122,
+      "replies": 387,
+      "views": 57494,
+      "time": "2026-11-28T11:51:32Z",
+      "query": "ニュース"
+    }
+  ]
+}
