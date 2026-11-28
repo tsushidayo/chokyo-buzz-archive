@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "日常",
+  "genres": [
+    "日常"
+  ],
+  "period": "28d",
+  "collectedAt": "2026-11-28T15:07:31.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2126607586153886021",
+      "url": "https://x.com/kanayabeats/status/2126607586153886021",
+      "handle": "kanayabeats",
+      "text": "酪農業界またも生産抑制を余儀なくされ困っております。\n\nどなた様も牛乳をコップ一杯\n\nいつもより多く飲んでくださると\n\n全国の酪農家が喜びます。",
+      "likes": 8489,
+      "rts": 2708,
+      "replies": 103,
+      "views": 126539,
+      "time": "2026-11-28T09:22:13Z",
+      "query": "日常"
+    },
+    {
+      "id": "2126602006886596814",
+      "url": "https://x.com/nekogoing/status/2126602006886596814",
+      "handle": "nekogoing",
+      "text": "慈愛の怪盗、現る",
+      "likes": 9090,
+      "rts": 1161,
+      "replies": 38,
+      "views": 177228,
+      "time": "2026-11-28T09:00:03Z",
+      "query": "日常"
+    },
+    {
+      "id": "2126548862227894697",
+      "url": "https://x.com/livedoornews/status/2126548862227894697",
+      "handle": "livedoornews",
+      "text": "【賛否】産休取得の女性市長、ボーナス全額受給「出産を理由に報酬カットを強いられる前例は作りたくない」\nhttps://news.livedoor.com/article/detail/32920190/\n\n26日、京都府八幡市の川田翔子市長は約4カ月の産休期間分も含め、今冬の期末手当（約189万7000円）を満額受け取る方針を表明。SNSでは賛否の声が飛び交っている。",
+      "likes": 8656,
+      "rts": 1197,
+      "replies": 1307,
+      "views": 4684489,
+      "time": "2026-11-28T05:28:52Z",
+      "query": "日常"
+    },
+    {
+      "id": "2126682281830195456",
+      "url": "https://x.com/Kanae_2434/status/2126682281830195456",
+      "handle": "Kanae_2434",
+      "text": "ごめん；；GTA配信の予定だったんですけど寝ちゃってまして；；\nゲマズコラボは23：30からになります！",
+      "likes": 9794,
+      "rts": 1155,
+      "replies": 351,
+      "views": 166096,
+      "time": "2026-11-28T14:19:02Z",
+      "query": "日常"
+    },
+    {
+      "id": "2126651936544071727",
+      "url": "https://x.com/Ponzu_SHT/status/2126651936544071727",
+      "handle": "Ponzu_SHT",
+      "text": "なんでちいかわとFateで構図がかぶることがあるんだよ",
+      "likes": 8913,
+      "rts": 2680,
+      "replies": 16,
+      "views": 255308,
+      "time": "2026-11-28T12:18:27Z",
+      "query": "日常"
+    },
+    {
+      "id": "2126592028545097843",
+      "url": "https://x.com/hayashingo0125/status/2126592028545097843",
+      "handle": "hayashingo0125",
+      "text": "猫で鈴を奏でるジャンカズマ🔕️",
+      "likes": 8709,
+      "rts": 1495,
+      "replies": 9,
+      "views": 218157,
+      "time": "2026-11-28T08:20:24Z",
+      "query": "日常"
+    }
+  ]
+}
