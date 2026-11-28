@@ -1,0 +1,88 @@
+{
+  "source": "超教科書｜リアルタイムバズポスト",
+  "query": "エンタメ",
+  "genres": [
+    "エンタメ"
+  ],
+  "period": "day",
+  "collectedAt": "2026-11-28T14:10:00.000Z",
+  "target": 0,
+  "minLikes": 100,
+  "minViews": 10000,
+  "match": "and",
+  "count": 6,
+  "posts": [
+    {
+      "id": "2126678402279387256",
+      "url": "https://x.com/sakatansab/status/2126678402279387256",
+      "handle": "sakatansab",
+      "text": "坂田家飲み会11月ver\n#坂田です\nhttps://twitcasting.tv/sakatansab/?m843479196&src=movie",
+      "likes": 483,
+      "rts": 133,
+      "replies": 88,
+      "views": 10569,
+      "time": "2026-11-28T14:03:37Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126678365067460981",
+      "url": "https://x.com/Info_KnightX/status/2126678365067460981",
+      "handle": "Info_KnightX",
+      "text": "◆ - 　騎士X - Knight X - からのお知らせ 　- ◆\n\n 　 　 　騎士X - Knight X -\n 　  Combat Maid Official Goods\n 　 　 　 　  発売決定！\n\n📆受付期間\n12/5(土)17:00〜12/20(日)23:59まで\n\n▼商品ページはコチラ\nhttps://official-store.stpr.com/collections/knight-x-2026maid",
+      "likes": 940,
+      "rts": 597,
+      "replies": 33,
+      "views": 11170,
+      "time": "2026-11-28T14:03:28Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126678302257729787",
+      "url": "https://x.com/Mikuruasakura_/status/2126678302257729787",
+      "handle": "Mikuruasakura_",
+      "text": "気持ち悪いなこいつ",
+      "likes": 1089,
+      "rts": 120,
+      "replies": 60,
+      "views": 24333,
+      "time": "2026-11-28T14:03:13Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126678296318693434",
+      "url": "https://x.com/musicday_ntv/status/2126678296318693434",
+      "handle": "musicday_ntv",
+      "text": "🏆Best Artist 2026🏆\n\n5時間の生放送、最後までご覧いただきありがとうございました📺⚡️\nぜひ番組の感想をリプライで教えてください🎤\n\nTVer見逃し配信もスタート👇\nhttps://tver.jp/series/sr1i8xd8sc?utm_source=x&utm_medium=organic&utm_campaign=best-artist\n\n#ベストアーティスト2026",
+      "likes": 920,
+      "rts": 267,
+      "replies": 13,
+      "views": 17334,
+      "time": "2026-11-28T14:03:12Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126625763579601363",
+      "url": "https://x.com/yodobashi_kawa/status/2126625763579601363",
+      "handle": "yodobashi_kawa",
+      "text": "╲イベント開催記念🎈／\n\n12/5（土）6（日）11:00～18:00\n#ヨドバシ川崎 地下1階 家電売場で\nレコルト実演イベントを開催❗\n\n開催を記念して✨大人気❗\n「自動調理ポット ラージ」を\n抽選で1名様に🎁\n\n応募方法\n✅フォロー＆RP\n✅この商品で作りたい料理をリプライ\n✅12/4迄\n➡https://www.yodobashi.com/product/100000001009721971/",
+      "likes": 246,
+      "rts": 605,
+      "replies": 460,
+      "views": 17745,
+      "time": "2026-11-28T10:34:27Z",
+      "query": "エンタメ"
+    },
+    {
+      "id": "2126596882478620867",
+      "url": "https://x.com/kyoutojin_bot/status/2126596882478620867",
+      "handle": "kyoutojin_bot",
+      "text": "私が言うのもなんだけど\n\n「京都の料理は味が繊細すぎて～」\n\nみたいなこと言う人って何考えてるんだろうな\n\nたしかに懐石料理みたいな繊細な料理も多いけど、天下一品みたいな濃厚ラーメンとか餃子とかも大好きやん",
+      "likes": 859,
+      "rts": 108,
+      "replies": 38,
+      "views": 26793,
+      "time": "2026-11-28T08:39:41Z",
+      "query": "エンタメ"
+    }
+  ]
+}
